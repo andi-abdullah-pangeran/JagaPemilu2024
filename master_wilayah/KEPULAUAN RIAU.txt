@@ -1,0 +1,419 @@
+{"kode_cab":"2101","kode_kec":"210104","kode_kel":"2101041005","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"GUNUNG KIJANG","nama_kel":"KAWAL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210104","kode_kel":"2101042001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"GUNUNG KIJANG","nama_kel":"GUNUNG KIJANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210104","kode_kel":"2101042002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"GUNUNG KIJANG","nama_kel":"MALANG RAPAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210104","kode_kel":"2101042003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"GUNUNG KIJANG","nama_kel":"TELUK BAKAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210106","kode_kel":"2101061008","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN TIMUR","nama_kel":"KIJANG KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210106","kode_kel":"2101061009","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN TIMUR","nama_kel":"SUNGAI LEKOP","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210106","kode_kel":"2101061010","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN TIMUR","nama_kel":"GUNUNG LENGKUAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210106","kode_kel":"2101061011","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN TIMUR","nama_kel":"SUNGAI ENAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210107","kode_kel":"2101071001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN UTARA","nama_kel":"TANJUNG UBAN KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210107","kode_kel":"2101071002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN UTARA","nama_kel":"TANJUNG UBAN UTARA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210107","kode_kel":"2101071003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN UTARA","nama_kel":"TANJUNG UBAN SELATAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210107","kode_kel":"2101071011","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN UTARA","nama_kel":"TANJUNG UBAN TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210107","kode_kel":"2101072005","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN UTARA","nama_kel":"LANCANG KUNING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210108","kode_kel":"2101081006","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELUK BINTAN","nama_kel":"TEMBELING TANJUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210108","kode_kel":"2101082001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELUK BINTAN","nama_kel":"BINTAN BUYU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210108","kode_kel":"2101082002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELUK BINTAN","nama_kel":"PANGKIL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210108","kode_kel":"2101082003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELUK BINTAN","nama_kel":"PENAGA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210108","kode_kel":"2101082004","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELUK BINTAN","nama_kel":"PENGUJAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210108","kode_kel":"2101082005","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELUK BINTAN","nama_kel":"TEMBELING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101091001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"TELUK SEKUNI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101092002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"BATU LEPUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101092003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"KAMPUNG HILIR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101092004","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"KAMPUNG MELAYU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101092005","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"PULAU MENTEBUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101092006","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"PULAU PINANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101092007","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"KUKUP","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210109","kode_kel":"2101092008","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TAMBELAN","nama_kel":"PENGIKIK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210110","kode_kel":"2101101007","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELOK SEBONG","nama_kel":"KOTA BARU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210110","kode_kel":"2101102001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELOK SEBONG","nama_kel":"BERAKIT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210110","kode_kel":"2101102002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELOK SEBONG","nama_kel":"EKANG ANCULAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210110","kode_kel":"2101102003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELOK SEBONG","nama_kel":"PENGUDANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210110","kode_kel":"2101102004","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELOK SEBONG","nama_kel":"SEBONG LAGOI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210110","kode_kel":"2101102005","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELOK SEBONG","nama_kel":"SEBONG PEREH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210110","kode_kel":"2101102006","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TELOK SEBONG","nama_kel":"SRI BINTAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210112","kode_kel":"2101121004","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TOAPAYA","nama_kel":"TOAPAYA ASRI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210112","kode_kel":"2101122001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TOAPAYA","nama_kel":"TOAPAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210112","kode_kel":"2101122002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TOAPAYA","nama_kel":"TOAPAYA UTARA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210112","kode_kel":"2101122003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"TOAPAYA","nama_kel":"TOAPAYA SELATAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210113","kode_kel":"2101132001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"MANTANG","nama_kel":"MANTANG BARU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210113","kode_kel":"2101132002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"MANTANG","nama_kel":"MANTANG BESAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210113","kode_kel":"2101132003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"MANTANG","nama_kel":"MANTANG LAMA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210113","kode_kel":"2101132004","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"MANTANG","nama_kel":"DENDUN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210114","kode_kel":"2101142001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN PESISIR","nama_kel":"KELONG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210114","kode_kel":"2101142002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN PESISIR","nama_kel":"MAPUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210114","kode_kel":"2101142003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN PESISIR","nama_kel":"NUMBING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210114","kode_kel":"2101142004","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"BINTAN PESISIR","nama_kel":"AIR GELUBI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210115","kode_kel":"2101151003","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"SERI KUALA LOBAM","nama_kel":"TELUK LOBAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210115","kode_kel":"2101151005","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"SERI KUALA LOBAM","nama_kel":"TANJUNG PERMAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210115","kode_kel":"2101152001","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"SERI KUALA LOBAM","nama_kel":"BUSUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210115","kode_kel":"2101152002","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"SERI KUALA LOBAM","nama_kel":"TELUK SASAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2101","kode_kec":"210115","kode_kel":"2101152004","kode_prov":"21","nama_cab":"BINTAN","nama_kec":"SERI KUALA LOBAM","nama_kel":"KUALA SEMPANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210201","kode_kel":"2102011003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MORO","nama_kel":"MORO","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210201","kode_kel":"2102011010","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MORO","nama_kel":"MORO TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210201","kode_kel":"2102012004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MORO","nama_kel":"PAUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210201","kode_kel":"2102012009","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MORO","nama_kel":"JANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210201","kode_kel":"2102012014","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MORO","nama_kel":"PULAU MORO","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210202","kode_kel":"2102021001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR","nama_kel":"TANJUNGBATU BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210202","kode_kel":"2102021002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR","nama_kel":"TANJUNGBATU KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210202","kode_kel":"2102021009","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR","nama_kel":"GADING SARI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210202","kode_kel":"2102022004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR","nama_kel":"SEBESI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210202","kode_kel":"2102022005","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR","nama_kel":"SEI UNGAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210202","kode_kel":"2102022006","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR","nama_kel":"LUBUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210203","kode_kel":"2102031001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KARIMUN","nama_kel":"TANJUNG BALAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210203","kode_kel":"2102031002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KARIMUN","nama_kel":"TELUK AIR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210203","kode_kel":"2102031003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KARIMUN","nama_kel":"SUNGAI LAKAM TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210203","kode_kel":"2102031006","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KARIMUN","nama_kel":"LUBUK SEMUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210203","kode_kel":"2102031007","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KARIMUN","nama_kel":"TANJUNG BALAI KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210203","kode_kel":"2102031008","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KARIMUN","nama_kel":"SUNGAI LAKAM BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210204","kode_kel":"2102041001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL","nama_kel":"MERAL KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210204","kode_kel":"2102041002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL","nama_kel":"BARAN BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210204","kode_kel":"2102041003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL","nama_kel":"SEI RAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210204","kode_kel":"2102041006","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL","nama_kel":"BARAN TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210204","kode_kel":"2102041007","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL","nama_kel":"SUNGAI PASIR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210204","kode_kel":"2102041008","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL","nama_kel":"PARIT BENUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210205","kode_kel":"2102051001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"TEBING","nama_kel":"TEBING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210205","kode_kel":"2102051002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"TEBING","nama_kel":"TELUK UMA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210205","kode_kel":"2102051003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"TEBING","nama_kel":"KAPLING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210205","kode_kel":"2102051004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"TEBING","nama_kel":"PAMAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210205","kode_kel":"2102051008","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"TEBING","nama_kel":"HARJOSARI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210205","kode_kel":"2102052007","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"TEBING","nama_kel":"PONGKAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210206","kode_kel":"2102061001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BURU","nama_kel":"BURU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210206","kode_kel":"2102061002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BURU","nama_kel":"LUBUK PUDING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210206","kode_kel":"2102062003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BURU","nama_kel":"TANJUNG HUTAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210206","kode_kel":"2102062004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BURU","nama_kel":"TANJUNG BATU KECIL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210207","kode_kel":"2102071012","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR UTARA","nama_kel":"TANJUNGBERLIAN KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210207","kode_kel":"2102072003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR UTARA","nama_kel":"SEI UNGAR UTARA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210207","kode_kel":"2102072004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR UTARA","nama_kel":"TELUK RADANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210207","kode_kel":"2102072010","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR UTARA","nama_kel":"PERAYUN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210207","kode_kel":"2102072013","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR UTARA","nama_kel":"TANJUNGBERLIAN BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210208","kode_kel":"2102081001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR BARAT","nama_kel":"SAWANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210208","kode_kel":"2102082002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR BARAT","nama_kel":"SAWANG SELATAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210208","kode_kel":"2102082003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR BARAT","nama_kel":"SAWANG LAUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210208","kode_kel":"2102082004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR BARAT","nama_kel":"KUNDUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210208","kode_kel":"2102082005","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"KUNDUR BARAT","nama_kel":"GEMURUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210209","kode_kel":"2102092002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"DURAI","nama_kel":"SANGLAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210209","kode_kel":"2102092003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"DURAI","nama_kel":"TANJUNG KILANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210209","kode_kel":"2102092004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"DURAI","nama_kel":"SEMEMBANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210209","kode_kel":"2102092005","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"DURAI","nama_kel":"TELAGA TUJUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210210","kode_kel":"2102101001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL BARAT","nama_kel":"PASIR PANJANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210210","kode_kel":"2102101002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL BARAT","nama_kel":"DARUSSALAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210210","kode_kel":"2102102003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL BARAT","nama_kel":"PANGKE","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210210","kode_kel":"2102102004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"MERAL BARAT","nama_kel":"PANGKE BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210211","kode_kel":"2102111001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"UNGAR","nama_kel":"ALAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210211","kode_kel":"2102112002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"UNGAR","nama_kel":"BATU LIMAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210211","kode_kel":"2102112003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"UNGAR","nama_kel":"NGAL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210211","kode_kel":"2102112004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"UNGAR","nama_kel":"SUNGAIBULUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210212","kode_kel":"2102122001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BELAT","nama_kel":"SEBELE","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210212","kode_kel":"2102122002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BELAT","nama_kel":"LEBUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210212","kode_kel":"2102122003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BELAT","nama_kel":"PENARAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210212","kode_kel":"2102122004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BELAT","nama_kel":"SEI ASAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210212","kode_kel":"2102122005","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BELAT","nama_kel":"TEBIAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210212","kode_kel":"2102122006","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"BELAT","nama_kel":"DEGONG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210213","kode_kel":"2102132001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SELAT GELAM","nama_kel":"PARIT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210213","kode_kel":"2102132002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SELAT GELAM","nama_kel":"TULANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210213","kode_kel":"2102132003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SELAT GELAM","nama_kel":"SELAT MENDAUN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210214","kode_kel":"2102142001","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SUGIE BESAR","nama_kel":"SUGIE","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210214","kode_kel":"2102142002","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SUGIE BESAR","nama_kel":"NIUR PERMAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210214","kode_kel":"2102142003","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SUGIE BESAR","nama_kel":"KEBAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210214","kode_kel":"2102142004","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SUGIE BESAR","nama_kel":"RAWA JAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210214","kode_kel":"2102142005","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SUGIE BESAR","nama_kel":"TANJUNG PELANDUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210214","kode_kel":"2102142006","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SUGIE BESAR","nama_kel":"BULUH PATAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2102","kode_kec":"210214","kode_kel":"2102142007","kode_prov":"21","nama_cab":"KARIMUN","nama_kec":"SUGIE BESAR","nama_kel":"SELAT MIE","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210304","kode_kel":"2103041003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"MIDAI","nama_kel":"SABANG BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210304","kode_kel":"2103042001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"MIDAI","nama_kel":"SEBELAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210304","kode_kel":"2103042005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"MIDAI","nama_kel":"AIR PUTIH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210305","kode_kel":"2103051008","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BARAT","nama_kel":"SEDANAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210305","kode_kel":"2103052007","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BARAT","nama_kel":"MEKAR JAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210305","kode_kel":"2103052012","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BARAT","nama_kel":"BINJAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210305","kode_kel":"2103052013","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BARAT","nama_kel":"PIANTENGAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210305","kode_kel":"2103052015","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BARAT","nama_kel":"SELAUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210306","kode_kel":"2103061003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN","nama_kel":"SERASAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210306","kode_kel":"2103062002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN","nama_kel":"KAMPUNG HILIR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210306","kode_kel":"2103062005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN","nama_kel":"BATU BERIAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210306","kode_kel":"2103062006","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN","nama_kel":"TANJUNG SETELUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210306","kode_kel":"2103062007","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN","nama_kel":"TANJUNG BALAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210306","kode_kel":"2103062010","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN","nama_kel":"PANGKALAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210306","kode_kel":"2103062011","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN","nama_kel":"JERMALIK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210307","kode_kel":"2103071011","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR","nama_kel":"RANAI KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210307","kode_kel":"2103071016","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR","nama_kel":"RANAI DARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210307","kode_kel":"2103071017","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR","nama_kel":"BANDARSYAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210307","kode_kel":"2103071019","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR","nama_kel":"BATU HITAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210307","kode_kel":"2103072002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR","nama_kel":"SUNGAI ULU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210307","kode_kel":"2103072004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR","nama_kel":"SEPEMPANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210307","kode_kel":"2103072014","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR","nama_kel":"BATU GAJAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210308","kode_kel":"2103082001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN UTARA","nama_kel":"KELARIK UTARA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210308","kode_kel":"2103082002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN UTARA","nama_kel":"KELARIK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210308","kode_kel":"2103082004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN UTARA","nama_kel":"KELARIK AIR MALI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210308","kode_kel":"2103082005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN UTARA","nama_kel":"TELUK BUTON","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210308","kode_kel":"2103082006","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN UTARA","nama_kel":"BELAKANG GUNUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210308","kode_kel":"2103082008","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN UTARA","nama_kel":"GUNUNG DURIAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210309","kode_kel":"2103092001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUBI","nama_kel":"SUBI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210309","kode_kel":"2103092002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUBI","nama_kel":"SUBI BESAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210309","kode_kel":"2103092003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUBI","nama_kel":"MELIAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210309","kode_kel":"2103092005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUBI","nama_kel":"TERAYAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210309","kode_kel":"2103092007","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUBI","nama_kel":"SUBI BESAR TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210309","kode_kel":"2103092008","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUBI","nama_kel":"MELIAH SELATAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210310","kode_kel":"2103102001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU LAUT","nama_kel":"TANJUNG PALA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210310","kode_kel":"2103102002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU LAUT","nama_kel":"AIR PAYANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210310","kode_kel":"2103102003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU LAUT","nama_kel":"KADUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210311","kode_kel":"2103112001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA","nama_kel":"SABANG MAWANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210311","kode_kel":"2103112003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA","nama_kel":"SEDEDAP","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210311","kode_kel":"2103112004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA","nama_kel":"TANJUNG BATANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210311","kode_kel":"2103112005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA","nama_kel":"SERANTAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210311","kode_kel":"2103112006","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA","nama_kel":"SABANG MAWANG BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210311","kode_kel":"2103112010","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA","nama_kel":"TELUK LABUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210315","kode_kel":"2103152001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR LAUT","nama_kel":"TANJUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210315","kode_kel":"2103152002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR LAUT","nama_kel":"CERUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210315","kode_kel":"2103152003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR LAUT","nama_kel":"KELANGA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210315","kode_kel":"2103152004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR LAUT","nama_kel":"PENGADAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210315","kode_kel":"2103152005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR LAUT","nama_kel":"SEBADAI ULU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210315","kode_kel":"2103152006","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR LAUT","nama_kel":"LIMAU MANIS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210315","kode_kel":"2103152007","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TIMUR LAUT","nama_kel":"SELEMAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210316","kode_kel":"2103162001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TENGAH","nama_kel":"TAPAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210316","kode_kel":"2103162002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TENGAH","nama_kel":"HARAPAN JAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210316","kode_kel":"2103162003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN TENGAH","nama_kel":"AIR LENGIT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210318","kode_kel":"2103182001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN SELATAN","nama_kel":"CEMAGA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210318","kode_kel":"2103182002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN SELATAN","nama_kel":"CEMAGA SELATAN (SETENGAR)","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210318","kode_kel":"2103182003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN SELATAN","nama_kel":"CEMAGA UTARA (SINGGANG BULAN)","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210318","kode_kel":"2103182004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN SELATAN","nama_kel":"CEMAGA TENGAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210319","kode_kel":"2103192001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN TIMUR","nama_kel":"ARUNG AYAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210319","kode_kel":"2103192002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN TIMUR","nama_kel":"AIR NUSA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210319","kode_kel":"2103192004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN TIMUR","nama_kel":"AIR RINGAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210319","kode_kel":"2103192005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SERASAN TIMUR","nama_kel":"PAYAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210320","kode_kel":"2103202001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BATUBI","nama_kel":"BATUBI JAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210320","kode_kel":"2103202002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BATUBI","nama_kel":"GUNUNG PUTRI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210320","kode_kel":"2103202003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BATUBI","nama_kel":"SEDARAT BARU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210320","kode_kel":"2103202004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BATUBI","nama_kel":"SEDANAU TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210320","kode_kel":"2103202005","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"BUNGURAN BATUBI","nama_kel":"SEMEDANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210321","kode_kel":"2103212001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA BARAT","nama_kel":"PULAU TIGA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210321","kode_kel":"2103212002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA BARAT","nama_kel":"TANJUNG KUMBIK UTARA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210321","kode_kel":"2103212003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA BARAT","nama_kel":"SETUMUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210321","kode_kel":"2103212004","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU TIGA BARAT","nama_kel":"SELADING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210322","kode_kel":"2103222001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUAK MIDAI","nama_kel":"AIR KUMPAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210322","kode_kel":"2103222002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUAK MIDAI","nama_kel":"BATU BELANAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210322","kode_kel":"2103222003","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"SUAK MIDAI","nama_kel":"GUNUNG JAMBAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210323","kode_kel":"2103232001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU PANJANG","nama_kel":"PULAU PANJANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210323","kode_kel":"2103232002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU PANJANG","nama_kel":"PULAU KERDAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210324","kode_kel":"2103242001","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU SELUAN","nama_kel":"KELARIK BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2103","kode_kec":"210324","kode_kel":"2103242002","kode_prov":"21","nama_cab":"NATUNA","nama_kec":"PULAU SELUAN","nama_kel":"SELUAN BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210401","kode_kel":"2104011001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP","nama_kel":"DABO","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210401","kode_kel":"2104011007","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP","nama_kel":"DABO LAMA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210401","kode_kel":"2104011012","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP","nama_kel":"SUNGAILUMPUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210401","kode_kel":"2104012008","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP","nama_kel":"BATU BERDAUN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210401","kode_kel":"2104012009","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP","nama_kel":"TANJUNG HARAPAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210401","kode_kel":"2104012010","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP","nama_kel":"BATU KACANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104021010","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"DAIK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104021020","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"DAIK SEPINCAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"PEKAJANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"KELOMBOK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"MEPAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022006","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"KELUMU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022007","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"MENTUDA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022008","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"MERAWANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022009","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"PANGGAK DARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022011","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"PANGGAK LAUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022012","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"MUSAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210402","kode_kel":"2104022019","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA","nama_kel":"NEREKEH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210403","kode_kel":"2104031001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SENAYANG","nama_kel":"SENAYANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210403","kode_kel":"2104032002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SENAYANG","nama_kel":"MAMUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210403","kode_kel":"2104032012","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SENAYANG","nama_kel":"LABOH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210403","kode_kel":"2104032013","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SENAYANG","nama_kel":"PENAAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210403","kode_kel":"2104032015","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SENAYANG","nama_kel":"BARAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104041006","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"RAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"BAKONG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"KUALA RAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"MAROK TUA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042005","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"SUNGAI BULUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042007","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"SUNGAI RAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042008","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"SUNGAI HARAPAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042009","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"JAGOH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042012","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"TINJUL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042013","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"LANGKAP","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042014","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"TANJUNG IRAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210404","kode_kel":"2104042015","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP BARAT","nama_kel":"BUKIT BELAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104051007","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"PANCUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"BUKIT HARAPAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"DUARA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"LIMBUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052004","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"RESUN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052005","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"SEKANAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052008","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"LINAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052009","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"SUNGAIBESAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052010","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"RANTAU PANJANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210405","kode_kel":"2104052012","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA UTARA","nama_kel":"RESUN PESISIR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210406","kode_kel":"2104062001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP PESISIR","nama_kel":"BERINDAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210406","kode_kel":"2104062002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP PESISIR","nama_kel":"SEDAMAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210406","kode_kel":"2104062003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP PESISIR","nama_kel":"LANJUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210406","kode_kel":"2104062004","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP PESISIR","nama_kel":"KOTE","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210406","kode_kel":"2104062005","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP PESISIR","nama_kel":"PERSING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210406","kode_kel":"2104062006","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP PESISIR","nama_kel":"PELAKAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"BUKITLANGKAP","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"KETON","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"PEKAKA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072004","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"KERANDIN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072005","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"SUNGAI PINANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072006","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"KUDUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072007","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"TELUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210407","kode_kel":"2104072008","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"LINGGA TIMUR","nama_kel":"BELUNGKUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210408","kode_kel":"2104082001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SELAYAR","nama_kel":"SELAYAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210408","kode_kel":"2104082002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SELAYAR","nama_kel":"PENUBA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210408","kode_kel":"2104082003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SELAYAR","nama_kel":"PENUBA TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210408","kode_kel":"2104082004","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SELAYAR","nama_kel":"PANTAI HARAPAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210409","kode_kel":"2104091004","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP SELATAN","nama_kel":"BERLIAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210409","kode_kel":"2104092001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP SELATAN","nama_kel":"MAROK KECIL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210409","kode_kel":"2104092002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP SELATAN","nama_kel":"PULAU LALANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210409","kode_kel":"2104092003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"SINGKEP SELATAN","nama_kel":"RESANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210410","kode_kel":"2104102001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KEPULAUAN POSEK","nama_kel":"BUSUNG PANJANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210410","kode_kel":"2104102002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KEPULAUAN POSEK","nama_kel":"POSEK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210410","kode_kel":"2104102003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KEPULAUAN POSEK","nama_kel":"SUAK BUAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210411","kode_kel":"2104112001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KATANG BIDARE","nama_kel":"BENAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210411","kode_kel":"2104112002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KATANG BIDARE","nama_kel":"MENSANAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210411","kode_kel":"2104112003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KATANG BIDARE","nama_kel":"PULAU BUKIT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210411","kode_kel":"2104112004","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KATANG BIDARE","nama_kel":"PULAU DUYUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210411","kode_kel":"2104112005","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"KATANG BIDARE","nama_kel":"PULAU MEDANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210412","kode_kel":"2104122001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"TEMIANG PESISIR","nama_kel":"TEMIANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210412","kode_kel":"2104122002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"TEMIANG PESISIR","nama_kel":"TAJUR BIRU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210412","kode_kel":"2104122003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"TEMIANG PESISIR","nama_kel":"PULAU BATANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210413","kode_kel":"2104132001","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"BAKUNG SERUMPUN","nama_kel":"BATU BELUBANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210413","kode_kel":"2104132002","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"BAKUNG SERUMPUN","nama_kel":"CEMPA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210413","kode_kel":"2104132003","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"BAKUNG SERUMPUN","nama_kel":"PASIR PANJANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210413","kode_kel":"2104132004","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"BAKUNG SERUMPUN","nama_kel":"TANJUNG KELIT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210413","kode_kel":"2104132005","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"BAKUNG SERUMPUN","nama_kel":"TANJUNG LIPAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2104","kode_kec":"210413","kode_kel":"2104132006","kode_prov":"21","nama_cab":"LINGGA","nama_kec":"BAKUNG SERUMPUN","nama_kel":"REJAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210501","kode_kel":"2105011001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN","nama_kel":"TEREMPA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210501","kode_kel":"2105012002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN","nama_kel":"TEREMPA BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210501","kode_kel":"2105012003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN","nama_kel":"TAREMPA SELATAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210501","kode_kel":"2105012004","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN","nama_kel":"TAREMPA TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210501","kode_kel":"2105012005","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN","nama_kel":"PESISIR TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210501","kode_kel":"2105012006","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN","nama_kel":"SRI TANJUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210501","kode_kel":"2105012007","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN","nama_kel":"TAREMPA BARAT DAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210502","kode_kel":"2105022002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"PALMATAK","nama_kel":"TEBANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210502","kode_kel":"2105022003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"PALMATAK","nama_kel":"LADAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210502","kode_kel":"2105022005","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"PALMATAK","nama_kel":"PIABUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210502","kode_kel":"2105022006","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"PALMATAK","nama_kel":"LANGIR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210502","kode_kel":"2105022007","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"PALMATAK","nama_kel":"CANDI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210502","kode_kel":"2105022008","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"PALMATAK","nama_kel":"PUTIK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210502","kode_kel":"2105022015","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"PALMATAK","nama_kel":"BELIBAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210503","kode_kel":"2105032001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TIMUR","nama_kel":"NYAMUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210503","kode_kel":"2105032002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TIMUR","nama_kel":"BATU BELAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210503","kode_kel":"2105032003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TIMUR","nama_kel":"MUNJAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210503","kode_kel":"2105032004","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TIMUR","nama_kel":"SERAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210503","kode_kel":"2105032005","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TIMUR","nama_kel":"AIR PUTIH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210503","kode_kel":"2105032006","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TIMUR","nama_kel":"TEMBURUN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210504","kode_kel":"2105042001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN SELATAN","nama_kel":"KIABU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210504","kode_kel":"2105042002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN SELATAN","nama_kel":"TELAGA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210504","kode_kel":"2105042003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN SELATAN","nama_kel":"MENGKAIT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210504","kode_kel":"2105042004","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN SELATAN","nama_kel":"TIANGAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210504","kode_kel":"2105042005","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN SELATAN","nama_kel":"TELAGA KECIL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210504","kode_kel":"2105042006","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN SELATAN","nama_kel":"LINGAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210504","kode_kel":"2105042007","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN SELATAN","nama_kel":"AIR BINI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210505","kode_kel":"2105052001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA TIMUR","nama_kel":"KUALA MARAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210505","kode_kel":"2105052002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA TIMUR","nama_kel":"ULU MARAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210505","kode_kel":"2105052003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA TIMUR","nama_kel":"BUKIT PADI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210505","kode_kel":"2105052004","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA TIMUR","nama_kel":"GENTING PULUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210506","kode_kel":"2105061005","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA","nama_kel":"LETUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210506","kode_kel":"2105062001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA","nama_kel":"MAMPOK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210506","kode_kel":"2105062002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA","nama_kel":"REWAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210506","kode_kel":"2105062006","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA","nama_kel":"AIR BIRU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210506","kode_kel":"2105062008","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA","nama_kel":"BATU BERAPIT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210506","kode_kel":"2105062009","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA","nama_kel":"LANDAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210507","kode_kel":"2105072001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TENGAH","nama_kel":"AIR ASUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210507","kode_kel":"2105072002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TENGAH","nama_kel":"AIR SENA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210507","kode_kel":"2105072003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TENGAH","nama_kel":"TELUK SIANTAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210507","kode_kel":"2105072004","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TENGAH","nama_kel":"LIDI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210507","kode_kel":"2105072005","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TENGAH","nama_kel":"LIUK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210507","kode_kel":"2105072006","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN TENGAH","nama_kel":"TELUK SUNTING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210508","kode_kel":"2105082001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN UTARA","nama_kel":"MUBUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210508","kode_kel":"2105082002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN UTARA","nama_kel":"PIASAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210508","kode_kel":"2105082003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"SIANTAN UTARA","nama_kel":"BAYAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210509","kode_kel":"2105092001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA BARAT","nama_kel":"IMPOL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210509","kode_kel":"2105092002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA BARAT","nama_kel":"KERAMUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210509","kode_kel":"2105092003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"JEMAJA BARAT","nama_kel":"SUNGGAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210510","kode_kel":"2105102001","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"KUTE SIANTAN","nama_kel":"PAYALAMAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210510","kode_kel":"2105102002","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"KUTE SIANTAN","nama_kel":"PAYAMARAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210510","kode_kel":"2105102003","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"KUTE SIANTAN","nama_kel":"BATU AMPAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210510","kode_kel":"2105102004","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"KUTE SIANTAN","nama_kel":"MATAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2105","kode_kec":"210510","kode_kel":"2105102005","kode_prov":"21","nama_cab":"KEPULAUAN ANAMBAS","nama_kec":"KUTE SIANTAN","nama_kel":"TELUK BAYUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217101","kode_kel":"2171011002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BELAKANG PADANG","nama_kel":"PEMPING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217101","kode_kel":"2171011003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BELAKANG PADANG","nama_kel":"KASU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217101","kode_kel":"2171011004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BELAKANG PADANG","nama_kel":"PULAU TERUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217101","kode_kel":"2171011005","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BELAKANG PADANG","nama_kel":"PECONG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217101","kode_kel":"2171011006","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BELAKANG PADANG","nama_kel":"TANJUNG SARI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217101","kode_kel":"2171011007","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BELAKANG PADANG","nama_kel":"SEKANAK RAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217102","kode_kel":"2171021001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AMPAR","nama_kel":"TANJUNG SENGKUANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217102","kode_kel":"2171021002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AMPAR","nama_kel":"SUNGAI JODOH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217102","kode_kel":"2171021003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AMPAR","nama_kel":"BATU MERAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217102","kode_kel":"2171021004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AMPAR","nama_kel":"KAMPUNG SERAYA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217103","kode_kel":"2171031001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEKUPANG","nama_kel":"SUNGAI HARAPAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217103","kode_kel":"2171031002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEKUPANG","nama_kel":"TANJUNG PINGGIR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217103","kode_kel":"2171031003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEKUPANG","nama_kel":"TANJUNG RIAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217103","kode_kel":"2171031005","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEKUPANG","nama_kel":"TIBAN INDAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217103","kode_kel":"2171031006","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEKUPANG","nama_kel":"TIBAN BARU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217103","kode_kel":"2171031007","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEKUPANG","nama_kel":"TIBAN LAMA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217103","kode_kel":"2171031008","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEKUPANG","nama_kel":"PATAM LESTARI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217104","kode_kel":"2171041001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"NONGSA","nama_kel":"SAMBAU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217104","kode_kel":"2171041002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"NONGSA","nama_kel":"BATU BESAR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217104","kode_kel":"2171041003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"NONGSA","nama_kel":"KABIL","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217104","kode_kel":"2171041004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"NONGSA","nama_kel":"NGENANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217105","kode_kel":"2171051001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BULANG","nama_kel":"BULANG LINTANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217105","kode_kel":"2171051002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BULANG","nama_kel":"PULAU BULUH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217105","kode_kel":"2171051003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BULANG","nama_kel":"TEMOYONG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217105","kode_kel":"2171051004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BULANG","nama_kel":"BATU LEGONG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217105","kode_kel":"2171051005","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BULANG","nama_kel":"PANTAI GELAM","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217105","kode_kel":"2171051006","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BULANG","nama_kel":"PULAU SETOKOK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217106","kode_kel":"2171061001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"LUBUK BAJA","nama_kel":"KAMPUNG PELITA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217106","kode_kel":"2171061003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"LUBUK BAJA","nama_kel":"LUBUK BAJA KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217106","kode_kel":"2171061004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"LUBUK BAJA","nama_kel":"BATU SELICIN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217106","kode_kel":"2171061005","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"LUBUK BAJA","nama_kel":"TANJUNG UMA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217106","kode_kel":"2171061006","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"LUBUK BAJA","nama_kel":"BALOI INDAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217107","kode_kel":"2171071001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEI BEDUK","nama_kel":"MUKA KUNING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217107","kode_kel":"2171071002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEI BEDUK","nama_kel":"DURIANGKANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217107","kode_kel":"2171071003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEI BEDUK","nama_kel":"MANGSANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217107","kode_kel":"2171071004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SEI BEDUK","nama_kel":"TANJUNG PIAYU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"SIJANTUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"KARAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"GALANG BARU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"SEMBULANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081005","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"REMPANG CATE","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081006","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"SUBANG MAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081007","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"PULAU ABANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217108","kode_kel":"2171081008","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"GALANG","nama_kel":"AIR RAJA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217109","kode_kel":"2171091001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BENGKONG","nama_kel":"BENGKONG INDAH","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217109","kode_kel":"2171091002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BENGKONG","nama_kel":"BENGKONG LAUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217109","kode_kel":"2171091003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BENGKONG","nama_kel":"SADAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217109","kode_kel":"2171091004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BENGKONG","nama_kel":"TANJUNG BUNTUNG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217110","kode_kel":"2171101001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATAM KOTA","nama_kel":"BALOI PERMAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217110","kode_kel":"2171101002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATAM KOTA","nama_kel":"TAMAN BALOI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217110","kode_kel":"2171101003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATAM KOTA","nama_kel":"TELUK TERING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217110","kode_kel":"2171101004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATAM KOTA","nama_kel":"BELIAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217110","kode_kel":"2171101005","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATAM KOTA","nama_kel":"SUKAJADI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217110","kode_kel":"2171101006","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATAM KOTA","nama_kel":"SUNGAI PANAS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217111","kode_kel":"2171111001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SAGULUNG","nama_kel":"TEMBESI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217111","kode_kel":"2171111002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SAGULUNG","nama_kel":"SUNGAI BINTI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217111","kode_kel":"2171111003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SAGULUNG","nama_kel":"SUNGAI LEKOP","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217111","kode_kel":"2171111004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SAGULUNG","nama_kel":"SAGULUNG KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217111","kode_kel":"2171111005","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SAGULUNG","nama_kel":"SUNGAI LANGKAI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217111","kode_kel":"2171111006","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"SAGULUNG","nama_kel":"SUNGAI PELUNGGUT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217112","kode_kel":"2171121001","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AJI","nama_kel":"TANJUNG UNCANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217112","kode_kel":"2171121002","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AJI","nama_kel":"BULIANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217112","kode_kel":"2171121003","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AJI","nama_kel":"KIBING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2171","kode_kec":"217112","kode_kel":"2171121004","kode_prov":"21","nama_cab":"KOTA BATAM","nama_kec":"BATU AJI","nama_kel":"BUKIT TEMPAYAN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217201","kode_kel":"2172011001","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG BARAT","nama_kel":"TANJUNG PINANG BARAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217201","kode_kel":"2172011002","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG BARAT","nama_kel":"KEMBOJA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217201","kode_kel":"2172011003","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG BARAT","nama_kel":"KAMPUNG BARU","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217201","kode_kel":"2172011004","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG BARAT","nama_kel":"BUKIT CERMIN","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217202","kode_kel":"2172021001","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG TIMUR","nama_kel":"MELAYU KOTA PIRING","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217202","kode_kel":"2172021002","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG TIMUR","nama_kel":"KAMPUNG BULANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217202","kode_kel":"2172021003","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG TIMUR","nama_kel":"AIR RAJA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217202","kode_kel":"2172021004","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG TIMUR","nama_kel":"BATU IX","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217202","kode_kel":"2172021005","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG TIMUR","nama_kel":"PINANG KENCANA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217203","kode_kel":"2172031001","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG KOTA","nama_kel":"TANJUNG PINANG KOTA","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217203","kode_kel":"2172031003","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG KOTA","nama_kel":"SENGGARANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217203","kode_kel":"2172031004","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG KOTA","nama_kel":"PENYENGAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217203","kode_kel":"2172031005","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"TANJUNG PINANG KOTA","nama_kel":"KAMPUNG BUGIS","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217204","kode_kel":"2172041001","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"BUKIT BESTARI","nama_kel":"TANJUNG PINANG TIMUR","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217204","kode_kel":"2172041002","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"BUKIT BESTARI","nama_kel":"DOMPAK","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217204","kode_kel":"2172041003","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"BUKIT BESTARI","nama_kel":"TANJUNG AYUN SAKTI","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217204","kode_kel":"2172041004","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"BUKIT BESTARI","nama_kel":"SEI JANG","nama_prov":"KEPULAUAN RIAU","tingkat":4}
+{"kode_cab":"2172","kode_kec":"217204","kode_kel":"2172041005","kode_prov":"21","nama_cab":"KOTA TANJUNG PINANG","nama_kec":"BUKIT BESTARI","nama_kel":"TANJUNG UNGGAT","nama_prov":"KEPULAUAN RIAU","tingkat":4}

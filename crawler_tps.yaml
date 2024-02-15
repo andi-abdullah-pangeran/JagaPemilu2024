@@ -1,0 +1,47 @@
+## this using benthos https://www.benthos.dev/docs/about
+
+logger:
+  level: WARN
+  format: json
+  add_timestamp: true
+  static_fields:
+    '@service': crawler
+
+input:
+  resource: ambil_wilayah
+
+input_resources:
+  - label: ambil_wilayah
+    file:
+      paths:
+        - master_tps/
+      codec: lines
+
+pipeline:
+  processors:
+    - mapping: |-
+        meta kode_wilayah = this.kode_prov + "/" + this.kode_cab + "/" + this.kode_kec + "/" + this.kode_kel
+        meta nama_file = "master_tps/"+this.nama_prov + "_with_tps.txt"
+    - resource: ambil_tps
+    - mapping: |-
+        root = this.wilayah.map_each(w -> this.without("wilayah").assign({"tingkat": w.tingkat, "kode_tps": w.kode, "nama_tps": w.nama}))
+    - unarchive:
+        format: "json_array"
+
+processor_resources:
+  - label: ambil_tps
+    branch:
+      request_map: |-
+        root = ""
+      processors:
+        - http:
+            url: https://sirekap-obj-data.kpu.go.id/wilayah/pemilu/ppwp/${!meta("kode_wilayah")}.json
+            verb: GET
+        - mapping:
+            root = this.sort_by(pair -> pair.kode)
+      result_map: |-
+        root.wilayah = this
+
+output:
+  file:
+    path: ./${!meta("nama_file")}

@@ -1,0 +1,139 @@
+## this using benthos https://www.benthos.dev/docs/about
+
+logger:
+  level: WARN
+  format: json
+  add_timestamp: true
+  static_fields:
+    '@service': crawler
+
+input:
+  resource: ambil_wilayah
+
+input_resources:
+  - label: ambil_wilayah
+    file:
+      paths:
+        - sample_tps/*
+      codec: lines
+
+pipeline:
+  processors:
+    - mapping: |-
+        meta url_link = "https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/ppwp/" + this.kode_prov + "/" + this.kode_cab + "/" + this.kode_kec + "/" + this.kode_kel + "/" + this.kode_tps + ".json"
+    - resource: ambil_suara
+    - mapping: |-
+        root = if this.metrics == null {
+          deleted()
+        } else {
+          this
+        }
+    - mapping: |-
+        root = this
+        root.capres_01 = this.metrics."100025"
+        root.capres_02 = this.metrics."100026"
+        root.capres_03 = this.metrics."100027"
+
+processor_resources:
+  - label: ambil_suara
+    branch:
+      request_map: |-
+        root = ""
+      processors:
+        - http:
+            url: ${!meta("url_link")}
+            verb: GET
+      result_map: |-
+        root.metrics = this.chart
+        root.images = this.images
+        root.administrasi = this.administrasi
+
+output_resources:
+  - label: insert_to_clickhouse
+    sql_raw:
+      driver: "clickhouse"
+      dsn: clickhouse://default:@127.0.0.1:9000/default
+      args_mapping: |
+        root = [
+          now().ts_format("2006-01-02 15:04:05", "Asia/Jakarta"),
+          this.kode_prov,
+          this.nama_prov,
+          this.kode_cab,
+          this.nama_cab,
+          this.kode_kec,
+          this.nama_kec,
+          this.kode_kel,
+          this.nama_kel,
+          this.kode_tps,
+          this.nama_tps,
+          this.images,
+          metadata("url_link"),
+          this.capres_01,
+          this.capres_02,
+          this.capres_03,
+          this.administrasi.pemilih_dpt_j,
+          this.administrasi.pemilih_dpt_l,
+          this.administrasi.pemilih_dpt_p,
+          this.administrasi.pengguna_dpt_j,
+          this.administrasi.pengguna_dpt_l,
+          this.administrasi.pengguna_dpt_p,
+          this.administrasi.pengguna_dptb_j,
+          this.administrasi.pengguna_dptb_l,
+          this.administrasi.pengguna_dptb_p,
+          this.administrasi.pengguna_non_dpt_j,
+          this.administrasi.pengguna_non_dpt_l,
+          this.administrasi.pengguna_non_dpt_p,
+          this.administrasi.pengguna_total_j,
+          this.administrasi.pengguna_total_l,
+          this.administrasi.pengguna_total_p,
+          this.administrasi.suara_sah,
+          this.administrasi.suara_tidak_sah,
+          this.administrasi.suara_total
+        ]
+      query: |
+        INSERT INTO suara_pemilu_2024 (
+              updated_at,
+              kode_prov,
+              nama_prov,
+              kode_cab,
+              nama_cab,
+              kode_kec,
+              nama_kec,
+              kode_kel,
+              nama_kel,
+              kode_tps,
+              nama_tps,
+              images,
+              url_link,
+              total_suara_capres_01,
+              total_suara_capres_02,
+              total_suara_capres_03,
+              pemilih_dpt_j,
+              pemilih_dpt_l,
+              pemilih_dpt_p,
+              pengguna_dpt_j,
+              pengguna_dpt_l,
+              pengguna_dpt_p,
+              pengguna_dptb_j,
+              pengguna_dptb_l,
+              pengguna_dptb_p,
+              pengguna_non_dpt_j,
+              pengguna_non_dpt_l,
+              pengguna_non_dpt_p,
+              pengguna_total_j,
+              pengguna_total_l,
+              pengguna_total_p,
+              suara_sah,
+              suara_tidak_sah,
+              suara_total
+        ) VALUES (
+          ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+        )
+
+output:
+  broker:
+    pattern: fan_out
+    outputs:
+      - resource: insert_to_clickhouse
+      - stdout:
+          codec: lines

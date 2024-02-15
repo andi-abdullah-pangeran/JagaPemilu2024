@@ -1,0 +1,1013 @@
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601011001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"MAKBON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"ASBAKEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"MALAUMKARTA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"BATU LUBANG","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"BATU LUBANG PANTAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"KWADAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"BAINKETE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"TELUK DORE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"SAWATUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"MALAGASIH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012013","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"KLASIMIGIK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012014","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"KLASIGI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012015","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"KLAGULUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012016","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"SUATOLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960101","kode_kel":"9601012017","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAKBON","nama_kel":"MIBI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"KLABRA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"WANURIAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"KLARION","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"KAAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042015","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"WENSI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042016","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"MUMPI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042019","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"KLAMAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042020","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"SERSELION","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042022","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"KMAFO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042027","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"MIDLAL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042028","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"SORAIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042033","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"ARMOIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960104","kode_kel":"9601042034","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BERAUR","nama_kel":"SERSELION BARU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960105","kode_kel":"9601051001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI","nama_kel":"KATINIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960105","kode_kel":"9601051006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI","nama_kel":"MAJENER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960105","kode_kel":"9601051007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI","nama_kel":"MAJARAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960105","kode_kel":"9601051009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI","nama_kel":"MATAWOLOT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960105","kode_kel":"9601052011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI","nama_kel":"WALAL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960105","kode_kel":"9601052012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI","nama_kel":"MALAUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960105","kode_kel":"9601052018","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI","nama_kel":"RAWA SUGI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"SEGET","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"MALABAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"PULAU KASIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"KASIMLE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"WEWENAGU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"WASINGSAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062013","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"KLAYAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062014","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"WAYENKEDE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960106","kode_kel":"9601062015","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGET","nama_kel":"MOBI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"AIMAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MALAWILI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MALAWELE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MARIAT PANTAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071026","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MARIAT GUNUNG","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071029","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"WARMON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071030","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"KLABINAIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071031","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MALASOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071032","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"KLAIGIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071034","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MALAGUSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601071035","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"KLAFMA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601072028","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MAIBO KEC AIMAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601072033","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"AIMO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960107","kode_kel":"9601072038","kode_prov":"96","nama_cab":"SORONG","nama_kec":"AIMAS","nama_kel":"MALASAUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"KLAWANA KEC KLAMONO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"KLAMONO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"WARIAYAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"KLALOMON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"WONOSARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"GISIM DARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082013","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"MLAIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082020","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"MALASMILIY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082021","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"KLASAFET","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960108","kode_kel":"9601082022","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAMONO","nama_kel":"POSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960110","kode_kel":"9601102001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA","nama_kel":"SAYOSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960110","kode_kel":"9601102004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA","nama_kel":"MALADOFOK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960110","kode_kel":"9601102006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA","nama_kel":"YORBES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960110","kode_kel":"9601102011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA","nama_kel":"SAMUSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960110","kode_kel":"9601102012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA","nama_kel":"KLAMINTU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960110","kode_kel":"9601102014","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA","nama_kel":"KLAIN KEC SAYOSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"SEGUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"GISIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"WAIMON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"KLASEGUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"WAIMLABAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"MAJEMAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"KLASIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"KLAJARING","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960112","kode_kel":"9601122010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SEGUN","nama_kel":"MALAMAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601131001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"MAKBUSUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601131002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"MAKBALIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601131003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"MAKOTYAMSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"JEFLIO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"ARAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"KLAIN KEC MAYAMUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"KLASMELEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"WEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"WARMON KOKODA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"ASJIDBA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960113","kode_kel":"9601132011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAYAMUK","nama_kel":"MALAMAY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960114","kode_kel":"9601142001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI SELATAN","nama_kel":"SAILOLOF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960114","kode_kel":"9601142002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI SELATAN","nama_kel":"KOTLOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960114","kode_kel":"9601142007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI SELATAN","nama_kel":"DULBATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960114","kode_kel":"9601142008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI SELATAN","nama_kel":"MANOKET","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960114","kode_kel":"9601142011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI SELATAN","nama_kel":"PAYAPOP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960114","kode_kel":"9601142012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI SELATAN","nama_kel":"MASMAPOP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"INDIWI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"KLABOT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"MLAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"MLAWES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"MLASFA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"KANOLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172014","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"SOMIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960117","kode_kel":"9601172015","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLABOT","nama_kel":"WARKTI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"WILTY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"MLAWEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"BYOKLOKFLE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"TBOTJIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"SAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"SAMOLSLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"KMASEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182013","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"KLASAWON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182014","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"YURKADEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182019","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"BETWAF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960118","kode_kel":"9601182025","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAWAK","nama_kel":"COKHIF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"LUWELALA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"KLATIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"KLAOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"SULUH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"BOUSUI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"KAMUYAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"KLAKA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"SAFDESA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960120","kode_kel":"9601202015","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MAUDUS","nama_kel":"KLAGEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601391001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"KLAMALU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601391002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"MARIYAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601391003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"KLASULUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601391004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"KLAMASEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601391009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"MAKLALUT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601391010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"KLARU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601391011","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"JAMAIMO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601392005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"KLABEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601392007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"KLASAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601392008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"FAFI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960139","kode_kel":"9601392012","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MARIAT","nama_kel":"KASIH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"KLAYILI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"KLAWULUH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"MALAKOBUTU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"KWAKEIK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"KLASOWOH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"MALALILIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"MLAWER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960140","kode_kel":"9601402008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLAYILI","nama_kel":"KLATOMOK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960141","kode_kel":"9601412002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASO","nama_kel":"SIWIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960141","kode_kel":"9601412003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASO","nama_kel":"MISKUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960141","kode_kel":"9601412004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASO","nama_kel":"KLAMUGUN KEC KLASO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960141","kode_kel":"9601412006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASO","nama_kel":"SBAGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960141","kode_kel":"9601412007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASO","nama_kel":"KLALIK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960141","kode_kel":"9601412008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASO","nama_kel":"MALAWHILI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960141","kode_kel":"9601412013","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASO","nama_kel":"KLASOU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"KLAFDALIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"KLAFORO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"KLASOF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"NINJIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"KLASARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"KLAWOTON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"WONOSOBO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"SAKAMERIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960142","kode_kel":"9601422009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MOISEGEN","nama_kel":"MASMILI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960143","kode_kel":"9601432001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SORONG","nama_kel":"MAIBO KEC SORONG","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960143","kode_kel":"9601432002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SORONG","nama_kel":"MALAFLON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960143","kode_kel":"9601432003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SORONG","nama_kel":"KABANMOLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960143","kode_kel":"9601432004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SORONG","nama_kel":"KAGIWALA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"DISFRA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"BAGUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"KLAWOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"KLAMOMIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"KLAKWONRIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"MODE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"BRATMAWE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"KLAWON KEC BAGUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960144","kode_kel":"9601442009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BAGUN","nama_kel":"MLAMLI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960145","kode_kel":"9601452001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"WEMAK","nama_kel":"SALUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960145","kode_kel":"9601452002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"WEMAK","nama_kel":"KLAWAREN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960145","kode_kel":"9601452003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"WEMAK","nama_kel":"WOLOIN KEC WEMAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960145","kode_kel":"9601452004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"WEMAK","nama_kel":"KLALIN MOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960145","kode_kel":"9601452005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"WEMAK","nama_kel":"KWARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960145","kode_kel":"9601452006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"WEMAK","nama_kel":"KAMLIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960146","kode_kel":"9601462001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SUNOOK","nama_kel":"DASRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960146","kode_kel":"9601462002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SUNOOK","nama_kel":"MASOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960146","kode_kel":"9601462003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SUNOOK","nama_kel":"KETAWAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960146","kode_kel":"9601462004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SUNOOK","nama_kel":"WARBO KEC SUNOOK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960146","kode_kel":"9601462005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SUNOOK","nama_kel":"SUUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960146","kode_kel":"9601462006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SUNOOK","nama_kel":"SULYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960146","kode_kel":"9601462007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SUNOOK","nama_kel":"BOUWOI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960147","kode_kel":"9601472001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BUK","nama_kel":"BUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960147","kode_kel":"9601472002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BUK","nama_kel":"MLAKHAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960147","kode_kel":"9601472003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BUK","nama_kel":"KLAIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960147","kode_kel":"9601472004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BUK","nama_kel":"MIMPE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960147","kode_kel":"9601472005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BUK","nama_kel":"TIKLEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960147","kode_kel":"9601472006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BUK","nama_kel":"KLAHEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960147","kode_kel":"9601472007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BUK","nama_kel":"MOOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960148","kode_kel":"9601482001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAENGKEDUK","nama_kel":"SAENGKEDUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960148","kode_kel":"9601482002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAENGKEDUK","nama_kel":"SELEKOBO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960148","kode_kel":"9601482003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAENGKEDUK","nama_kel":"SUYE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960148","kode_kel":"9601482004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAENGKEDUK","nama_kel":"KLAMEDE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960148","kode_kel":"9601482005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAENGKEDUK","nama_kel":"SAMBATIE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960148","kode_kel":"9601482006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAENGKEDUK","nama_kel":"KLAGELE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"MALASIGIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"KLAGULU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"KLAMUGUN KEC MALABOTOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"MALAJAPA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"KLASMAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"MALAMOJA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"MAGATARUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"TANAH TINGGI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960149","kode_kel":"9601492009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"MALABOTOM","nama_kel":"MARIK MAY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"TARSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"KLAMNE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"WISBIAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"KLAFYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"MLASIWOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"KLAFELEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"KLAFLUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"KLARIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960150","kode_kel":"9601502009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KONHIR","nama_kel":"MLARON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960151","kode_kel":"9601512001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASAFET","nama_kel":"KELADUM/MALADUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960151","kode_kel":"9601512002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASAFET","nama_kel":"KLAMONO OLIE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960151","kode_kel":"9601512003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASAFET","nama_kel":"BARROS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960151","kode_kel":"9601512004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASAFET","nama_kel":"PUSU TILIGUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960151","kode_kel":"9601512005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"KLASAFET","nama_kel":"KLAWILIBE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960152","kode_kel":"9601522001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"HOBARD","nama_kel":"HOBARD","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960152","kode_kel":"9601522002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"HOBARD","nama_kel":"BRIANLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960152","kode_kel":"9601522003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"HOBARD","nama_kel":"FLOYI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960152","kode_kel":"9601522004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"HOBARD","nama_kel":"KLAZELT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960152","kode_kel":"9601522005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"HOBARD","nama_kel":"SFADON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960152","kode_kel":"9601522006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"HOBARD","nama_kel":"SELOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960152","kode_kel":"9601522007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"HOBARD","nama_kel":"DAIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"WALIAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"MANFANIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"WAIBIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"WAIMAN KEC SALAWATI TENGAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"SAKAPUL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"MARALOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532007","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"BATBIRO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532008","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"DURIANKARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532009","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"MEYAUP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960153","kode_kel":"9601532010","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SALAWATI TENGAH","nama_kel":"SAILEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960154","kode_kel":"9601542001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BOTAIN","nama_kel":"KLAFLUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960154","kode_kel":"9601542002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BOTAIN","nama_kel":"MAMSIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960154","kode_kel":"9601542003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BOTAIN","nama_kel":"SABAKE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960154","kode_kel":"9601542004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BOTAIN","nama_kel":"KLAYASTANI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960154","kode_kel":"9601542005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"BOTAIN","nama_kel":"BOTAIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960155","kode_kel":"9601552001","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA TIMUR","nama_kel":"SAILALA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960155","kode_kel":"9601552002","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA TIMUR","nama_kel":"KLAWANA KEC SAYOSA TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960155","kode_kel":"9601552003","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA TIMUR","nama_kel":"KLADUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960155","kode_kel":"9601552004","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA TIMUR","nama_kel":"KLAWON KEC SAYOSA TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960155","kode_kel":"9601552005","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA TIMUR","nama_kel":"KLAKAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9601","kode_kec":"960155","kode_kel":"9601552006","kode_prov":"96","nama_cab":"SORONG","nama_kec":"SAYOSA TIMUR","nama_kel":"KLALWOK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602011005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"KAIBUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602011006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"KOHOIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"WERSAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012009","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"WEHALI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012010","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"AIBOBOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012017","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"WERMIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012018","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"KEYEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012021","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"SIRIBAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012025","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"MAGIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012026","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"TEGIROLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012034","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"WERNAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012035","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"TAPIRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012040","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"GOROLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012041","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"NAMBRO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012044","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"SEYOLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960201","kode_kel":"9602012045","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"TEMINABUAN","nama_kel":"ANI SESNA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"MATE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"SERKOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"SOLTA BARU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042008","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"WADOI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042009","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"ISOGO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042013","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"SIBAE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042020","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"MOGIBI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042026","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"ODEARE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960204","kode_kel":"9602042027","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"INANWATAN","nama_kel":"SIRI-SIRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"SAWIAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062008","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"SASNEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062009","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"ELLES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062011","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"SODROFOYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062012","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"SFAKYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062013","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"WENSOUGH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062014","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"WEEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960206","kode_kel":"9602062015","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAWIAT","nama_kel":"WENDI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"TAROF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"NEGERI BESAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"SIWATORI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"KASUWERI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"MIGORI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"TAMBANI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092010","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"DAUBAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092011","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"TOTONA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092012","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"NAYAKORE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092014","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"ARBASINA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092015","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"BIRAWAKU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092016","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"KOREWATARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092017","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"TAPAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092018","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"TOPDAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092020","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"MIGRITO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960209","kode_kel":"9602092021","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA","nama_kel":"DAIMAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960210","kode_kel":"9602102001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MOSWAREN","nama_kel":"MOSWAREN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960210","kode_kel":"9602102002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MOSWAREN","nama_kel":"JOHSIRO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960210","kode_kel":"9602102003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MOSWAREN","nama_kel":"HARARO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960210","kode_kel":"9602102004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MOSWAREN","nama_kel":"BUMI AJO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960210","kode_kel":"9602102005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MOSWAREN","nama_kel":"HASIK JAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960210","kode_kel":"9602102006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MOSWAREN","nama_kel":"KAMISABE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960210","kode_kel":"9602102007","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MOSWAREN","nama_kel":"TOKASS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"HAHA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"KLAOGIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"TOFOT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"SBIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"SRER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112007","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"WOLOIN KEC SEREMUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112008","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"KAMARO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960211","kode_kel":"9602112009","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SEREMUK","nama_kel":"KAKAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"SUNGGUER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"UNGGI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"BOLDON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"SESOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"WAIGO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"BAGARAGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122007","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"WARDIK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960212","kode_kel":"9602122008","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"WAYER","nama_kel":"WAYER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960214","kode_kel":"9602142001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS","nama_kel":"KAIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960214","kode_kel":"9602142002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS","nama_kel":"TAPURI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960214","kode_kel":"9602142003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS","nama_kel":"YAHADIAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960214","kode_kel":"9602142004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS","nama_kel":"BENAWA I","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960214","kode_kel":"9602142006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS","nama_kel":"SUMANO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960215","kode_kel":"9602152001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KONDA","nama_kel":"KONDA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960215","kode_kel":"9602152002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KONDA","nama_kel":"WAMARGEGE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960215","kode_kel":"9602152003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KONDA","nama_kel":"BARIAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960215","kode_kel":"9602152004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KONDA","nama_kel":"MANELEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960215","kode_kel":"9602152005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KONDA","nama_kel":"NAGNA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960220","kode_kel":"9602202001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MATEMANI","nama_kel":"MUGIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960220","kode_kel":"9602202002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MATEMANI","nama_kel":"NUSA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960220","kode_kel":"9602202003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MATEMANI","nama_kel":"SAGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960220","kode_kel":"9602202004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MATEMANI","nama_kel":"PURAGI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960220","kode_kel":"9602202005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MATEMANI","nama_kel":"TAWANGGIRE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960220","kode_kel":"9602202006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"MATEMANI","nama_kel":"BEDARE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"UDAGAGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"KAYUBIRO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"ADONA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"BENAWA II","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"ATORI KEC KOKODA UTARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"KAMUNDAN SATU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212007","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"KARIRIF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212008","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"BUBUKO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960221","kode_kel":"9602212009","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KOKODA UTARA","nama_kel":"KAMUNDAN DUA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"MANGGROHOLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"KOMANGGARET","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"SAYAL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"KAYABO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"SISIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"MLASWAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222007","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"KWOWOK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222008","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"SIRA KEC SAIFI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960222","kode_kel":"9602222009","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SAIFI","nama_kel":"KENAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960224","kode_kel":"9602242001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"FOKOUR","nama_kel":"PASIR PUTIH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960224","kode_kel":"9602242002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"FOKOUR","nama_kel":"WANDUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960224","kode_kel":"9602242003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"FOKOUR","nama_kel":"BEMUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960224","kode_kel":"9602242004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"FOKOUR","nama_kel":"WELEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960225","kode_kel":"9602252001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SALKMA","nama_kel":"WENSLOLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960225","kode_kel":"9602252002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SALKMA","nama_kel":"KLAMIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960225","kode_kel":"9602252003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SALKMA","nama_kel":"MLABOLO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960225","kode_kel":"9602252004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SALKMA","nama_kel":"KOFALIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960225","kode_kel":"9602252005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"SALKMA","nama_kel":"ALMA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960226","kode_kel":"9602262001","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS DARAT","nama_kel":"MUKAMAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960226","kode_kel":"9602262002","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS DARAT","nama_kel":"IKANA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960226","kode_kel":"9602262003","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS DARAT","nama_kel":"HAEMARAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960226","kode_kel":"9602262004","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS DARAT","nama_kel":"SIRANGGO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960226","kode_kel":"9602262005","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS DARAT","nama_kel":"MOGATEMIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960226","kode_kel":"9602262006","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS DARAT","nama_kel":"ONIMSEFA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9602","kode_kec":"960226","kode_kel":"9602262007","kode_prov":"96","nama_cab":"SORONG SELATAN","nama_kec":"KAIS DARAT","nama_kel":"MAKARORO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960301","kode_kel":"9603012001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL (MISOOL UTARA)","nama_kel":"WAIGAMA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960301","kode_kel":"9603012005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL (MISOOL UTARA)","nama_kel":"SALAFEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960301","kode_kel":"9603012006","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL (MISOOL UTARA)","nama_kel":"ADUWEI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960301","kode_kel":"9603012007","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL (MISOOL UTARA)","nama_kel":"ATKARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960301","kode_kel":"9603012014","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL (MISOOL UTARA)","nama_kel":"SOLAL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960302","kode_kel":"9603022003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO UTARA","nama_kel":"KABARE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960302","kode_kel":"9603022010","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO UTARA","nama_kel":"ANDEY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960302","kode_kel":"9603022011","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO UTARA","nama_kel":"ASUKWERI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960302","kode_kel":"9603022013","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO UTARA","nama_kel":"BONSAYOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960302","kode_kel":"9603022014","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO UTARA","nama_kel":"DARUMBAB","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960302","kode_kel":"9603022015","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO UTARA","nama_kel":"KALISADE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960303","kode_kel":"9603032004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO SELATAN","nama_kel":"SAONEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960303","kode_kel":"9603032014","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO SELATAN","nama_kel":"SAPORKREN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960303","kode_kel":"9603032015","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO SELATAN","nama_kel":"YENBESER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960303","kode_kel":"9603032016","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO SELATAN","nama_kel":"FRIWEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960303","kode_kel":"9603032017","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO SELATAN","nama_kel":"WAWIYAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960304","kode_kel":"9603042001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI UTARA","nama_kel":"SAMATE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960304","kode_kel":"9603042002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI UTARA","nama_kel":"KAPATLAP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960304","kode_kel":"9603042003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI UTARA","nama_kel":"JEFMAN BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960304","kode_kel":"9603042015","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI UTARA","nama_kel":"WAMEGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960304","kode_kel":"9603042016","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI UTARA","nama_kel":"JEFMAN TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960304","kode_kel":"9603042017","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI UTARA","nama_kel":"WAIDIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960305","kode_kel":"9603052001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"AYAU","nama_kel":"DOREHKAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960305","kode_kel":"9603052003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"AYAU","nama_kel":"YENKAWIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960305","kode_kel":"9603052006","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"AYAU","nama_kel":"BOISERAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960305","kode_kel":"9603052007","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"AYAU","nama_kel":"RUNI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960305","kode_kel":"9603052008","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"AYAU","nama_kel":"YENKANFAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960306","kode_kel":"9603062001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL TIMUR","nama_kel":"FOLEY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960306","kode_kel":"9603062003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL TIMUR","nama_kel":"TOMOLOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960306","kode_kel":"9603062011","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL TIMUR","nama_kel":"USAHA JAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960306","kode_kel":"9603062012","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL TIMUR","nama_kel":"LIMALAS TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960306","kode_kel":"9603062016","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL TIMUR","nama_kel":"AUDAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960306","kode_kel":"9603062017","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL TIMUR","nama_kel":"LIMALAS BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960307","kode_kel":"9603072001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT","nama_kel":"SELPELE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960307","kode_kel":"9603072005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT","nama_kel":"MUTUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960307","kode_kel":"9603072007","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT","nama_kel":"BIANCI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960307","kode_kel":"9603072011","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT","nama_kel":"SALEO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960307","kode_kel":"9603072012","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT","nama_kel":"WAISILIP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960308","kode_kel":"9603082001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO TIMUR","nama_kel":"PUPER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960308","kode_kel":"9603082002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO TIMUR","nama_kel":"YENBEKAKI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960308","kode_kel":"9603082003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO TIMUR","nama_kel":"URBINASOPEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960308","kode_kel":"9603082004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO TIMUR","nama_kel":"YENSNER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960309","kode_kel":"9603092001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TELUK MAYALIBIT","nama_kel":"LOPINTOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960309","kode_kel":"9603092007","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TELUK MAYALIBIT","nama_kel":"WARSAMDIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960309","kode_kel":"9603092009","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TELUK MAYALIBIT","nama_kel":"MUMES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960309","kode_kel":"9603092010","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TELUK MAYALIBIT","nama_kel":"KALITOKO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960310","kode_kel":"9603102001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOFIAU","nama_kel":"DIBALAL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960310","kode_kel":"9603102002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOFIAU","nama_kel":"TOLOBI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960310","kode_kel":"9603102003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOFIAU","nama_kel":"DEER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960310","kode_kel":"9603102004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOFIAU","nama_kel":"MIKIRAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960310","kode_kel":"9603102005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOFIAU","nama_kel":"AWAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"YENBEKWAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"KAPISAWAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"SAWINGGRAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"YENWAUPNOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"ARBOREK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112006","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"YENBUBA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112007","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"KABUY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112008","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"KURKAPA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960311","kode_kel":"9603112009","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MEOS MANSAR","nama_kel":"SAUANDAREK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960313","kode_kel":"9603132002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL SELATAN","nama_kel":"FAFANLAP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960313","kode_kel":"9603132006","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL SELATAN","nama_kel":"YELLU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960313","kode_kel":"9603132007","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL SELATAN","nama_kel":"HARAPAN JAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960313","kode_kel":"9603132009","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL SELATAN","nama_kel":"KAREYEPOP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960313","kode_kel":"9603132010","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL SELATAN","nama_kel":"DABATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960314","kode_kel":"9603142001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WARWARBOMI","nama_kel":"WARWANAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960314","kode_kel":"9603142002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WARWARBOMI","nama_kel":"MNIER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960314","kode_kel":"9603142003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WARWARBOMI","nama_kel":"BONI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960314","kode_kel":"9603142004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WARWARBOMI","nama_kel":"WARKORI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960315","kode_kel":"9603152001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT KEPULAUAN","nama_kel":"MANYAIFUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960315","kode_kel":"9603152002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT KEPULAUAN","nama_kel":"MIOSMANGGARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960315","kode_kel":"9603152003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT KEPULAUAN","nama_kel":"PAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960315","kode_kel":"9603152004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT KEPULAUAN","nama_kel":"SAUKABU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960315","kode_kel":"9603152005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT KEPULAUAN","nama_kel":"GAG","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960315","kode_kel":"9603152006","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"WAIGEO BARAT KEPULAUAN","nama_kel":"SAUPAPIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960316","kode_kel":"9603162001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL BARAT","nama_kel":"LILINTA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960316","kode_kel":"9603162002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL BARAT","nama_kel":"GAMTA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960316","kode_kel":"9603162003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL BARAT","nama_kel":"BIGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960316","kode_kel":"9603162004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL BARAT","nama_kel":"KAPATCOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960316","kode_kel":"9603162005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"MISOOL BARAT","nama_kel":"MAGEY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960317","kode_kel":"9603172001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN SEMBILAN","nama_kel":"WEIJIM BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960317","kode_kel":"9603172002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN SEMBILAN","nama_kel":"WEIJIM TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960317","kode_kel":"9603172003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN SEMBILAN","nama_kel":"SATOKURANO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960317","kode_kel":"9603172004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN SEMBILAN","nama_kel":"PULAU TIKUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960318","kode_kel":"9603181001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOTA WAISAI","nama_kel":"WAISAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960318","kode_kel":"9603181002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOTA WAISAI","nama_kel":"SAPORDANCO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960318","kode_kel":"9603181003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOTA WAISAI","nama_kel":"BONKAWIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960318","kode_kel":"9603181004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KOTA WAISAI","nama_kel":"WARMASEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960319","kode_kel":"9603192001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TIPLOL MAYALIBIT","nama_kel":"GO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960319","kode_kel":"9603192002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TIPLOL MAYALIBIT","nama_kel":"KABILOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960319","kode_kel":"9603192003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TIPLOL MAYALIBIT","nama_kel":"ARAWAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960319","kode_kel":"9603192004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TIPLOL MAYALIBIT","nama_kel":"BEO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960319","kode_kel":"9603192005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TIPLOL MAYALIBIT","nama_kel":"WAIFOI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960319","kode_kel":"9603192006","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"TIPLOL MAYALIBIT","nama_kel":"WARIMAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960320","kode_kel":"9603202001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA UTARA","nama_kel":"YENSAWAI TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960320","kode_kel":"9603202002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA UTARA","nama_kel":"YENSAWAI BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960320","kode_kel":"9603202003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA UTARA","nama_kel":"AREFI TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960320","kode_kel":"9603202004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA UTARA","nama_kel":"AREFI SELATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960321","kode_kel":"9603212001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI BARAT","nama_kel":"WAIBON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960321","kode_kel":"9603212002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI BARAT","nama_kel":"SOLOL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960321","kode_kel":"9603212003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI BARAT","nama_kel":"KALIAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960321","kode_kel":"9603212004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI BARAT","nama_kel":"KALWAL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960322","kode_kel":"9603222001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI TENGAH","nama_kel":"KALOBO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960322","kode_kel":"9603222002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI TENGAH","nama_kel":"SAKABU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960322","kode_kel":"9603222003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI TENGAH","nama_kel":"WAIBU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960322","kode_kel":"9603222004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI TENGAH","nama_kel":"WAIJAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960322","kode_kel":"9603222005","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI TENGAH","nama_kel":"WAIMECI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960322","kode_kel":"9603222006","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI TENGAH","nama_kel":"WAILABU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960322","kode_kel":"9603222007","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SALAWATI TENGAH","nama_kel":"WAILEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960323","kode_kel":"9603232001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SUPNIN","nama_kel":"RAUKI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960323","kode_kel":"9603232002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SUPNIN","nama_kel":"URAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960323","kode_kel":"9603232003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SUPNIN","nama_kel":"DUBER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960323","kode_kel":"9603232004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"SUPNIN","nama_kel":"KAPADIRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960324","kode_kel":"9603242001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN AYAU","nama_kel":"ABIDON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960324","kode_kel":"9603242002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN AYAU","nama_kel":"RUTUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960324","kode_kel":"9603242003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN AYAU","nama_kel":"RENI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960324","kode_kel":"9603242004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"KEPULAUAN AYAU","nama_kel":"MEOSBEKWAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960325","kode_kel":"9603252001","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA SELATAN","nama_kel":"YENANAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960325","kode_kel":"9603252002","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA SELATAN","nama_kel":"AMDUI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960325","kode_kel":"9603252003","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA SELATAN","nama_kel":"WAILEBET","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9603","kode_kec":"960325","kode_kel":"9603252004","kode_prov":"96","nama_cab":"RAJA AMPAT","nama_kec":"BATANTA SELATAN","nama_kel":"WAIMAN KEC BATANTA SELATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"FEF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"WAYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"SYUBUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"SIKOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012010","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"IBE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012011","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"SYUNAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"BANFOT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012013","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"IWIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012014","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"ESYUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960401","kode_kel":"9604012015","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"FEF","nama_kel":"IMOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960402","kode_kel":"9604022001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH","nama_kel":"SIAKWA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960402","kode_kel":"9604022006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH","nama_kel":"AIBOGIAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960402","kode_kel":"9604022008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH","nama_kel":"AYAE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960402","kode_kel":"9604022013","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH","nama_kel":"AYAWIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960402","kode_kel":"9604022014","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH","nama_kel":"AIFAIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960403","kode_kel":"9604032001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"YEMBUN","nama_kel":"BAUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960403","kode_kel":"9604032002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"YEMBUN","nama_kel":"SUMBEKAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960403","kode_kel":"9604032003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"YEMBUN","nama_kel":"METNAYAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960403","kode_kel":"9604032007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"YEMBUN","nama_kel":"METBELUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960403","kode_kel":"9604032012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"YEMBUN","nama_kel":"SALEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960403","kode_kel":"9604032013","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"YEMBUN","nama_kel":"METBESA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960404","kode_kel":"9604042001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWOOR","nama_kel":"KWOOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960404","kode_kel":"9604042002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWOOR","nama_kel":"HOPMARE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960404","kode_kel":"9604042011","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWOOR","nama_kel":"ORWEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960404","kode_kel":"9604042012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWOOR","nama_kel":"BARAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960404","kode_kel":"9604042013","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWOOR","nama_kel":"ESMAMBO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"SAUSAPOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"EMAOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"JOKTE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"UIGWEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052010","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"SUNGGUWAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052011","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"SAU URAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"NANGGOU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052013","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"BONDEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052018","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"BONDONGGWAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960405","kode_kel":"9604052019","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SAUSAPOR","nama_kel":"SYURAUW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960406","kode_kel":"9604062001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ABUN","nama_kel":"WAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960406","kode_kel":"9604062002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ABUN","nama_kel":"SYUKWO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960406","kode_kel":"9604062003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ABUN","nama_kel":"WAIBEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960406","kode_kel":"9604062005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ABUN","nama_kel":"WEYAF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960406","kode_kel":"9604062006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ABUN","nama_kel":"WEPRARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960407","kode_kel":"9604072001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SYUJAK","nama_kel":"SYUJAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960407","kode_kel":"9604072002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SYUJAK","nama_kel":"BANSO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960407","kode_kel":"9604072004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SYUJAK","nama_kel":"IOF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960407","kode_kel":"9604072005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SYUJAK","nama_kel":"FRAFANE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"MEGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"SELEWOK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"MALAWORSAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"KWADE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"BONEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"WARAFOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082010","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"WARMASI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082011","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"WARMANEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960408","kode_kel":"9604082012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MORAID","nama_kel":"NAMUAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"INJAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092015","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"APOKI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092016","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"MATATUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092017","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"JAFAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092018","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"JAMBUANI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092019","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"MANARIA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092022","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"ANARUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092027","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"WASANGGON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960409","kode_kel":"9604092028","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR","nama_kel":"WABANEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"SAUKOREM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"WEFIANI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"WASARAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"BINASI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102013","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"KABIBWAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102014","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"BINMAKS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102016","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"MANGGAPNUT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102017","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"WARAMUI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960410","kode_kel":"9604102021","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN","nama_kel":"WARPAPERI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"SENOPI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"ARAPI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"SRUREM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"SUMO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"IFAT MITU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"POVOKEK ANIA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"THOMAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112015","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"TINTUM ARAW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960411","kode_kel":"9604112016","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SENOPI","nama_kel":"HOBIAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"ARFU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"BAWEY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"WASNEMBRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"WARU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"ATORI KEC MUBRANI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"MERIAMBEKER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122015","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"WAROKON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122016","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"AREKON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122017","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"BONPAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960412","kode_kel":"9604122018","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MUBRANI","nama_kel":"MARBUAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"WERUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"BUKIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"WERTAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"WERWAF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"WERBES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"NOMBRAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"BIKAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"SYUNAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"SUYAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960413","kode_kel":"9604132010","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BIKAR","nama_kel":"WERTIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960414","kode_kel":"9604142001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BAMUSBAMA","nama_kel":"BAMUSBAMA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960414","kode_kel":"9604142002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BAMUSBAMA","nama_kel":"BAMUSWAIMAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960414","kode_kel":"9604142003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BAMUSBAMA","nama_kel":"SYARWOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960414","kode_kel":"9604142005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BAMUSBAMA","nama_kel":"BABAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960414","kode_kel":"9604142006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BAMUSBAMA","nama_kel":"BANO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960414","kode_kel":"9604142007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"BAMUSBAMA","nama_kel":"WORMON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960415","kode_kel":"9604152001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ASES","nama_kel":"ASES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960415","kode_kel":"9604152002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ASES","nama_kel":"ASUON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960415","kode_kel":"9604152003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ASES","nama_kel":"SAFOTIEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960415","kode_kel":"9604152004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"ASES","nama_kel":"FRASAYOAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"MAWOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"RUF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"AYAMANE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"WHISMER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"SAHAE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"HEWI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"SISU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"RUVEWES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960416","kode_kel":"9604162009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MIYAH SELATAN","nama_kel":"YABUOW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960417","kode_kel":"9604172001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"IRERES","nama_kel":"MIRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960417","kode_kel":"9604172002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"IRERES","nama_kel":"MEIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960417","kode_kel":"9604172003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"IRERES","nama_kel":"AIFAMAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960417","kode_kel":"9604172004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"IRERES","nama_kel":"MEINAD","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960417","kode_kel":"9604172005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"IRERES","nama_kel":"ATAFRUMEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960417","kode_kel":"9604172006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"IRERES","nama_kel":"IFIAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960417","kode_kel":"9604172007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"IRERES","nama_kel":"WUFMANA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960418","kode_kel":"9604182001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TOBOUW","nama_kel":"SYUMBAB","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960418","kode_kel":"9604182002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TOBOUW","nama_kel":"KRISNOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960418","kode_kel":"9604182003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TOBOUW","nama_kel":"SYUKWES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960418","kode_kel":"9604182006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TOBOUW","nama_kel":"SUNGGAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960418","kode_kel":"9604182007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TOBOUW","nama_kel":"WOWOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960418","kode_kel":"9604182008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TOBOUW","nama_kel":"RESYE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960419","kode_kel":"9604192001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"WILHEM ROUMBOUTS","nama_kel":"TABAMSERE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960419","kode_kel":"9604192002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"WILHEM ROUMBOUTS","nama_kel":"SAYAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960419","kode_kel":"9604192003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"WILHEM ROUMBOUTS","nama_kel":"ARAF MAFAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960419","kode_kel":"9604192004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"WILHEM ROUMBOUTS","nama_kel":"ESYUOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960420","kode_kel":"9604202001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TINGGOUW","nama_kel":"TINGGOUW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960420","kode_kel":"9604202002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TINGGOUW","nama_kel":"HOHAIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960420","kode_kel":"9604202003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TINGGOUW","nama_kel":"RURIAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960420","kode_kel":"9604202004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TINGGOUW","nama_kel":"SOON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960420","kode_kel":"9604202005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"TINGGOUW","nama_kel":"IFATKAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"JOKBUJOKER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"KRANFOTSU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"SYUAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"KWESEFO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"BATDEY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"SYUMBI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"BAO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"DONAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960421","kode_kel":"9604212009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KWESEFO","nama_kel":"DOMBRON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960422","kode_kel":"9604222001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MAWABUAN","nama_kel":"WAUSIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960422","kode_kel":"9604222002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MAWABUAN","nama_kel":"ASITI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960422","kode_kel":"9604222003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MAWABUAN","nama_kel":"BISAUD","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960422","kode_kel":"9604222005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MAWABUAN","nama_kel":"NISANDAUW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960422","kode_kel":"9604222006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MAWABUAN","nama_kel":"AFRAWI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960422","kode_kel":"9604222007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MAWABUAN","nama_kel":"AJOKWAPI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"INAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"JANDURAUW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"INAMBUARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"SITORI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"UNTOREY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"NABISAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"ARUMI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"KARAWI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"ARAMPAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960423","kode_kel":"9604232013","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR TIMUR","nama_kel":"BARONA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"NEKORI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"AJAMI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"ANITI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"AKARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"AMNAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"ATIKI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"ARWANI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"ARITOWI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"UMPAY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960424","kode_kel":"9604242010","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KEBAR SELATAN","nama_kel":"MEIWAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"ATAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"AKMURI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"AWORI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"ITAFITI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"ATUNARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"AJAMI WARIPI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"NARAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"ARANARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"WAUMI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960425","kode_kel":"9604252010","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MANEKAR","nama_kel":"ANETI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960426","kode_kel":"9604262001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MPUR","nama_kel":"ARUPI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960426","kode_kel":"9604262003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MPUR","nama_kel":"MANGGANEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960426","kode_kel":"9604262004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MPUR","nama_kel":"WAJAREK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960426","kode_kel":"9604262005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MPUR","nama_kel":"KALI AN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960426","kode_kel":"9604262006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MPUR","nama_kel":"ARARO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960426","kode_kel":"9604262007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MPUR","nama_kel":"WEKARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960426","kode_kel":"9604262008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"MPUR","nama_kel":"SERAYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960427","kode_kel":"9604272001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN BARAT","nama_kel":"SASUI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960427","kode_kel":"9604272002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN BARAT","nama_kel":"IMBUAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960427","kode_kel":"9604272003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN BARAT","nama_kel":"MANGGAEW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960427","kode_kel":"9604272004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN BARAT","nama_kel":"SAURABON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960427","kode_kel":"9604272005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"AMBERBAKEN BARAT","nama_kel":"WASAWMONTEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"MESERIKWEDA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"KASI BARU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"KASI JAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"MEIMORUFOF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"KASI INDAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282006","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"WACAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282007","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"IRUMFEI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282008","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"PUBUAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282009","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"IREJI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282010","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"KASI INOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282011","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"MEYCOCFORGA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960428","kode_kel":"9604282012","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"KASI","nama_kel":"MEYOMNAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960429","kode_kel":"9604292001","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SELEMKAI","nama_kel":"DELLA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960429","kode_kel":"9604292002","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SELEMKAI","nama_kel":"MALAYAUW","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960429","kode_kel":"9604292003","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SELEMKAI","nama_kel":"KLASBON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960429","kode_kel":"9604292004","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SELEMKAI","nama_kel":"KLASEI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9604","kode_kec":"960429","kode_kel":"9604292005","kode_prov":"96","nama_cab":"TAMBRAUW","nama_kec":"SELEMKAI","nama_kel":"KLABILI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"KUMURKEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"SUSUMUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"KOKAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"KOCUAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"KOCUWER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"BORI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"WERJAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"TEHAHITE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"FAITMAYAF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"AISYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"FUTON","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"SAMPIKA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"MARTAIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012014","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"FRAWEBO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012015","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"FAITSAWE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012016","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"KOCUWER SELATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012017","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"FAITMAYAF BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012018","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"SIKOF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012019","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"BORI TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012020","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"KUMURKEK BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012021","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"AINOD","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012022","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"KOCUAS UTARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960501","kode_kel":"9605012023","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT","nama_kel":"SUNEI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"AYAWASI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"AYAWASI SELATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"AYAWASI TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"SUSAI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"FONATU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"MOSUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"WAYANE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"KONJA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"YARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"MAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"HOWAIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"HAENKANES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"KONJA BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022014","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"YARAT TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022015","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"RAHA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022016","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"MOWES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022017","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"IRATA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022018","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"NESET","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022019","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"MOSUN TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960502","kode_kel":"9605022020","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT UTARA","nama_kel":"MOSUN UTARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"AISA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"AIKRER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"AITREM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"SAWIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"SAHBUKU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"SASIOR FRABUKU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032026","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"WAKOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032027","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"SANEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960503","kode_kel":"9605032033","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR","nama_kel":"BUOH SA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"KISOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"SORRY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"IMSUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"SABAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"TAHSIMARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"FUOG","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"ASIAF SAMAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"HORA IEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"FUOG SELATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"SAME RAKATOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"ROMA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"KRUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042014","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"AWET MAIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042015","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"YEEK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042016","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"KAITANA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960504","kode_kel":"9605042017","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT SELATAN","nama_kel":"TOLAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"KAMBUFATEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"KAMBUFATEM UTARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"FATASE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"HOSYO ATA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"WAYBOMATAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"SIYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"HASWEH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"FATEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960505","kode_kel":"9605052013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO BARAT","nama_kel":"HOSYO BANAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"AITINYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"IROHE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"SRIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"KAMRO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"KARSU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"TEHAK KECIL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"SIRA AYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"KOROM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"SUMANIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"IBASUF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062014","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"SOWAI SAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062015","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"SUBIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062016","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"IROHMRAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062017","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"BOFAIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062018","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"AFKREM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062019","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"WIHO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960506","kode_kel":"9605062020","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO","nama_kel":"KAMRO SELATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"FATEGOMI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"TEHAK BESAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"FAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"GOHSAMES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"ASMURUF U","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"MIRAFAAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"ASMURUF TEE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"TEHAK TEE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"FRAMAFIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072014","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"SUBRIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072015","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"INTA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960507","kode_kel":"9605072016","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO UTARA","nama_kel":"BAHWAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605081001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"AYAMARU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605082010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"FRAMU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605082011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"MEFKAJIM II","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605082017","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"FRAHARO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605082018","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"SMUSSWIOH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605082019","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"TWER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605082020","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"AFES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960508","kode_kel":"9605082021","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU","nama_kel":"TUSO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"YUBIAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"KARETUBUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"SETTA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"HOHOYOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"ARNE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"AUS TIWIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"JOHAFAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"YUKASE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"SERMA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"KFAA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092014","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"ARNE TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960509","kode_kel":"9605092020","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA","nama_kel":"NAUWITA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"KAMBUAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"HUBERITA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"FAITMAJIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"ISMAYO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"SEFAYIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"INSAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"FAITSIUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960510","kode_kel":"9605102010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR","nama_kel":"KEYUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"SUSWA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"SEYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"WABAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"KOMBIF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"RUFASES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"BAKRABI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"NAFASI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"MAHOS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960511","kode_kel":"9605112012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE","nama_kel":"SAWO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"MUPAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"KAMAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"FRAMBU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"AYATA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"AIKUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"AIWESA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"PITOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"AIFAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"SAUD","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"TIAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"FAAN KAHRIO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960512","kode_kel":"9605122012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR TENGAH","nama_kel":"ASSEM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960513","kode_kel":"9605132001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR JAUH","nama_kel":"AINESRA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960513","kode_kel":"9605132002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR JAUH","nama_kel":"AIMAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960513","kode_kel":"9605132003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR JAUH","nama_kel":"MESYAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960513","kode_kel":"9605132004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR JAUH","nama_kel":"AISASIOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960513","kode_kel":"9605132005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR JAUH","nama_kel":"FRANEWAY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960513","kode_kel":"9605132006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR JAUH","nama_kel":"AIKINGGING","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960513","kode_kel":"9605132007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR JAUH","nama_kel":"TIEFROMEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960514","kode_kel":"9605142001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR SELATAN","nama_kel":"WORMU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960514","kode_kel":"9605142002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR SELATAN","nama_kel":"MAKIRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960514","kode_kel":"9605142003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR SELATAN","nama_kel":"WARBA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960514","kode_kel":"9605142004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR SELATAN","nama_kel":"WINUNI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960514","kode_kel":"9605142005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR SELATAN","nama_kel":"SRUMATE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960514","kode_kel":"9605142006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AIFAT TIMUR SELATAN","nama_kel":"WOMBA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"SAUF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"SEMBARO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"KOMA KOMA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"KANISABAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"SFARARE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"SANEH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"LEMAUK KLIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"HAWIOH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"SIMIYAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960515","kode_kel":"9605152010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN","nama_kel":"SAGRIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"ADOH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"TEMEL","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"SOSIAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"SEGIOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"ORAIN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"RAWAS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"ORSU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"SOAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"WARBO KEC AYAMARU JAYA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960516","kode_kel":"9605162010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU JAYA","nama_kel":"WOMAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960517","kode_kel":"9605172001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN JAYA","nama_kel":"FAITSIMAR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960517","kode_kel":"9605172002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN JAYA","nama_kel":"ASSES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960517","kode_kel":"9605172003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN JAYA","nama_kel":"FAIT NIGRE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960517","kode_kel":"9605172004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN JAYA","nama_kel":"SUFU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960517","kode_kel":"9605172005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN JAYA","nama_kel":"ARUS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960517","kode_kel":"9605172006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN JAYA","nama_kel":"KOFAIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960517","kode_kel":"9605172007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU SELATAN JAYA","nama_kel":"ISNUM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960518","kode_kel":"9605182001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR SELATAN","nama_kel":"KAMBUSKATO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960518","kode_kel":"9605182002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR SELATAN","nama_kel":"KAMBUSKATO UTARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960518","kode_kel":"9605182003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR SELATAN","nama_kel":"KAMBUIFA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960518","kode_kel":"9605182004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR SELATAN","nama_kel":"ISUSU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960518","kode_kel":"9605182005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR SELATAN","nama_kel":"MANO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960518","kode_kel":"9605182006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR SELATAN","nama_kel":"SIPAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960518","kode_kel":"9605182007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TIMUR SELATAN","nama_kel":"FAITWOSUR/ANGKASA PURA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960519","kode_kel":"9605192001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA TIMUR","nama_kel":"MAPURA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960519","kode_kel":"9605192002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA TIMUR","nama_kel":"SUWIAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960519","kode_kel":"9605192003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA TIMUR","nama_kel":"TOMASE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960519","kode_kel":"9605192004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA TIMUR","nama_kel":"FRABO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960519","kode_kel":"9605192005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA TIMUR","nama_kel":"KARFA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960519","kode_kel":"9605192006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA TIMUR","nama_kel":"KONA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960519","kode_kel":"9605192007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU UTARA TIMUR","nama_kel":"KOSAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"FIANE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"KARTAPURA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"MEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"SEMU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"ISME","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"RINDU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"TUT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"YOHWER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"HUFIOH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960520","kode_kel":"9605202010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU TENGAH","nama_kel":"BAWY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"SOROAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"FANSE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"CHALIAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"SFACKO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"SEHU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"TBO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"SIEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960521","kode_kel":"9605212008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AYAMARU BARAT","nama_kel":"SFARAKA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"YAKSORO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"AWIT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"SIRA KEC AITINYO TENGAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"EWAY","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"EROKWERO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"SABUN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"ITIGAH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"SIRA TEE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"WRAIT 'U'","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"WAY 'U'","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222011","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"ASNAIF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222012","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"IROH SOHSER","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222013","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"FRAMBOH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960522","kode_kel":"9605222014","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO TENGAH","nama_kel":"TOHMRI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"JITMAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"IKUF","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"ISIR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"JITMAU TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"IKUF UTARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"SARIMO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"KAMBUSABO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"SRIRTABAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"FAITHOWES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960523","kode_kel":"9605232010","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"AITINYO RAYA","nama_kel":"YUMAME","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242001","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"SENI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242002","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"RENIS","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242003","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"SIRE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242004","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"FASE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242005","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"SABES","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242006","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"KURASO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242007","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"SIDI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242008","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"OSOM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9605","kode_kec":"960524","kode_kel":"9605242009","kode_prov":"96","nama_cab":"MAYBRAT","nama_kec":"MARE SELATAN","nama_kel":"SIRE TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967101","kode_kel":"9671011001","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG","nama_kel":"REMU UTARA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967101","kode_kel":"9671011002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG","nama_kel":"KLADEMAK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967101","kode_kel":"9671011007","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG","nama_kel":"KOFKERBU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967101","kode_kel":"9671011008","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG","nama_kel":"REMU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967102","kode_kel":"9671021008","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG TIMUR","nama_kel":"KLAWALU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967102","kode_kel":"9671021010","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG TIMUR","nama_kel":"KLAMANA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967102","kode_kel":"9671021011","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG TIMUR","nama_kel":"KLAWUYUK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967102","kode_kel":"9671021013","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG TIMUR","nama_kel":"KLADUFU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967103","kode_kel":"9671031002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG BARAT","nama_kel":"RUFEI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967103","kode_kel":"9671031005","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG BARAT","nama_kel":"KLAWASI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967103","kode_kel":"9671031006","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG BARAT","nama_kel":"PUNCAK CENDRAWASIH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967103","kode_kel":"9671031007","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG BARAT","nama_kel":"PAL PUTIH","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967104","kode_kel":"9671041001","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KEPULAUAN","nama_kel":"DUM BARAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967104","kode_kel":"9671041002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KEPULAUAN","nama_kel":"DUM TIMUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967104","kode_kel":"9671041003","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KEPULAUAN","nama_kel":"SOOP","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967104","kode_kel":"9671041004","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KEPULAUAN","nama_kel":"RAAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967105","kode_kel":"9671051002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG UTARA","nama_kel":"MALANU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967105","kode_kel":"9671051007","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG UTARA","nama_kel":"MALASILEN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967105","kode_kel":"9671051010","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG UTARA","nama_kel":"MATALAMAGI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967105","kode_kel":"9671051011","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG UTARA","nama_kel":"SAWAGUMU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967106","kode_kel":"9671061001","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG MANOI","nama_kel":"KLALIGI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967106","kode_kel":"9671061002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG MANOI","nama_kel":"MALAWEI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967106","kode_kel":"9671061003","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG MANOI","nama_kel":"MALABUTOR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967106","kode_kel":"9671061004","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG MANOI","nama_kel":"REMU SELATAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967106","kode_kel":"9671061005","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG MANOI","nama_kel":"KLASABI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967107","kode_kel":"9671071001","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KOTA","nama_kel":"KAMPUNG BARU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967107","kode_kel":"9671071002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KOTA","nama_kel":"KLABALA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967107","kode_kel":"9671071003","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KOTA","nama_kel":"KLASUUR","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967107","kode_kel":"9671071004","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"SORONG KOTA","nama_kel":"KLAKUBLIK","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967108","kode_kel":"9671081001","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"KLAURUNG","nama_kel":"KLASUAT","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967108","kode_kel":"9671081002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"KLAURUNG","nama_kel":"KLABLIM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967108","kode_kel":"9671081003","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"KLAURUNG","nama_kel":"KLASAMAN","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967108","kode_kel":"9671081004","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"KLAURUNG","nama_kel":"GIWU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967109","kode_kel":"9671091001","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALAIMSIMSA","nama_kel":"KLAGETE","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967109","kode_kel":"9671091004","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALAIMSIMSA","nama_kel":"MALAINGKEDI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967109","kode_kel":"9671091005","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALAIMSIMSA","nama_kel":"MALAMSO","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967109","kode_kel":"9671091006","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALAIMSIMSA","nama_kel":"KLABULU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967110","kode_kel":"9671101001","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALADUM MES","nama_kel":"SUPRAU","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967110","kode_kel":"9671101002","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALADUM MES","nama_kel":"TAMPA GARAM","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967110","kode_kel":"9671101003","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALADUM MES","nama_kel":"SAOKA","nama_prov":"PAPUA BARAT DAYA","tingkat":4}
+{"kode_cab":"9671","kode_kec":"967110","kode_kel":"9671101004","kode_prov":"96","nama_cab":"KOTA SORONG","nama_kec":"MALADUM MES","nama_kel":"TANJUNG KASUARI","nama_prov":"PAPUA BARAT DAYA","tingkat":4}

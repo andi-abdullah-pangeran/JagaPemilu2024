@@ -1,0 +1,86 @@
+## this using benthos https://www.benthos.dev/docs/about
+
+logger:
+  level: WARN
+  format: json
+  add_timestamp: true
+  static_fields:
+    '@service': crawler
+
+input:
+  resource: ambil_provinsi
+
+pipeline:
+  processors:
+    - resource: proses_provinsi
+    - resource: ambil_wilayah
+    - resource: proses_cab
+    - resource: ambil_wilayah
+    - resource: proses_kec
+    - resource: ambil_wilayah
+    - resource: proses_kel
+
+input_resources:
+  - label: ambil_provinsi
+    file:
+      paths:
+        - master_provinsi/all.txt
+      codec: lines
+
+processor_resources:
+  - label: proses_provinsi
+    for_each:
+      - mapping:
+          meta kode_wilayah = this.kode_prov
+
+  - label: ambil_wilayah
+    branch:
+      request_map: |-
+        root = ""
+      processors:
+        - http:
+            url: https://sirekap-obj-data.kpu.go.id/wilayah/pemilu/ppwp/${!meta("kode_wilayah")}.json
+            verb: GET
+        - mapping:
+            root = this.sort_by(pair -> pair.kode)
+      result_map: |-
+        root.wilayah = this
+
+  - label: proses_cab
+    for_each:
+      - mapping: |-
+          root = this.wilayah.map_each(w -> this.without("wilayah").assign({"tingkat": w.tingkat, "kode_cab": w.kode, "nama_cab": w.nama}))
+      - unarchive:
+          format: "json_array"
+      - mapping: |-
+          meta kode_wilayah = this.kode_prov + "/" + this.kode_cab
+
+  - label: proses_kec
+    for_each:
+      - mapping: |-
+          root = this.wilayah.map_each(w -> this.without("wilayah").assign({"tingkat": w.tingkat, "kode_kec": w.kode, "nama_kec": w.nama}))
+      - unarchive:
+          format: "json_array"
+      - mapping: |-
+          meta kode_wilayah = this.kode_prov + "/" + this.kode_cab + "/" + this.kode_kec
+
+  - label: proses_kel
+    for_each:
+      - mapping: |-
+          root = this.wilayah.map_each(w -> this.without("wilayah").assign({"tingkat": w.tingkat, "kode_kel": w.kode, "nama_kel": w.nama}))
+      - unarchive:
+          format: "json_array"
+      - mapping: |-
+          meta kode_wilayah = this.kode_prov + "/" + this.kode_cab + "/" + this.kode_kec + "/" + this.kode_kel
+          meta nama_file = "master_wilayah/" + this.nama_prov + ".txt"
+
+output_resources:
+  - label: wilayah
+    file:
+      path: ./${!meta("nama_file")}
+
+output:
+  broker:
+    pattern: fan_out
+    outputs:
+      - resource: wilayah

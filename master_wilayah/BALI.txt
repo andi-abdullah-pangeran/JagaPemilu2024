@@ -1,0 +1,716 @@
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101011006","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"BALER BALE AGUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101011008","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"BANJAR TENGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101011013","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"LELATENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101011014","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"LOLOAN BARAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012001","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"CUPEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012002","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"BALUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012003","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"BANYUBIRU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012004","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"KALIAKAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012005","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"BERANGBANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012009","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"TEGAL BADENG TIMUR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012010","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"TEGAL BADENG BARAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510101","kode_kel":"5101012011","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"NEGARA","nama_kel":"PENGAMBENGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101021006","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"TEGALCANGKRING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022001","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"MENDOYO DAUH TUKAD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022002","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"POHSANTEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022003","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"MENDOYO DANGIN TUKAD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022004","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"PERGUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022005","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"DELODBERAWAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022007","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"PENYARINGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022008","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"YEHEMBANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022009","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"YEH SUMBUL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022010","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"YEHEMBANG KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510102","kode_kel":"5101022011","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MENDOYO","nama_kel":"YEHEMBANG KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032001","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"MEDEWI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032002","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"PULUKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032003","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"ASAHDUREN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032004","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"PEKUTATAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032005","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"PANGYANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032006","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"GUMBRIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032007","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"MANGGISSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510103","kode_kel":"5101032008","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"PEKUTATAN","nama_kel":"PENGERAGOAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101041001","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"GILIMANUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042002","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"MELAYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042003","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"BELIMBINGSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042004","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"EKASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042005","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"NUSASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042006","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"WARNASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042007","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"CANDIKUSUMA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042008","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"TUWED","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042009","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"TUKADAYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510104","kode_kel":"5101042010","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"MELAYA","nama_kel":"MANISTUTU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101051001","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"PENDEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101051003","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"LOLOAN TIMUR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101051005","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"DAUHWARU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101051009","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"SANGKARAGUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101052002","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"PERANCAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101052004","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"BATU AGUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101052006","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"BUDENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101052007","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"AIR KUNING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101052008","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"YEHKUNING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5101","kode_kec":"510105","kode_kel":"5101052010","kode_prov":"51","nama_cab":"JEMBRANA","nama_kec":"JEMBRANA","nama_kel":"DANGINTUKADAYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"BAJERA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"WANAGIRI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"PUPUAN SAWAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"BEREMBENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"SELEMADEG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"SERAMPINGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"ANTAP","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"WANAGIRI KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"MANIKYANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510201","kode_kel":"5102012010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG","nama_kel":"BAJERA UTARA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"GUNUNG SALAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"GADUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"BANTAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"MAMBANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"MEGATI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"TANGGUNTITI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"BERABAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"TEGAL MENGKEB","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"DALANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510202","kode_kel":"5102022010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG TIMUR","nama_kel":"GADUNGSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"MUNDEH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"MUNDEH KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"LALANGLINGGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"ANTOSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"LUMBUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"LUMBUNG KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"TIYING GADING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"MUNDEH KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"ANGKAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"SELABIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510203","kode_kel":"5102032011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"SELEMADEG BARAT","nama_kel":"BENGKEL SARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"TIBUBIU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"KELATING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"PENARUKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"BELUMBANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"TISTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"KERAMBITAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"PANGKUNG KARUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"SAMSAM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"KUKUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"BATURITI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"MELILING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042012","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"SEMBUNG GEDE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042013","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"BATUAJI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042014","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"KESIUT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510204","kode_kel":"5102042015","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KERAMBITAN","nama_kel":"TIMPAG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"SUDIMARA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"GUBUG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"BONGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"DELOD PEKEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"DAUH PEKEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"DAJAN PEKEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"DENBANTAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"SUBAMIA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"WANASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"TUNJUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"BUAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510205","kode_kel":"5102052012","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"TABANAN","nama_kel":"SESANDAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"BENGKEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"PANGKUNG TIBAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"BELALANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"BERABAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"BUWIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"CEPAKA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"KABA-KABA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"NYAMBU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"PANDAK BANDUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"PANDAK GEDE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"NYITDAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062012","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"PEJATEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062013","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"KEDIRI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062014","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"ABIAN TUWUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510206","kode_kel":"5102062015","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"KEDIRI","nama_kel":"BANJAR ANYAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"KUKUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"BERINGKIT BELAYU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"PEKEN BELAYU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"BATANNYUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"TEGALJADI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"KUWUM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"SELANBAWAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"MARGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"PETIGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"CAU BELAYU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"TUA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072012","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"PAYANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072013","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"MARGA DAJAN PURI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072014","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"MARGA DAUH PURI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072015","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"GELUNTUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510207","kode_kel":"5102072016","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"MARGA","nama_kel":"BARU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"REJASA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"JEGU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"RIANG GEDE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"BURUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"BIAUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"PITRA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"PENATAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"TENGKUDAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"MENGESTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"PENEBEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"BABAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082012","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"SENGANAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082013","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"JATILUWIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082014","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"WONGAYA GEDE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082015","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"TAJEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082016","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"TEGALLINGGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082017","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"PESAGI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510208","kode_kel":"5102082018","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PENEBEL","nama_kel":"SANGKETAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"PEREAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"LUWUS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"APUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"ANGSERI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"BANGLI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"BATURITI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"ANTAPAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"CANDIKUNING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"MEKARSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"BATUNYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"PEREAN TENGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510209","kode_kel":"5102092012","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"BATURITI","nama_kel":"PEREAN KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102001","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"BELIMBING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102002","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"SANDA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102003","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"BATUNGSEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102004","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"KEBON PADANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102005","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"MUNDUKTEMU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102006","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"PUJUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102007","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"PUPUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102008","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"BANTIRAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102009","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"PADANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102010","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"JELIJIH PUNGGANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102011","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"BELATUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102012","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"PAJAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102013","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"KARYASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5102","kode_kec":"510210","kode_kel":"5102102014","kode_prov":"51","nama_cab":"TABANAN","nama_kec":"PUPUAN","nama_kel":"SAI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510301","kode_kel":"5103011001","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA","nama_kel":"TUBAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510301","kode_kel":"5103011002","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA","nama_kel":"KUTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510301","kode_kel":"5103011003","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA","nama_kel":"KEDONGANAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510301","kode_kel":"5103011004","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA","nama_kel":"LEGIAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510301","kode_kel":"5103011005","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA","nama_kel":"SEMINYAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103021004","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"KAPAL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103021005","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"SEMPIDI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103021014","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"ABIANBASE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103021015","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"SADING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103021016","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"LUKLUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022001","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"MUNGGU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022002","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"BUDUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022003","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"MENGWITANI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022006","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"PENARUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022007","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"SEMBUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022008","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"BAHA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022009","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"MENGWI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022010","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"KEKERAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022011","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"SOBANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022012","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"GULINGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022013","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"WERDI BHUWANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022017","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"CEMAGI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022018","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"PERERENAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022019","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"TUMBAKBAYUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510302","kode_kel":"5103022020","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"MENGWI","nama_kel":"KUWUM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032001","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"DARMASABA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032002","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"SIBANGKAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032003","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"SIBANGGEDE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032004","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"JAGAPATI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032005","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"ANGANTAKA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032006","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"SEDANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032007","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"MAMBAL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032008","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"ABIANSEMAL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032009","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"BONGKASA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032010","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"TAMAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032011","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"BLAHKIUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032012","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"AYUNAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032013","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"SANGEH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032014","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"PUNGGUL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032015","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"MEKAR BHUWANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032016","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"ABIANSEMAL DAUH YEH CANI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032017","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"SELAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510303","kode_kel":"5103032018","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"ABIANSEMAL","nama_kel":"BONGKASA PERTIWI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510304","kode_kel":"5103042001","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"PETANG","nama_kel":"CARANGSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510304","kode_kel":"5103042002","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"PETANG","nama_kel":"PETANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510304","kode_kel":"5103042003","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"PETANG","nama_kel":"BELOK/SIDAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510304","kode_kel":"5103042004","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"PETANG","nama_kel":"PELAGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510304","kode_kel":"5103042005","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"PETANG","nama_kel":"GETASAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510304","kode_kel":"5103042006","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"PETANG","nama_kel":"PANGSAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510304","kode_kel":"5103042007","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"PETANG","nama_kel":"SULANGAI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510305","kode_kel":"5103051004","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA SELATAN","nama_kel":"BENOA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510305","kode_kel":"5103051005","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA SELATAN","nama_kel":"TANJUNG BENOA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510305","kode_kel":"5103051006","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA SELATAN","nama_kel":"JIMBARAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510305","kode_kel":"5103052001","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA SELATAN","nama_kel":"PECATU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510305","kode_kel":"5103052002","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA SELATAN","nama_kel":"UNGASAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510305","kode_kel":"5103052003","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA SELATAN","nama_kel":"KUTUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510306","kode_kel":"5103061001","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA UTARA","nama_kel":"KEROBOKAN KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510306","kode_kel":"5103061002","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA UTARA","nama_kel":"KEROBOKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510306","kode_kel":"5103061003","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA UTARA","nama_kel":"KEROBOKAN KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510306","kode_kel":"5103062004","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA UTARA","nama_kel":"TIBUBENENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510306","kode_kel":"5103062005","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA UTARA","nama_kel":"CANGGU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5103","kode_kec":"510306","kode_kel":"5103062006","kode_prov":"51","nama_cab":"BADUNG","nama_kec":"KUTA UTARA","nama_kel":"DALUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012001","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"BATUBULAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012002","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"KETEWEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012003","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"GUWANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012004","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"SUKAWATI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012005","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"CELUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012006","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"SINGAPADU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012007","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"BATUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012008","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"KEMENUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012009","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"BATUBULAN KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012010","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"SINGAPADU TENGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012011","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"SINGAPADU KALER","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510401","kode_kel":"5104012012","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"SUKAWATI","nama_kel":"BATUAN KALER","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022001","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"SABA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022002","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"PERING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022003","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"KERAMAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022004","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"BELEGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022005","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"BLAHBATUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022006","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"BURUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022007","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"BEDULU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022008","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"MEDAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510402","kode_kel":"5104022009","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"BLAHBATUH","nama_kel":"BONA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104031003","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"SAMPLANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104031005","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"ABIANBASE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104031006","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"GIANYAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104031007","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"BITERA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104031008","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"BENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032001","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"TULIKUP","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032002","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"SIDAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032004","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"LEBIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032009","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"BAKBAKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032010","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"SIANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032011","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"SUWAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032012","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"PETAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032013","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"SERONGGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032014","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"PETAK KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032015","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"TEMESI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032016","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"SUMITA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510403","kode_kel":"5104032017","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"GIANYAR","nama_kel":"TEGAL TUGU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042001","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"PEJENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042002","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"SANDING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042003","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"TAMPAKSIRING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042004","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"MANUKAYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042005","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"PEJENG KAWAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042006","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"PEJENG KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042007","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"PEJENG KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510404","kode_kel":"5104042008","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TAMPAKSIRING","nama_kel":"PEJENG KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104051005","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"UBUD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104052001","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"LODTUNDUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104052002","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"MAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104052003","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"SINGAKERTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104052004","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"KEDEWATAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104052006","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"PELIATAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104052007","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"PETULU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510405","kode_kel":"5104052008","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"UBUD","nama_kel":"SAYAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510406","kode_kel":"5104062001","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TEGALLALANG","nama_kel":"KELIKI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510406","kode_kel":"5104062002","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TEGALLALANG","nama_kel":"TEGALLALANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510406","kode_kel":"5104062003","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TEGALLALANG","nama_kel":"KENDERAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510406","kode_kel":"5104062004","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TEGALLALANG","nama_kel":"KEDISAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510406","kode_kel":"5104062005","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TEGALLALANG","nama_kel":"PUPUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510406","kode_kel":"5104062006","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TEGALLALANG","nama_kel":"SEBATU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510406","kode_kel":"5104062007","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"TEGALLALANG","nama_kel":"TARO","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072001","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"MELINGGIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072002","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"KELUSA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072003","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"BUKIAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072004","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"PUHU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072005","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"BUAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072006","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"KERTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072007","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"MELINGGIH KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072008","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"BUAHAN KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5104","kode_kec":"510407","kode_kel":"5104072009","kode_prov":"51","nama_cab":"GIANYAR","nama_kec":"PAYANGAN","nama_kel":"BRESELA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012001","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"SAKTI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012002","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"BATUMADEG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012003","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"KLUMPU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012004","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"BATUKANDIK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012005","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"SEKARTAJI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012006","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"TANGLAD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012007","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"SUANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012008","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"BATUNUNGGUL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012009","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"KUTAMPI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012010","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"PED","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012011","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"KAMPUNG TOYAPAKEH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012012","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"LEMBONGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012013","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"JUNGUTBATU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012014","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"PEJUKUTAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012015","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"KUTAMPI KALER","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510501","kode_kel":"5105012016","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"NUSA PENIDA","nama_kel":"BUNGA MEKAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022001","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"NEGARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022002","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"TAKMUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022003","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"BANJARANGKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022004","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"TUSAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022005","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"BAKAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022006","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"GETAKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022007","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"TIHINGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022008","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"AAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022009","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"NYALIAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022010","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"BUNGBUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022011","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"TIMUHUN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022012","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"NYANGLAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510502","kode_kel":"5105022013","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"BANJARANGKAN","nama_kel":"TOHPATI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105031008","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SEMARAPURA KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105031009","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SEMARAPURA KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105031010","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SEMARAPURA TENGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105031011","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SEMARAPURA KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105031012","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SEMARAPURA KLOD KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105031013","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SEMARAPURA KLOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032001","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SATRA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032002","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"TOJAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032003","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"GELGEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032004","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"KAMPUNG GELGEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032005","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"JUMPAI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032006","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"TANGKAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032007","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"KAMASAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032014","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"AKAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032015","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"MANDUANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032016","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SELAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032017","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"TEGAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510503","kode_kel":"5105032018","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"KLUNGKUNG","nama_kel":"SELISIHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042001","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"PAKSEBALI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042002","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"SAMPALAN TENGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042003","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"SAMPALAN KLOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042004","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"SULANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042005","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"GUNAKSA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042006","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"KUSAMBA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042007","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"KAMPUNG KUSAMBA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042008","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"PESINGGAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042009","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"DAWAN KLOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042010","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"PIKAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042011","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"DAWAN KALER","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5105","kode_kec":"510504","kode_kel":"5105042012","kode_prov":"51","nama_cab":"KLUNGKUNG","nama_kec":"DAWAN","nama_kel":"BESAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012001","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"APUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012002","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"DEMULIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012003","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"ABUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012004","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"SUSUT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012005","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"SULAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012006","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"PENGLUMBARAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012007","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"TIGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012008","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"SELAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510601","kode_kel":"5106012009","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"SUSUT","nama_kel":"PENGIANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106021003","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"BEBALANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106021004","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"KAWAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106021005","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"CEMPAGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106021006","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"KUBU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106022001","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"BUNUTIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106022002","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"TAMANBALI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106022007","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"KAYUBIHI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106022008","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"PENGOTAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510602","kode_kel":"5106022009","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"BANGLI","nama_kel":"LANDIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510603","kode_kel":"5106032001","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"TEMBUKU","nama_kel":"JEHEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510603","kode_kel":"5106032002","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"TEMBUKU","nama_kel":"TEMBUKU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510603","kode_kel":"5106032003","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"TEMBUKU","nama_kel":"YANGAPI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510603","kode_kel":"5106032004","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"TEMBUKU","nama_kel":"UNDISAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510603","kode_kel":"5106032005","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"TEMBUKU","nama_kel":"BANGBANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510603","kode_kel":"5106032006","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"TEMBUKU","nama_kel":"PENINJOAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042001","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"MENGANI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042002","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BINYAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042003","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"ULIAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042004","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BUNUTIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042005","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"LANGGAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042006","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"LEMBEAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042007","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"MANIKLIYU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042008","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BAYUNG CERIK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042009","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"MANGGUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042010","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BELANCAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042011","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"KATUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042012","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BANUA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042013","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"ABUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042014","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BONYOH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042015","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SEKAAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042016","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BAYUNG GEDE","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042017","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SEKARDADI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042018","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"KEDISAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042019","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BUAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042020","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"ABANGSONGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042021","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SUTER","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042022","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"ABANG BATUDINDING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042023","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"TERUNYAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042024","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SONGAN A","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042025","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SONGAN B","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042026","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BATUR SELATAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042027","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BATUR TENGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042028","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BATUR UTARA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042029","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"KINTAMANI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042030","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SERAI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042031","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"DAUP","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042032","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"AWAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042033","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"GUNUNGBAU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042034","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BELANGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042035","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BATUKAANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042036","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BELANTIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042037","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"CATUR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042038","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"PENGEJARAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042039","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SELULUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042040","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SATRA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042041","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"DAUSA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042042","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BANTANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042043","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SUKAWANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042044","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"KUTUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042045","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SUBAYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042046","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"SIAKIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042047","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"PINGGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5106","kode_kec":"510604","kode_kel":"5106042048","kode_prov":"51","nama_cab":"BANGLI","nama_kec":"KINTAMANI","nama_kel":"BELANDINGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510701","kode_kel":"5107012001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"RENDANG","nama_kel":"NONGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510701","kode_kel":"5107012002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"RENDANG","nama_kel":"RENDANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510701","kode_kel":"5107012003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"RENDANG","nama_kel":"MENANGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510701","kode_kel":"5107012004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"RENDANG","nama_kel":"BESAKIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510701","kode_kel":"5107012005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"RENDANG","nama_kel":"PEMPATAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510701","kode_kel":"5107012006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"RENDANG","nama_kel":"PESABAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"TANGKUP","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"TALIBENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"SIDEMEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"SANGKAN GUNUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"TELAGATAWANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"SINDUWATI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022007","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"TRI EKA BUANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022008","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"KERTHA BUANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022009","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"LOKASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510702","kode_kel":"5107022010","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SIDEMEN","nama_kel":"WISMA KERTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"GEGELANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"ANTIGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"ULAKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"MANGGIS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"NYUH TEBEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"TENGANAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032007","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"NGIS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032008","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"SELUMBUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032009","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"PADANGBAI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032010","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"ANTIGA KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032011","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"PESEDAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510703","kode_kel":"5107032012","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"MANGGIS","nama_kel":"SENGKIDU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107041002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"SUBAGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107041003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"PADANGKERTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107041004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"KARANGASEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"BUGBUG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"TUMBU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"SERAYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042007","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"SERAYA BARAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042008","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"SERAYA TIMUR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042009","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"PERTIMA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042010","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"TEGALINGGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510704","kode_kel":"5107042011","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KARANGASEM","nama_kel":"BUKIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"ABABI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"TIYINGTALI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"BUNUTAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"TISTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"ABANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"PIDPID","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052007","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"DATAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052008","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"CULIK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052009","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"PURWA KERTHI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052010","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"KERTHA MANDALA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052011","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"LABA SARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052012","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"NAWA KERTI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052013","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"KESIMPAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510705","kode_kel":"5107052014","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"ABANG","nama_kel":"TRI BUANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"BUNGAYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"BUDAKELING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"BEBANDEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"SIBETAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"JUNGUTAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"BUNGAYA KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062007","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"BHUANA GIRI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510706","kode_kel":"5107062008","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"BEBANDEM","nama_kel":"MACANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"MUNCAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"SELAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"DUDA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"SEBUDI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"DUDA UTARA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"DUDA TIMUR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072007","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"PERINGSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510707","kode_kel":"5107072008","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"SELAT","nama_kel":"AMERTA BHUANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082001","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"BAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082002","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"DUKUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082003","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"KUBU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082004","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"TIANYAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082005","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"TIANYAR BARAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082006","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"TIANYAR TENGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082007","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"TULAMBEN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082008","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"BATURINGGIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5107","kode_kec":"510708","kode_kel":"5107082009","kode_prov":"51","nama_cab":"KARANGASEM","nama_kec":"KUBU","nama_kel":"SUKADANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"SUMBERKLAMPOK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"PEJARAKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"SUMBERKIMA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"PEMUTERAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"BANYUPOH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"PENYABANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"MUSI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"SANGGALANGIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"GEROKGAK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"PATAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"PENGULON","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"TINGA-TINGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"CELUKANBAWANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510801","kode_kel":"5108012014","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"GEROKGAK","nama_kel":"TUKADSUMAGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108021015","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"SERIRIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"UNGGAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"ULARAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"RINGDIKIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"RANGDU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"MAYONG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"GUNUNGSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"MUNDUK BESTALA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"BESTALA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"KALIANGET","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"JOANYAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"TANGGUWISIA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"SULANYAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"BUBUNAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022014","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"PATEMON","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022016","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"PENGASTULAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022017","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"LOKAPAKSA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022018","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"PANGKUNGPARUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022019","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"BANJARASEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022020","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"KALISADA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510802","kode_kel":"5108022021","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SERIRIT","nama_kel":"UMEANYAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"SEPANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"DAPDAP PUTIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"BONGANCINA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"PUCAKSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"TELAGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"TITAB","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"SUBUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"TINGGARSARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"KEDIS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"KEKERAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"BUSUNGBIU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"PELAPUAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"BENGKEL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032014","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"UMEJERO","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510803","kode_kel":"5108032015","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BUSUNGBIU","nama_kel":"SEPANG KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"BANYUSERI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"TIRTASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"KAYUPUTIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"BANYUATIS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"GESING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"MUNDUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"GOBLEG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"PEDAWA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"CEMPAGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"SIDETAPA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"TAMPEKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"BANJAR TEGEHA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"BANJAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042014","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"DENCARIK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042015","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"TEMUKUS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042016","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"TIGAWASA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510804","kode_kel":"5108042017","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BANJAR","nama_kel":"KALIASEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108051009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"SUKASADA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"PANCASARI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"WANAGIRI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"AMBENGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"GITGIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"PEGAYAMAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"SILANGJANA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"PEGADUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"PADANGBULIA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"SAMBANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"PANJI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"PANJI ANOM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"TEGALLINGGAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052014","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"SELAT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510805","kode_kel":"5108052015","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SUKASADA","nama_kel":"KAYUPUTIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"BANYUASRI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"BANJAR TEGAL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KENDRAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"PAKET AGUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KAMPUNG SINGARAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"LILIGUNDI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"BERATAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061019","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"BANYUNING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061020","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"PENARUKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061021","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KAMPUNG KAJANAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061022","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"ASTINA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061023","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"BANJAR JAWA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061024","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KALIUNTU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061025","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KAMPUNG ANYAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061026","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KAMPUNG BUGIS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061027","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"BANJAR BALI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108061029","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KAMPUNG BARU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"KALIBUKBUK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"ANTURAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"TUKADMUNGGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"PEMARON","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"BAKTISERAGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"SARIMEKAR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062014","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"NAGASEPAHA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062015","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"PETANDAKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062016","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"ALASANGKER","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062017","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"POH BERGONG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062018","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"JINENGDALEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510806","kode_kel":"5108062028","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"BULELENG","nama_kel":"PENGLATAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"LEMUKIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"GALUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"SEKUMPUL","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"BEBETIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"SUDAJI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"SAWAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"MENYALI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"SUWUG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"JAGARAGA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"SINABUN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"KEROBOKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"SANGSIT","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"BUNGKULAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510807","kode_kel":"5108072014","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"SAWAN","nama_kel":"GIRI EMAS","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"TAMBAKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"PAKISAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"BONTIHING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"TAJUN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"TUNJUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"DEPEHA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"TAMBLANG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"BULIAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"BILA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"BENGKALA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082011","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"KUBUTAMBAHAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082012","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"BUKTI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510808","kode_kel":"5108082013","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"KUBUTAMBAHAN","nama_kel":"MENGENING","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092001","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"SEMBIRAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092002","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"PACUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092003","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"JULAH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092004","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"MADENAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092005","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"BONDALEM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092006","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"TEJAKULA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092007","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"LES","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092008","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"PENUKTUKAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092009","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"SAMBIRENTENG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5108","kode_kec":"510809","kode_kel":"5108092010","kode_prov":"51","nama_cab":"BULELENG","nama_kec":"TEJAKULA","nama_kel":"TEMBOK","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171011001","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"SERANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171011002","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"PEDUNGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171011003","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"SESETAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171011004","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"PANJER","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171011005","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"RENON","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171011006","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"SANUR","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171012007","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"SIDAKARYA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171012008","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"PEMOGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171012009","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"SANUR KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517101","kode_kel":"5171012010","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR SELATAN","nama_kel":"SANUR KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171021003","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"KESIMAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171021006","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"SUMERTA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171021010","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"DANGIN PURI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171021014","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"PENATIH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171022001","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"DANGIN PURI KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171022002","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"SUMERTA KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171022004","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"KESIMAN PETILAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171022005","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"KESIMAN KERTALANGU","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171022007","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"SUMERTA KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171022008","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"SUMERTA KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517102","kode_kel":"5171022015","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR TIMUR","nama_kel":"PENATIH DANGIN PURI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171031005","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"DAUH PURI","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171031007","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"PEMECUTAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171031010","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"PADANGSAMBIAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032001","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"PADANGSAMBIAN KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032002","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"PEMECUTAN KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032003","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"DAUH PURI KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032004","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"DAUH PURI KELOD","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032006","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"DAUH PURI KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032008","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"TEGAL HARUM","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032009","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"TEGAL KERTHA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517103","kode_kel":"5171032011","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR BARAT","nama_kel":"PADANG SAMBIAN KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171041004","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"TONJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171041007","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"UBUNG","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171041009","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"PEGUYANGAN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042001","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"DANGIN PURI KANGIN","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042002","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"DANGIN PURI KAUH","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042003","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"DANGIN PURI KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042005","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"PEMECUTAN KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042006","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"DAUH PURI KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042008","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"UBUNG KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042010","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"PEGUYANGAN KAJA","nama_prov":"BALI","tingkat":4}
+{"kode_cab":"5171","kode_kec":"517104","kode_kel":"5171042011","kode_prov":"51","nama_cab":"KOTA DENPASAR","nama_kec":"DENPASAR UTARA","nama_kel":"PEGUYANGAN KANGIN","nama_prov":"BALI","tingkat":4}

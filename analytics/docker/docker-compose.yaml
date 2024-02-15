@@ -1,0 +1,24 @@
+version: '3.8'
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server
+    user: "101:101"
+    container_name: clickhouse
+    hostname: clickhouse
+    volumes:
+      - ${PWD}/analytics/docker/config/config.d/config.xml:/etc/clickhouse-server/config.d/config.xml
+      - ${PWD}/analytics/docker/config/users.d/users.xml:/etc/clickhouse-server/users.d/users.xml
+      - ${PWD}/analytics/docker/chdata/:/var/lib/clickhouse
+    ports:
+      - "127.0.0.1:8123:8123"
+      - "127.0.0.1:9000:9000"
+  metabase:
+    image: metabase/metabase
+    ports:
+      - 3000:3000
+    environment:
+      MB_DB_TYPE: h2
+      MB_DB_FILE: /data/metabase.db
+    volumes:
+      - ${PWD}/analytics/docker/metabase-plugins:/plugins
+      - ${PWD}/analytics/docker/metabase-data:/data

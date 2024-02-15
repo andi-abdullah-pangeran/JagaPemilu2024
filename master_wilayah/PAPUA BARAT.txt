@@ -1,0 +1,824 @@
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"DINDEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"INDISEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"HINGK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"WARMARE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"NIMBAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"MENY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"TANAH MERAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"UMCEN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"SUBSAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"MADRAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032011","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"SNAIMBOY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032012","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"GUENTUY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032013","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"NGUNGGUEN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032014","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"SOTEA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032015","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"DUWIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032016","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"IBUWAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032017","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"IBOISRATI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032018","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"SRAINDABEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032019","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"MOKWAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032020","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"AMBER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032021","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"KWAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032022","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"SYOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032023","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"INDONBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032024","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"MINGRE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032025","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"AIWOW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032026","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"ASARBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032027","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"MINOQBEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032028","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"BAHAMYENTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032029","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"FIGOUD","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032030","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"KIPUWAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920203","kode_kel":"9202032031","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"WARMARE","nama_kel":"DUWEIBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"PRAFI MULYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"UMBUY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"DESAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"AIMASI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"UDAPI HILIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"WASEKI POP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"WASEGI INDAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"INGKWOISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"BOGOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"SOMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042011","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"BEDIP MATOA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042012","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"KALI AMIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042013","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"LISMAUNGU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042014","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"UHYEHEBRIG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042015","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"KERENU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920204","kode_kel":"9202042016","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"PRAFI","nama_kel":"MEBJI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MASNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"SUMBER BOGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"PRAFI BARAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MUARA PRAFI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MACUAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"WARIORI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"BOWI SUBUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MAKWAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052011","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"KALI MERAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052012","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MEIFORGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052013","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"SIBUNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052014","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"YENSUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052015","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MANSABURI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052016","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"IGOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052017","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MEREJEMEG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052018","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"AURMIOS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052020","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"SEMBAB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052024","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MEMBOWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052027","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"YONSORIBO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052028","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MEYOF II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052030","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MOUBJA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052031","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"RIRINFOS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052032","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MUARA WARIORI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052034","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"KOYANI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052035","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MEYERUK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052036","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"INYEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052037","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"UNDI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052038","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"JOWEN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052039","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"ASKA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052040","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"MANTEDI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052042","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"WARIORI INDAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052045","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"UREY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920205","kode_kel":"9202052046","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MASNI","nama_kel":"WAMFOURA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202121001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"MANOKWARI BARAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202121002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"SANGGENG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202121003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"WOSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202121004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"AMBAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202121005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"PADARNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202121006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"MANOKWARI TIMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202122007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"UDOPI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202122008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"INGRAMUI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202122009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"SORIBO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920212","kode_kel":"9202122010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI BARAT","nama_kel":"TANAH MERAH INDAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920213","kode_kel":"9202131001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI TIMUR","nama_kel":"PASIR PUTIH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920213","kode_kel":"9202132002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI TIMUR","nama_kel":"MANSINAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920213","kode_kel":"9202132003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI TIMUR","nama_kel":"AYAMBORI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920213","kode_kel":"9202132004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI TIMUR","nama_kel":"BAKARO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920213","kode_kel":"9202132005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI TIMUR","nama_kel":"AROWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920213","kode_kel":"9202132006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI TIMUR","nama_kel":"AIPIRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920213","kode_kel":"9202132007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI TIMUR","nama_kel":"SUSWENI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"YOOM I","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"MANDOPI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"MUBRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"YOOM II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"TELUK MUBRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"MEYES","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"BREMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"SAUBEBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"PAMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"WARBEFOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142011","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"ASAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142012","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"INYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142013","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"MEYUNFOKA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142014","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"TANAH RUBUH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142015","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"SAIRO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142016","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"SINGGIMEBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142017","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"INODUAS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142018","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"LEBAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142020","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"CABANG DUA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142021","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"YONGGAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142022","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"INDOU OUFA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920214","kode_kel":"9202142023","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI UTARA","nama_kel":"MUBRAIDIBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202151001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"SOWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202151002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"ANDAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"KATEBU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"MASYEPI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"WARMOMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"DIHARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"WALURI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"MARUNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"MISAPMEYSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"WASAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152011","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"ANGGRESI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152012","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"MUPI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152013","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"WARSWAMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152014","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"ACEMO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152015","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"WAMESA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152016","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"DOBUT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152017","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"WARKOMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920215","kode_kel":"9202152018","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"MANOKWARI SELATAN","nama_kel":"NGUNIMBOUW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"WARKAPI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"AYAWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"UKOPTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"MISABUGOID","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"MBATMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"URWAMBEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"IMBEISIKA I","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"IMBEISIKA II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"WARMAWAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"REMBUY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172011","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"IMHASUMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172012","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"CUYEHEP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172013","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"HANGHOUW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172014","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"NINGDIP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172015","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"WARAMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172016","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"IMBOITI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172017","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"WARIARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172018","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"INDIBO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172019","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"UMNUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172020","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"UKEMBOISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172021","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"MENYUMFOKU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172022","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"WEDONI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172023","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"MIROWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920217","kode_kel":"9202172024","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"TANAH RUBUH","nama_kel":"WARNYETI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212001","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"KAIRONI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212002","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"SIDEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212003","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"WARAMUI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212004","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"KASSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212005","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"SARAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212006","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"SIDEY BARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212007","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"SIDEY MAKMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212008","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"MEYOF I","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212009","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"WARIKI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212010","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"WOMNOWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212011","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"MANGGUPI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9202","kode_kec":"920221","kode_kel":"9202212012","kode_prov":"92","nama_cab":"MANOKWARI","nama_kec":"SIDEY","nama_kel":"SIDEY JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920301","kode_kel":"9203011001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK","nama_kel":"FAK FAK SELATAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920301","kode_kel":"9203011002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK","nama_kel":"FAK FAK UTARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920301","kode_kel":"9203012007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK","nama_kel":"GEWERPE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920301","kode_kel":"9203012011","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK","nama_kel":"LUSI PERI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920301","kode_kel":"9203012012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK","nama_kel":"WRIKAPAL","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"WERBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"KIAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"PURWASAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"WURKENDIK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"KWUHKENDAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022011","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"PURWAHAB TONGGO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"PAHGER NKINDIK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022013","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"WERBA UTARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920302","kode_kel":"9203022014","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK BARAT","nama_kel":"PORUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920303","kode_kel":"9203032001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TIMUR","nama_kel":"TUNAS GAIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920303","kode_kel":"9203032003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TIMUR","nama_kel":"URAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920303","kode_kel":"9203032004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TIMUR","nama_kel":"SANGGRAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920303","kode_kel":"9203032010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TIMUR","nama_kel":"WERI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920303","kode_kel":"9203032012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TIMUR","nama_kel":"KIRIA BISA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920303","kode_kel":"9203032013","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TIMUR","nama_kel":"SAHAREI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203041001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"KOKAS KOTA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"MANDONI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"SEKAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"UGAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"SISIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042011","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"KAMPUNG BARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"PATIMBURAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042013","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"BATUFIAFAS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042014","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"KINAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042021","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"MAMBUNIBUNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042024","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"KRIAWASWAS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042028","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"SOSAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042029","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"PANG WADAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042030","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"MASINA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920304","kode_kel":"9203042031","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KOKAS","nama_kel":"KIMINA KRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203051001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"DANAWERIA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"KAYU MERAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"KATEMBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"NEMEWIKARYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"RADURIA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"BRONGKENDIK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"AIR BESAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"MANDOPMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"KANANTARE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"PASIR PUTIH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052011","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"PIRMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"SAKARTEMIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052013","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"HAMBRANGKENDIK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920305","kode_kel":"9203052014","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAK-FAK TENGAH","nama_kel":"UNIPOKPOK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920306","kode_kel":"9203062001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KARAS","nama_kel":"MALAKULI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920306","kode_kel":"9203062002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KARAS","nama_kel":"FAUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920306","kode_kel":"9203062003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KARAS","nama_kel":"KIABA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920306","kode_kel":"9203062004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KARAS","nama_kel":"ANTALISA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920306","kode_kel":"9203062005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KARAS","nama_kel":"TARAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920306","kode_kel":"9203062006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KARAS","nama_kel":"TUBERWASAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920306","kode_kel":"9203062007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KARAS","nama_kel":"MAS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920307","kode_kel":"9203072007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"BOMBERAY","nama_kel":"ONIMSARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920307","kode_kel":"9203072008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"BOMBERAY","nama_kel":"MEKARSARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920307","kode_kel":"9203072009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"BOMBERAY","nama_kel":"PINANG AGUNG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920307","kode_kel":"9203072010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"BOMBERAY","nama_kel":"BUMI MOROH INDAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920307","kode_kel":"9203072012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"BOMBERAY","nama_kel":"TESHA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920307","kode_kel":"9203072014","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"BOMBERAY","nama_kel":"ONIM JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920307","kode_kel":"9203072015","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"BOMBERAY","nama_kel":"WONO REJO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"KRAMONGMONGGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"WARGEP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"MAMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"NEMBUKTEB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"PIKPIK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082011","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"KWAMKWAMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"BAHBADAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082016","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"GEWAB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082017","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"TENTREDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920308","kode_kel":"9203082018","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KRAMONGMONGGA","nama_kel":"MBAHAM MA YOUN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"PUAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"DEGEN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"TETAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"SUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092011","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"ADORA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092012","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"US","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092014","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"PATIPI PASIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092015","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"PATIPI PULAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092017","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"MAWAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092018","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"TIBATIBANANAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092020","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"OFFIE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092021","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"MUHRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920309","kode_kel":"9203092022","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TELUK PATIPI","nama_kel":"BISA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203101001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"WAGOM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203101002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"WAGOM UTARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203101003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"DULANPOKPOK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203102004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"TANAMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203102005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"KAPAURTUTIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203102006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"SEKBAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203102007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"TOREA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203102008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"SEKRU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920310","kode_kel":"9203102009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"PARIWARI","nama_kel":"SUKURU TUARE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920311","kode_kel":"9203112001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"WARTUTIN","nama_kel":"WERPIGAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920311","kode_kel":"9203112002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"WARTUTIN","nama_kel":"WERABUAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920311","kode_kel":"9203112003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"WARTUTIN","nama_kel":"WARTUTIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920311","kode_kel":"9203112004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"WARTUTIN","nama_kel":"SIBORU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920311","kode_kel":"9203112005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"WARTUTIN","nama_kel":"SIPATNANAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920311","kode_kel":"9203112006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"WARTUTIN","nama_kel":"KAMANDUR TETAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"WASERAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"WAMBAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"KOTAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"KWAMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"KALAMANUK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"WAYATI TIMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"WAYATI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"WAYATI BARAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"KRABELANG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920312","kode_kel":"9203122010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FAKFAK TIMUR TENGAH","nama_kel":"WAMBAR TIMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920313","kode_kel":"9203132001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"ARGUNI","nama_kel":"ANDAMATA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920313","kode_kel":"9203132002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"ARGUNI","nama_kel":"TAVER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920313","kode_kel":"9203132003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"ARGUNI","nama_kel":"ARGUNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920313","kode_kel":"9203132004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"ARGUNI","nama_kel":"FIOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920313","kode_kel":"9203132005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"ARGUNI","nama_kel":"FURIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920314","kode_kel":"9203142001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"MBAHAMDANDARA","nama_kel":"DAREMBANG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920314","kode_kel":"9203142002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"MBAHAMDANDARA","nama_kel":"GORAS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920314","kode_kel":"9203142003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"MBAHAMDANDARA","nama_kel":"MITIMBER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920314","kode_kel":"9203142004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"MBAHAMDANDARA","nama_kel":"WAREMU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920314","kode_kel":"9203142005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"MBAHAMDANDARA","nama_kel":"WOS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920314","kode_kel":"9203142006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"MBAHAMDANDARA","nama_kel":"MBAHAMDANDRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920314","kode_kel":"9203142007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"MBAHAMDANDARA","nama_kel":"GORAS SELATAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"KABURBUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"UBADARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"HOMORKOKMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"PATTUKAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"KAYUNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"KUAGAS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"RANGKENDAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"MANANMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920315","kode_kel":"9203152010","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"KAYAUNI","nama_kel":"WARPA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"SALAKITI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"TAWAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"GAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"RUMBATI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"WERFRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"TANEHAMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"SENGKITI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920316","kode_kel":"9203162008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"FURWAGI","nama_kel":"TWOOTKINDIK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172001","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"MBIMA JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172002","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"WARISA MULYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172003","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"WONODADI MULYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172004","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"TOMAGE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172005","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"OTOWERI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172006","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"WAMOSAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172007","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"SALAWIER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172008","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"WASA MULYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9203","kode_kec":"920317","kode_kel":"9203172009","kode_prov":"92","nama_cab":"FAK FAK","nama_kec":"TOMAGE","nama_kel":"WAMMAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206011001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"BINTUNI TIMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206011002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"BINTUNI BARAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206012004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"TUASAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206012005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"ARGOSIGEMERAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206012009","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"BEIMES","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206012010","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"IGURIJI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206012022","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"MASINA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920601","kode_kel":"9206012026","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BINTUNI","nama_kel":"WESIRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MERDEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MERYEB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MEYOM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022007","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MENGGERBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022008","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"ANAJERO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022010","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MOGROMUS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022011","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MOROMBUY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022014","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MEKIESEFEB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920602","kode_kel":"9206022020","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MERDEY","nama_kel":"MEYETGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920603","kode_kel":"9206032020","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BABO","nama_kel":"IRARUTU III","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920603","kode_kel":"9206032021","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BABO","nama_kel":"AMUTU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920603","kode_kel":"9206032022","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BABO","nama_kel":"NUSEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920603","kode_kel":"9206032023","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BABO","nama_kel":"KASIRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920604","kode_kel":"9206042001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"ARANDAY","nama_kel":"ARANDAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920604","kode_kel":"9206042007","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"ARANDAY","nama_kel":"KAMPUNG BARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920604","kode_kel":"9206042008","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"ARANDAY","nama_kel":"KECAP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920604","kode_kel":"9206042009","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"ARANDAY","nama_kel":"MANUNGGAL KARYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920605","kode_kel":"9206052001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA SELATAN","nama_kel":"JAGIRO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920605","kode_kel":"9206052004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA SELATAN","nama_kel":"MEYENDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920605","kode_kel":"9206052005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA SELATAN","nama_kel":"RAWARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920605","kode_kel":"9206052006","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA SELATAN","nama_kel":"BARMA BARAT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920605","kode_kel":"9206052011","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA SELATAN","nama_kel":"INGGOF","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920606","kode_kel":"9206062001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA UTARA","nama_kel":"MOYEBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920606","kode_kel":"9206062004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA UTARA","nama_kel":"MERESTIM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920606","kode_kel":"9206062005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA UTARA","nama_kel":"INOFINA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920606","kode_kel":"9206062006","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA UTARA","nama_kel":"MOSUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920607","kode_kel":"9206072001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WAMESA","nama_kel":"WAMESA I / IDOOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920607","kode_kel":"9206072002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WAMESA","nama_kel":"WAMESA II / YAKATI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920607","kode_kel":"9206072003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WAMESA","nama_kel":"YANSEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920607","kode_kel":"9206072004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WAMESA","nama_kel":"MAMURANU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920608","kode_kel":"9206082001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"FAFURWAR","nama_kel":"FRUATA/IROWUTU II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920608","kode_kel":"9206082002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"FAFURWAR","nama_kel":"MERYEDI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920608","kode_kel":"9206082003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"FAFURWAR","nama_kel":"RIENDO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920609","kode_kel":"9206092001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TEMBUNI","nama_kel":"TEMBUNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920609","kode_kel":"9206092002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TEMBUNI","nama_kel":"MOGOI BARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920609","kode_kel":"9206092003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TEMBUNI","nama_kel":"ARAISUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920609","kode_kel":"9206092004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TEMBUNI","nama_kel":"BANGUN MULYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920610","kode_kel":"9206102001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KURI","nama_kel":"SARBE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920610","kode_kel":"9206102002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KURI","nama_kel":"WAGURA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920610","kode_kel":"9206102003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KURI","nama_kel":"REFIDESO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920610","kode_kel":"9206102004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KURI","nama_kel":"NARAMASA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920610","kode_kel":"9206102005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KURI","nama_kel":"OBO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920611","kode_kel":"9206112001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MANIMERI","nama_kel":"BUMI SANIARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920611","kode_kel":"9206112002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MANIMERI","nama_kel":"BANJAR AUSOY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920611","kode_kel":"9206112003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MANIMERI","nama_kel":"WARAITAMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920611","kode_kel":"9206112004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MANIMERI","nama_kel":"ATIBO MANIMERI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920611","kode_kel":"9206112005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MANIMERI","nama_kel":"PASAMAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920611","kode_kel":"9206112006","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MANIMERI","nama_kel":"KORANO JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920612","kode_kel":"9206122001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TUHIBA","nama_kel":"TUHIBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920612","kode_kel":"9206122002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TUHIBA","nama_kel":"TISAIDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920612","kode_kel":"9206122003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TUHIBA","nama_kel":"KUCIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920612","kode_kel":"9206122004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TUHIBA","nama_kel":"SIBENA RAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920612","kode_kel":"9206122005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TUHIBA","nama_kel":"SIBENA PERMAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920613","kode_kel":"9206132001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"DATARAN BEIMES","nama_kel":"HORNA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920613","kode_kel":"9206132002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"DATARAN BEIMES","nama_kel":"CUMNAJI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920613","kode_kel":"9206132003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"DATARAN BEIMES","nama_kel":"MENCI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920613","kode_kel":"9206132004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"DATARAN BEIMES","nama_kel":"SIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920613","kode_kel":"9206132005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"DATARAN BEIMES","nama_kel":"HUSS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920613","kode_kel":"9206132006","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"DATARAN BEIMES","nama_kel":"UGDOHOP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920614","kode_kel":"9206142001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"SUMURI","nama_kel":"TOFOI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920614","kode_kel":"9206142002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"SUMURI","nama_kel":"TANAH MERAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920614","kode_kel":"9206142003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"SUMURI","nama_kel":"SAENGGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920614","kode_kel":"9206142004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"SUMURI","nama_kel":"FORADA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920614","kode_kel":"9206142005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"SUMURI","nama_kel":"MATERABU JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920615","kode_kel":"9206152001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAITARO","nama_kel":"SARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920615","kode_kel":"9206152002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAITARO","nama_kel":"WARGA NUSA I","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920615","kode_kel":"9206152003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAITARO","nama_kel":"WARGA NUSA II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920615","kode_kel":"9206152004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAITARO","nama_kel":"TUGARAMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920615","kode_kel":"9206152005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAITARO","nama_kel":"SUGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920616","kode_kel":"9206162001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"AROBA","nama_kel":"AROBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920616","kode_kel":"9206162002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"AROBA","nama_kel":"YARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920616","kode_kel":"9206162003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"AROBA","nama_kel":"SIDO MAKMUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920616","kode_kel":"9206162004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"AROBA","nama_kel":"WIMBRO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920616","kode_kel":"9206162005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"AROBA","nama_kel":"SANGGUAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920617","kode_kel":"9206172001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MASYETA","nama_kel":"MASYETA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920617","kode_kel":"9206172002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MASYETA","nama_kel":"MESTOFU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920617","kode_kel":"9206172003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MASYETA","nama_kel":"KALIBIRU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920617","kode_kel":"9206172004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MASYETA","nama_kel":"MESOMDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920618","kode_kel":"9206182001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BISCOOP","nama_kel":"JAHABRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920618","kode_kel":"9206182002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BISCOOP","nama_kel":"IBORI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920618","kode_kel":"9206182003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BISCOOP","nama_kel":"MENYEMBRU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920618","kode_kel":"9206182004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BISCOOP","nama_kel":"MEYORGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920618","kode_kel":"9206182005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BISCOOP","nama_kel":"LAUDOHO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920618","kode_kel":"9206182006","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BISCOOP","nama_kel":"ENIBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920618","kode_kel":"9206182007","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"BISCOOP","nama_kel":"MOWITKA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920619","kode_kel":"9206192001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TOMU","nama_kel":"SEBYAR REJOSASI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920619","kode_kel":"9206192002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TOMU","nama_kel":"TOMU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920619","kode_kel":"9206192003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TOMU","nama_kel":"TAROY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920619","kode_kel":"9206192004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"TOMU","nama_kel":"EKAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920620","kode_kel":"9206202001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAMUNDAN","nama_kel":"KALITAMI I","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920620","kode_kel":"9206202002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAMUNDAN","nama_kel":"KALITAMI II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920620","kode_kel":"9206202003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAMUNDAN","nama_kel":"KENARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920620","kode_kel":"9206202004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"KAMUNDAN","nama_kel":"BIBIRAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920621","kode_kel":"9206212001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WERIAGAR","nama_kel":"WERIAGAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920621","kode_kel":"9206212002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WERIAGAR","nama_kel":"MOGOTIRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920621","kode_kel":"9206212003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WERIAGAR","nama_kel":"WERIAGAR BARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920621","kode_kel":"9206212004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WERIAGAR","nama_kel":"WERIAGAR UTARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920621","kode_kel":"9206212005","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"WERIAGAR","nama_kel":"TUANAIKIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920622","kode_kel":"9206222001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA BARAT","nama_kel":"MEYERGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920622","kode_kel":"9206222002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA BARAT","nama_kel":"MACOK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920622","kode_kel":"9206222003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA BARAT","nama_kel":"ISTIWKEM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920622","kode_kel":"9206222004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA BARAT","nama_kel":"MAJNIC","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920623","kode_kel":"9206232001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MEYADO","nama_kel":"MEYADO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920623","kode_kel":"9206232002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MEYADO","nama_kel":"BARMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920623","kode_kel":"9206232003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MEYADO","nama_kel":"BARMA BARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920623","kode_kel":"9206232004","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MEYADO","nama_kel":"VASCO DAMNEEN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920624","kode_kel":"9206242001","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA TIMUR","nama_kel":"IGOMU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920624","kode_kel":"9206242002","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA TIMUR","nama_kel":"MESNA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9206","kode_kec":"920624","kode_kel":"9206242003","kode_prov":"92","nama_cab":"TELUK BINTUNI","nama_kec":"MOSKONA TIMUR","nama_kel":"SUMUY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207011001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"WASIOR I","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"RADO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"DOTIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"MANIWAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"WASIOR II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012006","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"MAIMARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012007","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"MORU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012009","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"MANOPI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012010","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"RAMIKI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920701","kode_kel":"9207012011","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WASIOR","nama_kel":"IRIATI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920702","kode_kel":"9207022001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WINDESI","nama_kel":"WAMESA TENGAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920702","kode_kel":"9207022002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WINDESI","nama_kel":"YOPMEOS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920702","kode_kel":"9207022004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WINDESI","nama_kel":"SOMBOKORO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920702","kode_kel":"9207022007","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WINDESI","nama_kel":"WINDESI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920702","kode_kel":"9207022010","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WINDESI","nama_kel":"SANDEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920703","kode_kel":"9207032001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"TELUK DUAIRI","nama_kel":"AISANDAMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920703","kode_kel":"9207032002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"TELUK DUAIRI","nama_kel":"SOBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920703","kode_kel":"9207032006","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"TELUK DUAIRI","nama_kel":"YOPANGGAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920703","kode_kel":"9207032011","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"TELUK DUAIRI","nama_kel":"SOBEY INDAH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920704","kode_kel":"9207042002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WONDIBOY","nama_kel":"WONDIBOY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920704","kode_kel":"9207042009","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WONDIBOY","nama_kel":"KABOUW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920704","kode_kel":"9207042010","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WONDIBOY","nama_kel":"ISSUI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920704","kode_kel":"9207042015","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WONDIBOY","nama_kel":"KAIBI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920705","kode_kel":"9207052001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WAMESA","nama_kel":"SABUBAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920705","kode_kel":"9207052002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WAMESA","nama_kel":"AMBUAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920705","kode_kel":"9207052003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WAMESA","nama_kel":"KARUAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920705","kode_kel":"9207052007","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WAMESA","nama_kel":"YARPATE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920705","kode_kel":"9207052009","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"WAMESA","nama_kel":"NORDIWAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920706","kode_kel":"9207062001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RUMBERPON","nama_kel":"YOMBEKIRI I","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920706","kode_kel":"9207062002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RUMBERPON","nama_kel":"ISENEBUAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920706","kode_kel":"9207062003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RUMBERPON","nama_kel":"YOMAKAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920706","kode_kel":"9207062005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RUMBERPON","nama_kel":"ISEREN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920706","kode_kel":"9207062008","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RUMBERPON","nama_kel":"YEMBEKIRI II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920706","kode_kel":"9207062009","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RUMBERPON","nama_kel":"YARIARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920706","kode_kel":"9207062011","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RUMBERPON","nama_kel":"WETITINDAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920707","kode_kel":"9207072001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NAIKERE","nama_kel":"WOSIMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920707","kode_kel":"9207072002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NAIKERE","nama_kel":"SARARTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920707","kode_kel":"9207072003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NAIKERE","nama_kel":"YABORE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920707","kode_kel":"9207072004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NAIKERE","nama_kel":"OYAA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920707","kode_kel":"9207072005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NAIKERE","nama_kel":"INYORA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920707","kode_kel":"9207072006","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NAIKERE","nama_kel":"UNDURARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"RASIEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"TOREY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"ISEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"URIEMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"SASIREI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082006","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"TANDIA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082007","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"WEBI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082008","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"NGGATUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920708","kode_kel":"9207082009","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"RASIEI","nama_kel":"SENDERAWOY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920709","kode_kel":"9207092001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"KURI WAMESA","nama_kel":"AMBUMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920709","kode_kel":"9207092002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"KURI WAMESA","nama_kel":"NANIMORI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920709","kode_kel":"9207092003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"KURI WAMESA","nama_kel":"DUSNER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920709","kode_kel":"9207092004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"KURI WAMESA","nama_kel":"YERENUSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920709","kode_kel":"9207092005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"KURI WAMESA","nama_kel":"SOBIAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920709","kode_kel":"9207092006","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"KURI WAMESA","nama_kel":"SIMEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920710","kode_kel":"9207102001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROON","nama_kel":"YENDE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920710","kode_kel":"9207102002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROON","nama_kel":"SYABES","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920710","kode_kel":"9207102003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROON","nama_kel":"MENARBU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920710","kode_kel":"9207102004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROON","nama_kel":"NIAB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920710","kode_kel":"9207102005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROON","nama_kel":"INDAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920710","kode_kel":"9207102006","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROON","nama_kel":"SARIAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920710","kode_kel":"9207102007","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROON","nama_kel":"MENA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920711","kode_kel":"9207112001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROSWAR","nama_kel":"WAPRAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920711","kode_kel":"9207112002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROSWAR","nama_kel":"YOMBER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920711","kode_kel":"9207112003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"ROSWAR","nama_kel":"SYEIWAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920712","kode_kel":"9207122001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NIKIWAR","nama_kel":"WERABUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920712","kode_kel":"9207122002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NIKIWAR","nama_kel":"MAMISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920712","kode_kel":"9207122003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NIKIWAR","nama_kel":"WERIANGGI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920712","kode_kel":"9207122004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NIKIWAR","nama_kel":"KUREI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920712","kode_kel":"9207122005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"NIKIWAR","nama_kel":"TAMOGE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920713","kode_kel":"9207132001","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"SOUG JAYA","nama_kel":"KAPRUS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920713","kode_kel":"9207132002","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"SOUG JAYA","nama_kel":"YARMATUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920713","kode_kel":"9207132003","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"SOUG JAYA","nama_kel":"REYOB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920713","kode_kel":"9207132004","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"SOUG JAYA","nama_kel":"SIRESI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9207","kode_kec":"920713","kode_kel":"9207132005","kode_prov":"92","nama_cab":"TELUK WONDAMA","nama_kec":"SOUG JAYA","nama_kel":"NUSPAIRO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208011001","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"KAIMANA KOTA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208011014","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"KROOY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012002","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"MARSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012003","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"NAMATOTA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012004","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"LOBO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012005","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"TRIKORA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012006","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"TANGGAROMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012007","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"SISIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012008","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"FOROMA JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012009","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"MURANO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012010","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"MAI MAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012011","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"LUMIRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012012","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"KAMAKA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012013","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"COA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012015","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"SARIA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012016","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"JARATI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012017","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"SARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012018","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"WERUA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920801","kode_kel":"9208012019","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAIMANA","nama_kel":"ORAY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022001","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"KAMBALA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022002","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"YARONA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022003","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"EDOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022004","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"TAIRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022005","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"GAKA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022006","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"GURIASA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022007","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"ADI JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022008","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"NUSAULAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022009","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"ESANIA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920802","kode_kel":"9208022010","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"BURUWAY","nama_kel":"HIA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032001","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"FURNUSU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032002","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"FETERNU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032003","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"SAWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032004","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"TUGARNI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032010","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"SAWATAWERA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032012","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"BOFUWER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032013","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"WARWARSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032014","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"WANGGITA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032016","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"FUDIMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032017","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"WESWASA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032018","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"BOROGERBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032019","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"AFU AFU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032020","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"BAYEDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032021","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"MOYANA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032022","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"KOKOROBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032023","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"WAINAGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032024","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"MASKUR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032025","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"KENSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032027","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"ERIGARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032028","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"PIGO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032029","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"TUGUMAWA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032030","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"TIWARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032031","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"GUSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920803","kode_kel":"9208032032","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI ATAS","nama_kel":"WARUA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920804","kode_kel":"9208042001","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ETNA","nama_kel":"RURUMO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920804","kode_kel":"9208042002","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ETNA","nama_kel":"BOIYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920804","kode_kel":"9208042003","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ETNA","nama_kel":"NARIKI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920804","kode_kel":"9208042004","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ETNA","nama_kel":"BAMANA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920804","kode_kel":"9208042005","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ETNA","nama_kel":"SIAWATAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920805","kode_kel":"9208052001","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAMBRAU","nama_kel":"RAUNA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920805","kode_kel":"9208052002","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAMBRAU","nama_kel":"WERAFUTA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920805","kode_kel":"9208052003","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAMBRAU","nama_kel":"UBIA SERMUKU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920805","kode_kel":"9208052004","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAMBRAU","nama_kel":"BAHUMIA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920805","kode_kel":"9208052005","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAMBRAU","nama_kel":"WAHO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920805","kode_kel":"9208052006","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAMBRAU","nama_kel":"WAMESA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920805","kode_kel":"9208052007","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"KAMBRAU","nama_kel":"KOOY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062001","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"JAWERA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062002","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"RUARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062003","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"WERMENU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062004","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"EGERWARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062005","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"KUFURIYAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062006","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"MANGGERA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062007","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"TANUSAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062008","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"URISA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062009","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"WAROMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062010","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"UKIARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062012","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"NAGURA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062013","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"INARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062014","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"WANOMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062015","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"SUMUN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920806","kode_kel":"9208062016","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"TELUK ARGUNI BAWAH","nama_kel":"SERARAN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920807","kode_kel":"9208072001","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"YAMOR","nama_kel":"URE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920807","kode_kel":"9208072002","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"YAMOR","nama_kel":"WOSOKUNO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920807","kode_kel":"9208072003","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"YAMOR","nama_kel":"URUBIKA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920807","kode_kel":"9208072004","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"YAMOR","nama_kel":"WAGOHA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920807","kode_kel":"9208072005","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"YAMOR","nama_kel":"HAIRAPARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9208","kode_kec":"920807","kode_kel":"9208072006","kode_prov":"92","nama_cab":"KAIMANA","nama_kec":"YAMOR","nama_kel":"OMBA PAMUKU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012001","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"RANSIKI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012002","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"NUHUWEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012003","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"YAMBOI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012004","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"TOBOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012005","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"SABRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012006","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"BAMAHA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012007","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"ABRESO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012008","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"HAMAWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012009","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"KOBREY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012010","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"WAMCEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012011","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"HAMOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012012","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"SUSMOROF","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921101","kode_kel":"9211012013","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"RANSIKI","nama_kel":"MAMBREMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022001","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"ORANSBARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022002","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"SIDOMULYO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022003","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"WAROSER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022004","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"MARGO RUKUN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022005","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"MUARI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022006","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"WATARIRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022007","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"MASABUI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022008","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"WARBIADI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022009","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"MARGOMULYO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022010","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"WARKWANDI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022011","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"SINDANG JAYA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022012","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"WANDOKI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022013","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"AKEJU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921102","kode_kel":"9211022014","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"ORANSBARI","nama_kel":"MASABUI II","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921103","kode_kel":"9211032001","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"NENEY","nama_kel":"WAMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921103","kode_kel":"9211032002","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"NENEY","nama_kel":"DISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921103","kode_kel":"9211032003","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"NENEY","nama_kel":"HIYOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921103","kode_kel":"9211032004","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"NENEY","nama_kel":"SESUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921103","kode_kel":"9211032005","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"NENEY","nama_kel":"BENYAS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921103","kode_kel":"9211032006","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"NENEY","nama_kel":"ARYAWENMOHO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921103","kode_kel":"9211032007","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"NENEY","nama_kel":"NENEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042001","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"ISIM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042002","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"DUHUGESA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042003","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"TUBES","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042004","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"UMOHOUSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042005","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"TOHOSTA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042006","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"HUGOMOT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042007","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"DIHISU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042008","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"INYUARA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042009","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"DESRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042010","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"MINDERMES","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042011","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"SIBJO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921104","kode_kel":"9211042012","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"DATARAN ISIM","nama_kel":"DIBERA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921105","kode_kel":"9211052001","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"MOMI WAREN","nama_kel":"DEMBEK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921105","kode_kel":"9211052002","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"MOMI WAREN","nama_kel":"NIJ","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921105","kode_kel":"9211052003","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"MOMI WAREN","nama_kel":"SIWI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921105","kode_kel":"9211052004","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"MOMI WAREN","nama_kel":"GAYA BARU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921105","kode_kel":"9211052005","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"MOMI WAREN","nama_kel":"WAREN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921105","kode_kel":"9211052006","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"MOMI WAREN","nama_kel":"DEMINI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921105","kode_kel":"9211052007","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"MOMI WAREN","nama_kel":"YEKWANDI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921106","kode_kel":"9211062001","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"TAHOTA","nama_kel":"YARMATUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921106","kode_kel":"9211062002","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"TAHOTA","nama_kel":"REYOB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921106","kode_kel":"9211062003","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"TAHOTA","nama_kel":"KAPRUS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9211","kode_kec":"921106","kode_kel":"9211062004","kode_prov":"92","nama_cab":"MANOKWARI SELATAN","nama_kec":"TAHOTA","nama_kel":"SEIMEBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"IRAIWERI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"IGEMBAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"IMBAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"SUTEIBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"SUSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"ULLONG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"MENTUBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"AYAUBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"TESTEGA PAMAHA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"PAMAHA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"UPER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012012","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"HUNGKU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921201","kode_kel":"9212012013","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI","nama_kel":"SRUBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"SIBIOGUD","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"KROBUT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"TUBYAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"SAKUMI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"TOMBROK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"SISRANG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"NGISROW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921202","kode_kel":"9212022008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"ANGGI GIDA","nama_kel":"ITKAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921203","kode_kel":"9212032001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MEMBEY","nama_kel":"INYEBUOW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921203","kode_kel":"9212032002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MEMBEY","nama_kel":"IMBEISBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921203","kode_kel":"9212032003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MEMBEY","nama_kel":"USTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921203","kode_kel":"9212032004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MEMBEY","nama_kel":"MEMTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921203","kode_kel":"9212032005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MEMBEY","nama_kel":"KONEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921203","kode_kel":"9212032006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MEMBEY","nama_kel":"MEMBEY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"SURUREY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"TUHUBEA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"SUNGEDES","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"INYAUB","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"SAUGEMEBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"KOBREY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"KOPO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"DUGAHANI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"TOMSTERA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"KOSTERA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"ANUK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921204","kode_kel":"9212042012","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"SURUREY","nama_kel":"MENESRIJ","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"IRANMEBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"CIRNOHU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"DIBETIK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"DANMOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"MISEDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"SIRGEMEH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"SNEREMER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"KUSMENAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"CIGERA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"TOMSTIR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"GEDEIRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052012","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"DEMDAMEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052013","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"DUGRIMOG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921205","kode_kel":"9212052014","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"DIDOHU","nama_kel":"DISRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"GENYU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"ANSUM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"DEUROHU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"HORETA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"UBEISA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"TAIGE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"TRIDAGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"DISURA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"AWIGAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"SISKEDOWO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921206","kode_kel":"9212062011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TAIGE","nama_kel":"IRBOS","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"CATUBOUW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"BIGWAIMUD","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"MIHOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"KAUNGWAM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"AIGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"IMANDRIGO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"UNTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"NDABOUW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"SUGEMEH","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"MANGGESUK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"IJIGREG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072012","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"JIM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072013","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"SLOMIOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072014","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"BINGGRAYUD","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072015","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"MINMO","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072016","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"MIHIJ","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072017","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"SOUDIN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072018","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"TIMTOUW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072019","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"IDEMAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072020","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"MIEYCOMTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921207","kode_kel":"9212072021","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"CATUBOUW","nama_kel":"COIJUT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"TESTEGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEIDOGDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEIFEKENI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"DEMUORA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"JIGJA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEIGEHENAWU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MORUMFEYI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"IBA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEIMERSA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEIFOWOSKA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEIJUGJIJIGJA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082012","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEIFOKEDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082013","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"DUMBREY","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082014","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"MEKSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921208","kode_kel":"9212082015","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"TESTEGA","nama_kel":"ASAI DUA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MINYAMBOUW","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"DEMAISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"AWAIBEHEL","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"INDABRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"COISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"IMBENTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"SIGIM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"IMBONGGUN","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"ADUER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"UGJEHEG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MICADIWOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092012","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"UNGGA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092013","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MITIEDE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092014","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"SIMERBEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092015","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"DRIYE","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092016","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"WAMMINDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092017","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"UMPUG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092018","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"HANDUK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092019","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"NINSIMOI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092020","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"ANGGRA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092021","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"INGGRAMHIM","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092022","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MBINGMA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092023","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"INJUAR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092024","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"APUL","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092025","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MEMANGKER","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092026","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MAINDA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092027","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"IMBREKTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092028","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"IPINGOSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092029","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"PINYAUSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092030","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"SINALTOUSI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092031","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MISANGOISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092032","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"SMANGGEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092033","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"NIMBIAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092034","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"BINGWOYUT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092035","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"AYAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092036","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"ANDANG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921209","kode_kel":"9212092039","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"MINYAMBAOUW","nama_kel":"MICONTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102001","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"SOPNYAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102002","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"IKIMABOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102003","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"MANGGOT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102004","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"KISAP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102005","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"NUNGKIMOR","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102006","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"CANGOISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102007","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"MINYEIMEMUD","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102008","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"PENIBUT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102009","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"DEMUNTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102010","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"GUEIPIMBAI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102011","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"TIGAUCOMTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102012","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"URWONG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102013","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"ARYON","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102014","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"PUNGGUNG","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102015","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"HUMEISI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102016","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"HAKTIEBOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102017","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"KWOK SATU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102018","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"KWOK DUA","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102019","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"KWAIYEHEP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102020","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"MBEGAU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102021","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"NGIMOUBRI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102022","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"LIEHAK","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102023","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"UMCEP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102024","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"TUMBEIBEHEI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102025","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"TINGWOIKIOU","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102026","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"GUWEI UTI","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102027","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"NTAP","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102028","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"MONUT","nama_prov":"PAPUA BARAT","tingkat":4}
+{"kode_cab":"9212","kode_kec":"921210","kode_kel":"9212102029","kode_prov":"92","nama_cab":"PEGUNUNGAN ARFAK","nama_kec":"HINGK","nama_kel":"MBRANDE","nama_prov":"PAPUA BARAT","tingkat":4}

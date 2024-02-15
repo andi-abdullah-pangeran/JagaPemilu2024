@@ -1,0 +1,54 @@
+## this using benthos https://www.benthos.dev/docs/about
+
+logger:
+  level: WARN
+  format: json
+  add_timestamp: true
+  static_fields:
+    '@service': crawler
+
+input:
+  resource: ambil_provinsi
+
+pipeline:
+  processors:
+    - resource: proses_provinsi
+
+input_resources:
+  - label: ambil_provinsi
+    http_client:
+      url: https://sirekap-obj-data.kpu.go.id/wilayah/pemilu/ppwp/0.json
+      verb: GET
+      headers: { }
+      rate_limit: "" # No default (optional)
+      timeout: 5s
+      payload: "" # No default (optional)
+      stream:
+        enabled: true
+        reconnect: false
+        codec: lines
+
+processor_resources:
+  - label: proses_provinsi
+    for_each:
+      - mapping:
+          root = this.sort_by(pair -> pair.kode)
+      - unarchive:
+          format: "json_array"
+      - mapping: |-
+          root.kode_prov = this.kode
+          root.nama_prov = this.nama
+          root.tingkat = this.tingkat
+
+output_resources:
+  - label: prov
+    file:
+      path: ./master_provinsi/all.txt
+
+output:
+  broker:
+    pattern: fan_out
+    outputs:
+      - stdout:
+          codec: lines
+      - resource: prov

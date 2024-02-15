@@ -1,0 +1,729 @@
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"KAYUBULAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"KAYUMERAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"HUNGGALUWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"BOLIHUANGGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"HEPUHULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"HUTUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"DUTULANAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"TENILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"BIYONGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"BONGOHULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011011","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"BULOTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011012","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"MALAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011013","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"TILIHUWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750101","kode_kel":"7501011014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO","nama_kel":"POLOHUNGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022011","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"BULILA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"MONGOLATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"LUHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022016","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"HULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022017","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"PILOHAYANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022018","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"DULAMAYO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022019","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"DULAMAYO BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022020","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"DULOHUPA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750102","kode_kel":"7501022021","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA","nama_kel":"PILOHAYANGA BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"ILUTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"BUA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"HUNTU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"PAYUNGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032012","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"BARAKATI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032013","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"ILOHUNGAYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"DUNGGALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750103","kode_kel":"7501032015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA","nama_kel":"PILOBUHUTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"ISIMU UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"ISIMU SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"DATAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"TOLOTIO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"LABANU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"REKSONEGORO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"BUHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"DUNGGALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"MOLOWAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"ILOPONU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042011","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"ILOMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042012","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"MOTILANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042013","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"ISIMU RAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"BALAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"BOTUMOPUTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750104","kode_kel":"7501042016","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TIBAWA","nama_kel":"ULOBUA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"TONTAYUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"BILUHU TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"KAYUBULAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"BONGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"LOPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"LAMU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052012","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"OLIMOO'O","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"BUHUDAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750105","kode_kel":"7501052015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BATUDAA PANTAI","nama_kel":"LANGGULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"SIDOMULYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"PARUNGI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"DILONIYOHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"SIDODADI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"POTANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092011","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"MOTODUTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092012","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"ILOHELUMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"MONGGOLITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"BANDUNG REJO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092018","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"DULOHUPA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092019","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"SIDOMULYA SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092020","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"BONGONGOAYU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750109","kode_kel":"7501092021","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BOLIYOHUTO","nama_kel":"TOLITE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"DULAMAYO UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"ULAPATO A","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"ULAPATO B","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"TALUMELITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"TULADENGGI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"PANTUNGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"LUPOYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"PENTADIO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"PENTADIO BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"DUMATI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102011","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"MODELIDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102012","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"TINELO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102013","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"TIMUATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"TAPALULUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750110","kode_kel":"7501102015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TELAGA BIRU","nama_kel":"TONALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"DULAMAYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"UPOMELA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"TOHUPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"MOLANIHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112011","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"MOLOPATODU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112012","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"MOLAS","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112013","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"BATULAYAR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"BATULORENG","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"BONGOHULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112016","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"OTOPADE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112018","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"HUNTU LO HULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112022","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"OWALANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112023","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"LIYODU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112024","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"LIYOTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750111","kode_kel":"7501112025","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BONGOMEME","nama_kel":"KAYUMERAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"SUKAMAKMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"LAKEYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"GANDASARI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"MOLOHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"POLOHUNGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"BINA JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"TAMAILA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"SIDOARJO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132013","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"SUKAMAKMUR UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132014","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"MARGOMULYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132015","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"MAKMUR ABADI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132016","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"GANDARIA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132017","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"OMBULO TANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132018","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"TAMAILA UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750113","kode_kel":"7501132019","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TOLANGOHULA","nama_kel":"HIMALAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"PARIS","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"HELUMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"PILOMONU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"SATRIA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"KARYAMUKTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"TALUMOPATU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"SIDOMUKTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"PAYU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"SUKAMAJU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750114","kode_kel":"7501142010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"MOOTILANGO","nama_kel":"HUYULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"PONGONGAILA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"PULUBALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"MOLAMAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"BAKTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"TRIDHARMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"MOLALAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"MULYONEGORO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"PUNCAK","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"TOYIDITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"AYUMOLINGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750116","kode_kel":"7501162011","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"PULUBALA","nama_kel":"BUKIT AREN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"PONE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"HUIDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"OMBULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"DAENAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"YOSONEGORO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"TUNGGULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"HUTABOHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"PADENGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"HAYA-HAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750117","kode_kel":"7501172010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"LIMBOTO BARAT","nama_kel":"HUIDU UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"TUALANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"DULOMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"TILOTE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"TABUMELA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"ILOTIDEA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"LAUWONU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"TENGGELA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750118","kode_kel":"7501182008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TILANGO","nama_kel":"TINELO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"TABONGO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"TABONGO BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"LIMEHE BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"LIMEHE TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"ILOMANGGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"MOTINELO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"MOAHUDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"TERATAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750119","kode_kel":"7501192009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TABONGO","nama_kel":"LIMEHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"BILUHU BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"LOBUTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"BILUHU TENGAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"LULUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"HUWONGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"LOBUTO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"BOTUBOLU'O","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750120","kode_kel":"7501202008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILUHU","nama_kel":"OLIMEYALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"BULULI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"MOHIYOLO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"PANGAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"KARYA INDAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"PRIMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"TIOHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"OLIMOHULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"KARYA BARU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"BONTULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750121","kode_kel":"7501212010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"ASPARAGA","nama_kel":"BIHE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750122","kode_kel":"7501222001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TALAGA JAYA","nama_kel":"HUTADAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750122","kode_kel":"7501222002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TALAGA JAYA","nama_kel":"BUHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750122","kode_kel":"7501222003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TALAGA JAYA","nama_kel":"LUWOO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750122","kode_kel":"7501222004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TALAGA JAYA","nama_kel":"BUNGGALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750122","kode_kel":"7501222005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"TALAGA JAYA","nama_kel":"BULOTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"TOTOPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"BILATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"ILOMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"TAULA'A","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"JURIYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"PELEHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"BUMELA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"LAMAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"MUSYAWARAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750123","kode_kel":"7501232010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"BILATO","nama_kel":"SUKA DAMAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242001","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"PILOLALENGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242002","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"KALIYOSO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242003","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"DUNGALIYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242004","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"AMBARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242005","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"BONGOMEME","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242006","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"DUWANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242007","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"AYUHULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242008","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"PANGADAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242009","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"BOTUBULOWE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7501","kode_kec":"750124","kode_kel":"7501242010","kode_prov":"75","nama_cab":"GORONTALO","nama_kec":"DUNGALIYO","nama_kel":"MOMALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012004","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"BONGO NOL","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012005","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"BONGO IV","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012006","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"MOLOMBULAHE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012007","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"MUTIARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012008","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"SARIPI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012009","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"WONGGAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012010","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"TANGKOBU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012011","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"BONGO TUA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012012","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"KUALA LUMPUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012013","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"MUSTIKA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012014","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"TENILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012015","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"HUWONGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012016","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"KARYA MURNI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012019","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"GIRISA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012020","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"BATU KRAMAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012021","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"BUALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012022","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"SOSIAL","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012023","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"PERMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012024","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"HULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012025","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"BALATE JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012026","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"REJONEGORO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750201","kode_kel":"7502012027","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN","nama_kel":"DILOATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022001","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"HARAPAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022002","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"BONGO II","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022003","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"BONGO III","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022004","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"MEKARJAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022005","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"SUKAMAJU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022006","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"PANGEYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022007","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"JATIMULYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022008","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"SUKA MULYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022009","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"SARI TANI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022010","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"DIMITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022011","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"TANJUNG HARAPAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022012","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"RAHARJA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022013","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"TRIRUKUN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750202","kode_kel":"7502022014","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"WONOSARI","nama_kel":"DULOHUPA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032001","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"DULUPI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032002","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"TABONGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032003","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"KOTARAJA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032004","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"POLOHUNGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032005","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"PANGI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032006","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"TANGGA JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032007","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"TANAH PUTIH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750203","kode_kel":"7502032008","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"DULUPI","nama_kel":"TANGGA BARITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042001","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"LIMBATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042002","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"PILOLIYANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042003","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"AYUHULALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042004","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"HUNGAYONAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042005","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"MODELOMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042006","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"PENTADU BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042007","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"PENTADU TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042008","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"BAJO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042009","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"MOHUNGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042010","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"LAHUMBO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042011","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"LAMU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750204","kode_kel":"7502042018","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"TILAMUTA","nama_kel":"TENILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052001","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"TABULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052002","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"KAARUYAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052003","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"SALILAMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052004","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"BENDUNGAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052005","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"MANANGGU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052006","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"BUTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052007","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"PONTOLO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052008","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"KRAMAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750205","kode_kel":"7502052009","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"MANANGGU","nama_kel":"TABULO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062001","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"TUTULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062002","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"HUTAMONU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062003","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"PATOAMEME","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062004","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"TAPADAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062005","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"POTANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062006","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"BOTUMOITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062007","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"BOLIHUTUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062008","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"RUMBIA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750206","kode_kel":"7502062009","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"BOTUMOITO","nama_kel":"DULANGEYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072001","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"BUBAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072002","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"LITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072003","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"LIMBATIHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072004","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"BUKIT KARYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072005","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"APITALAWU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072006","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"BANGGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072007","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"TOWAYU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7502","kode_kec":"750207","kode_kel":"7502072008","kode_prov":"75","nama_cab":"BOALEMO","nama_kec":"PAGUYAMAN PANTAI","nama_kel":"OLIBU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750301","kode_kel":"7503012004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TAPA","nama_kel":"TALUMOPATU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750301","kode_kel":"7503012005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TAPA","nama_kel":"TALULOBUTU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750301","kode_kel":"7503012006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TAPA","nama_kel":"DUNGGALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750301","kode_kel":"7503012007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TAPA","nama_kel":"LANGGE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750301","kode_kel":"7503012027","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TAPA","nama_kel":"TALULOBUTU SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750301","kode_kel":"7503012028","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TAPA","nama_kel":"KERAMAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750301","kode_kel":"7503012029","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TAPA","nama_kel":"MERANTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503021008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"PADENGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503021009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"OLOHUTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503021010","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"TUMBIHE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503021011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"PAUWO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503021028","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"OLOHUTA UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503022006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"DUTOHE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503022007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"TANGGILINGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503022012","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"TOTO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503022013","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"POOWO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503022024","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"TALANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503022026","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"POOWO BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750302","kode_kel":"7503022029","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA","nama_kel":"DUTOHE BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"TINGKOHUBU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032012","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"BOLUDAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032013","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"BUBE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032014","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"HULUDUOTAMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032020","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"ULANTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032021","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"TINELO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032022","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"BUBEYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032023","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"BUBE BARU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032027","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"TINGKOHUBU TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750303","kode_kel":"7503032028","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA","nama_kel":"HELUMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"TAMBOO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"BILUNGALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"UABANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"TOLOTIO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042012","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"TONGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042025","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"BILUNGALA UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042026","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"TIHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042027","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"TUNAS JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042028","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"LEMBAH HIJAU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042029","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"BATU HIJAU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042031","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"OMBULO HIJAU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042032","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"KEMIRI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750304","kode_kel":"7503042033","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONEPANTAI","nama_kel":"PELITA HIJAU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"BOIDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"BANDUNGAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"TUPA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"LONGALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"TULOA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052010","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"KOPI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"LOMAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052012","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"SUKA DAMAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750305","kode_kel":"7503052015","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO UTARA","nama_kel":"BUNUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"BONGOIME","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"BONGOPINI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"TOTO UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"MOUTONG","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"TUNGGULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"LONUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"TAMBOO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"ILOHELUMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"MOTILANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062010","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"BUTU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"PERMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062012","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"TUNGGULO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062013","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"BONGOHULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750306","kode_kel":"7503062014","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"TILONGKABILA","nama_kel":"BERLIAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"TIMBUOLO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"PANGGULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"LUWOHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"BUATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"TIMBUOLO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"TANAH PUTIH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"PANGGULO BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"TIMBUOLO TENGAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750307","kode_kel":"7503072009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BOTUPINGGE","nama_kel":"SUKMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"HUANGOBOTU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"MOLUTABU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"OLUHUTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"OLELE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"BOTUTONUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"MODELOMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"BILUANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"BOTUBARANI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750308","kode_kel":"7503082009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"KABILA BONE","nama_kel":"BINTALAHE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"TALUDAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"SOGITIA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"MOODULIO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"BILONLANTUNGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"INOGALUMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"MONANO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"TUMBUH MEKAR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"MOLAMAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"MASIAGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092010","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"ILOHUUWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"MUARA BONE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092012","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"CENDANA PUTIH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092013","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"WALUHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750309","kode_kel":"7503092014","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE","nama_kel":"PERMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"INOMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"TUMBULILATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"MOOTAYU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"MOOTINELO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"PELITA JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102010","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"MOOPIYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"ALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102012","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"LAUT BIRU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102014","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"BUNGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750310","kode_kel":"7503102015","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BONE RAYA","nama_kel":"MOOTAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"TULABOLO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"DUMBAYA BULAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"TULABOLO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"TILANGOBULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"PODUWOMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"PANGGULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"TULABOLO BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112010","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"PANGI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750311","kode_kel":"7503112011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TIMUR","nama_kel":"TINEMBA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"BULONTALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"LIBUNGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"MOLINTOGUPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"BONEDAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"BONDAWUNA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"BULONTALA TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"PANCURAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750312","kode_kel":"7503122008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA SELATAN","nama_kel":"BONDARAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750313","kode_kel":"7503132001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TENGAH","nama_kel":"LOMPOTOO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750313","kode_kel":"7503132002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TENGAH","nama_kel":"LOMBONGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750313","kode_kel":"7503132003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TENGAH","nama_kel":"DUANO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750313","kode_kel":"7503132004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TENGAH","nama_kel":"TOLOMATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750313","kode_kel":"7503132005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TENGAH","nama_kel":"ALALE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750313","kode_kel":"7503132006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"SUWAWA TENGAH","nama_kel":"TAPADAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750314","kode_kel":"7503142001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO ULU","nama_kel":"MONGIILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750314","kode_kel":"7503142002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO ULU","nama_kel":"OWATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750314","kode_kel":"7503142003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO ULU","nama_kel":"MONGIILO UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750314","kode_kel":"7503142004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO ULU","nama_kel":"PILOLAHEYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750314","kode_kel":"7503142005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO ULU","nama_kel":"ILOMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750314","kode_kel":"7503142006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO ULU","nama_kel":"SUKA MAKMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"AYULA SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"HUNTU UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"AYULA UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"HUNTU SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"AYULA TILANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"AYULA TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"LAMAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"TINELO AYULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152010","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"SEJAHTERA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750315","kode_kel":"7503152011","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO SELATAN","nama_kel":"HUNTU BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750316","kode_kel":"7503162001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO TIMUR","nama_kel":"BULOTALANGI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750316","kode_kel":"7503162002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO TIMUR","nama_kel":"TOLUWAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750316","kode_kel":"7503162003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO TIMUR","nama_kel":"POPODU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750316","kode_kel":"7503162004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO TIMUR","nama_kel":"BULOTALANGI TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750316","kode_kel":"7503162005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULANGO TIMUR","nama_kel":"BULOTALANGI BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"MAMUNGAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"KAIDUNDU BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"MOPUYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"KAIDUNDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"BUKIT HIJAU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172006","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"MAMUNGAA TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172007","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"DUNGGILATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172008","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"PINOMOTIGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750317","kode_kel":"7503172009","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"BULAWA","nama_kel":"PATOA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750318","kode_kel":"7503182001","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"PINOGU","nama_kel":"PINOGU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750318","kode_kel":"7503182002","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"PINOGU","nama_kel":"BANGIO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750318","kode_kel":"7503182003","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"PINOGU","nama_kel":"DATARAN HIJAU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750318","kode_kel":"7503182004","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"PINOGU","nama_kel":"PINOGU PERMAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7503","kode_kec":"750318","kode_kel":"7503182005","kode_prov":"75","nama_cab":"BONE BOLANGO","nama_kec":"PINOGU","nama_kel":"TILONGGIBILA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"TOROSIAJE JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"POPAYATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012008","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"TELAGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012012","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"TOROSIAJE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012015","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"BUKIT TINGKI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012016","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"TUNAS HARAPAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012017","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"TRIKORA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012018","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"DAMBALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012019","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"TELAGA BIRU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750401","kode_kel":"7504012020","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO","nama_kel":"BUMI BAHARI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"LEMITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"WONGGARASI BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"LOMULI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022008","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"LEMITO UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022009","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"KENARI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022010","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"WONGGARASI TENGAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022011","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"SUKA DAMAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750402","kode_kel":"7504022012","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"LEMITO","nama_kel":"BABALONGE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"MOTOLOHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"IMBODU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"MANUNGGAL KARYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"SIDORUKUN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032008","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"SARIMURNI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032009","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"HUYULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032012","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"OMAYUWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032013","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"AYULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032014","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"PATUHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032015","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"BANUROJA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032016","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"PELAMBANE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032017","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"MOTOLOHU SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750403","kode_kel":"7504032018","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"RANDANGAN","nama_kel":"SIDOWONGE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"MARISA SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"MARISA UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042007","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"TERATAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042008","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"POHUWATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042015","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"BOTUBILOTAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042016","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"PALOPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042017","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"POHUWATO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750404","kode_kel":"7504042018","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"MARISA","nama_kel":"BULANGITA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504051001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"LIBUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504051002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"PENTADU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504051003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"SIDUAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"BUNUYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"SIPAYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"SOGINTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052010","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"BUMBULAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052012","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"MALEO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052013","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"MOLAMAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052014","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"BUHU JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750405","kode_kel":"7504052015","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PAGUAT","nama_kel":"KEMIRI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750406","kode_kel":"7504062001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PATILANGGIO","nama_kel":"ILOHELUMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750406","kode_kel":"7504062002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PATILANGGIO","nama_kel":"BALAYO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750406","kode_kel":"7504062003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PATILANGGIO","nama_kel":"SUKA MAKMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750406","kode_kel":"7504062004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PATILANGGIO","nama_kel":"MANAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750406","kode_kel":"7504062005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PATILANGGIO","nama_kel":"DULOMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750406","kode_kel":"7504062006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"PATILANGGIO","nama_kel":"DUDEPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750407","kode_kel":"7504072001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"TALUDITI","nama_kel":"PANCAKARSA I","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750407","kode_kel":"7504072002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"TALUDITI","nama_kel":"PANCAKARSA II","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750407","kode_kel":"7504072003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"TALUDITI","nama_kel":"MAKARTI JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750407","kode_kel":"7504072004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"TALUDITI","nama_kel":"KALIMAS","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750407","kode_kel":"7504072005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"TALUDITI","nama_kel":"MALANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750407","kode_kel":"7504072006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"TALUDITI","nama_kel":"PUNCAK JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750407","kode_kel":"7504072007","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"TALUDITI","nama_kel":"TIRTO ASRI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750408","kode_kel":"7504082001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DENGILO","nama_kel":"POPAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750408","kode_kel":"7504082002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DENGILO","nama_kel":"KARYA BARU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750408","kode_kel":"7504082003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DENGILO","nama_kel":"KARANGETANG","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750408","kode_kel":"7504082004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DENGILO","nama_kel":"PADENGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750408","kode_kel":"7504082005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DENGILO","nama_kel":"HUTAMOPUTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750409","kode_kel":"7504092001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"BUNTULIA","nama_kel":"HULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750409","kode_kel":"7504092002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"BUNTULIA","nama_kel":"KARYA INDAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750409","kode_kel":"7504092003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"BUNTULIA","nama_kel":"TALUDUYUNU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750409","kode_kel":"7504092004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"BUNTULIA","nama_kel":"BUNTULIA UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750409","kode_kel":"7504092005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"BUNTULIA","nama_kel":"BUNTULIA TENGAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750409","kode_kel":"7504092006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"BUNTULIA","nama_kel":"TALUDUYUNU UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750409","kode_kel":"7504092007","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"BUNTULIA","nama_kel":"SIPATANA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"BULILI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"BUNTULIA BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"BUNTULIA SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"DUHIADAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"MEKAR JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"BUNTULIA JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102007","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"PADENGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750410","kode_kel":"7504102008","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"DUHIADAA","nama_kel":"MOOTILANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750411","kode_kel":"7504112001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"WANGGARASI","nama_kel":"WONGGARASI TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750411","kode_kel":"7504112002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"WANGGARASI","nama_kel":"BUKIT HARAPAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750411","kode_kel":"7504112003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"WANGGARASI","nama_kel":"BOHUSAMI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750411","kode_kel":"7504112004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"WANGGARASI","nama_kel":"LEMBAH PERMAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750411","kode_kel":"7504112005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"WANGGARASI","nama_kel":"LIMBULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750411","kode_kel":"7504112006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"WANGGARASI","nama_kel":"YIPILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750411","kode_kel":"7504112007","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"WANGGARASI","nama_kel":"TUWEYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750412","kode_kel":"7504122001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO TIMUR","nama_kel":"MILANGODAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750412","kode_kel":"7504122002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO TIMUR","nama_kel":"LONDOUN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750412","kode_kel":"7504122003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO TIMUR","nama_kel":"MARISA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750412","kode_kel":"7504122004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO TIMUR","nama_kel":"TAHELE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750412","kode_kel":"7504122005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO TIMUR","nama_kel":"BUNTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750412","kode_kel":"7504122006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO TIMUR","nama_kel":"MALEO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750412","kode_kel":"7504122007","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO TIMUR","nama_kel":"KELAPA LIMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750413","kode_kel":"7504132001","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO BARAT","nama_kel":"DUDEWULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750413","kode_kel":"7504132002","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO BARAT","nama_kel":"TUNAS JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750413","kode_kel":"7504132003","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO BARAT","nama_kel":"PADENGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750413","kode_kel":"7504132004","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO BARAT","nama_kel":"MOLOSIPAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750413","kode_kel":"7504132005","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO BARAT","nama_kel":"BUTUNGALE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750413","kode_kel":"7504132006","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO BARAT","nama_kel":"PERSATUAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7504","kode_kec":"750413","kode_kel":"7504132007","kode_prov":"75","nama_cab":"POHUWATO","nama_kec":"POPAYATO BARAT","nama_kel":"MOLOSIPAT UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"IMANA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"BINTANA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012005","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"BUATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"PINONTOYONGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"MONGGUPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"KOTAJIN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012011","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"ILOMATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012013","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"ILOHELUMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012014","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"WAPALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012015","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"POSONO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012016","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"SIGASO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012017","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"TOMBULILATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012018","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"KOTAJIN UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750501","kode_kel":"7505012019","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ATINGGOLA","nama_kel":"OLUHUTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"PONTOLO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"MOLINGKAPOTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"LEBOTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"POSSO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022005","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"TITIDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"MOLUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022010","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"MOOTINELO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022011","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"BUALEMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022013","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"BULALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022017","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"KATIALADA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022019","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"OMBULODATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022021","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"ALATA KARYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022023","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"CISADANE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022024","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"BOTUWOMBATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022025","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"BOTUNGOBUNGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022026","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"MOLINGKAPOTO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022030","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"PONTOLO ATAS","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750502","kode_kel":"7505022032","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"KWANDANG","nama_kel":"MASURU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"ILANGATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"TOLONGIO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"TOLANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"POPALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"DUDEPO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032009","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"MOOTILANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032011","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"LANGGE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032012","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"TUTUWOTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032013","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"HIYALOOILE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032014","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"IBARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032017","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"ILOHELUMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032021","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"ILODULUNGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032023","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"PUTIANA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032024","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"HELUMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750503","kode_kel":"7505032025","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"ANGGREK","nama_kel":"DATAHU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"BULONTIYO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"BULONTIYO BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"BULOILA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042009","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"KASIA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042010","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"KIKIA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042012","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"TUMBA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042013","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"MEBONGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042014","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"LELATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042016","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"PULOHENTI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042019","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"PUNCAK MANDIRI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750504","kode_kel":"7505042020","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA","nama_kel":"HUTAKALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"TOLINGGULA TENGAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"TOLINGGULA PANTAI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"TOLINGGULA ULU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"LIMBATO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"PAPUALANGI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"MOLANGGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052011","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"CEMPAKA PUTIH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052014","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"TOLITE JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052017","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"ILOMANGGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750505","kode_kel":"7505052018","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOLINGGULA","nama_kel":"ILOTUNGGULA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"GENTUMA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"DUMOLODO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"MOLONGGOTA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"IPILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062005","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"LANGKE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"PASALAE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"NANATI JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"KETAPANG","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062009","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"MOTOMINGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062010","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"DURIAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750506","kode_kel":"7505062011","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"GENTUMA RAYA","nama_kel":"BOHUSAMI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"DAMBALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"MILANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"JEMBATAN MERAH","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"BUBODE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072005","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"LEYAO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"MOLANTADU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"HUIDU MELITO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"BULANGO RAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072009","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"TANJUNG KARANG","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750507","kode_kel":"7505072010","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"TOMILITO","nama_kel":"MUTIARA LAUT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750508","kode_kel":"7505082001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"PONELO KEPULAUAN","nama_kel":"PONELO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750508","kode_kel":"7505082002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"PONELO KEPULAUAN","nama_kel":"MALAMBE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750508","kode_kel":"7505082003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"PONELO KEPULAUAN","nama_kel":"OTIOLA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750508","kode_kel":"7505082004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"PONELO KEPULAUAN","nama_kel":"TIHENGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"MONANO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"TUDI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"MONAS","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"DUNU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092005","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"GARAPIA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"SOGU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"PILOHULATA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"MOKONOWU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092009","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"TOLITEHUYU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750509","kode_kel":"7505092010","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"MONANO","nama_kel":"ZURIYATI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"BIAU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"OMUTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"LUHUTO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"WINDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102005","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"TOPI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"SEMBIHINGAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"DIDINGGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"BUALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102009","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"POTANGA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750510","kode_kel":"7505102010","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"BIAU","nama_kel":"BOHULO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112001","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"DEME I","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112002","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"BULUWATU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112003","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"DULUKAPA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112004","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"DEME II","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112005","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"BULADU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112006","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"HULAWA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112007","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"WUBUDU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112008","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"BUBALANGO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112009","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"MOTIHELUMO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7505","kode_kec":"750511","kode_kel":"7505112010","kode_prov":"75","nama_cab":"GORONTALO UTARA","nama_kec":"SUMALATA TIMUR","nama_kel":"KOLUWOKA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757101","kode_kel":"7571011001","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA BARAT","nama_kel":"DEMBE I","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757101","kode_kel":"7571011002","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA BARAT","nama_kel":"LEKOBALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757101","kode_kel":"7571011003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA BARAT","nama_kel":"PILOLODAA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757101","kode_kel":"7571011004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA BARAT","nama_kel":"BULIIDE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757101","kode_kel":"7571011005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA BARAT","nama_kel":"TENILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757101","kode_kel":"7571011006","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA BARAT","nama_kel":"MOLOSIPAT W","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757101","kode_kel":"7571011008","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA BARAT","nama_kel":"BULADU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757102","kode_kel":"7571021010","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA SELATAN","nama_kel":"BIAWAO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757102","kode_kel":"7571021012","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA SELATAN","nama_kel":"BIAWU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757102","kode_kel":"7571021013","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA SELATAN","nama_kel":"LIMBA B","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757102","kode_kel":"7571021019","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA SELATAN","nama_kel":"LIMBA U I","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757102","kode_kel":"7571021020","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA SELATAN","nama_kel":"LIMBA U II","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757103","kode_kel":"7571031003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA UTARA","nama_kel":"DEMBE II","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757103","kode_kel":"7571031004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA UTARA","nama_kel":"WONGKADITI TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757103","kode_kel":"7571031005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA UTARA","nama_kel":"WONGKADITI BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757103","kode_kel":"7571031010","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA UTARA","nama_kel":"DULOMO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757103","kode_kel":"7571031014","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA UTARA","nama_kel":"DULOMO UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757103","kode_kel":"7571031015","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA UTARA","nama_kel":"DEMBE JAYA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757104","kode_kel":"7571041001","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUNGINGI","nama_kel":"HUANGOBOTU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757104","kode_kel":"7571041002","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUNGINGI","nama_kel":"LIBUO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757104","kode_kel":"7571041003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUNGINGI","nama_kel":"TOMULABUTAO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757104","kode_kel":"7571041004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUNGINGI","nama_kel":"TULADENGGI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757104","kode_kel":"7571041005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUNGINGI","nama_kel":"TOMULABUTAO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757105","kode_kel":"7571051003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TIMUR","nama_kel":"HELEDULAA UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757105","kode_kel":"7571051004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TIMUR","nama_kel":"HELEDULAA SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757105","kode_kel":"7571051005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TIMUR","nama_kel":"IPILO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757105","kode_kel":"7571051008","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TIMUR","nama_kel":"MOODU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757105","kode_kel":"7571051009","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TIMUR","nama_kel":"PADEBUOLO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757105","kode_kel":"7571051011","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TIMUR","nama_kel":"TAMALATE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757106","kode_kel":"7571061001","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TENGAH","nama_kel":"WUMIALO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757106","kode_kel":"7571061002","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TENGAH","nama_kel":"DULALOWO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757106","kode_kel":"7571061003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TENGAH","nama_kel":"LILUWO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757106","kode_kel":"7571061004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TENGAH","nama_kel":"PULUBALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757106","kode_kel":"7571061005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TENGAH","nama_kel":"PAGUYAMAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757106","kode_kel":"7571061006","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"KOTA TENGAH","nama_kel":"DULALOWO TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757107","kode_kel":"7571071001","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"SIPATANA","nama_kel":"TANGGIKIKI","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757107","kode_kel":"7571071002","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"SIPATANA","nama_kel":"TAPA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757107","kode_kel":"7571071003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"SIPATANA","nama_kel":"BULOTADAA BARAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757107","kode_kel":"7571071004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"SIPATANA","nama_kel":"BULOTADAA TIMUR","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757107","kode_kel":"7571071005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"SIPATANA","nama_kel":"MOLOSIPAT U","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757108","kode_kel":"7571081001","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUMBO RAYA","nama_kel":"LEATO UTARA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757108","kode_kel":"7571081002","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUMBO RAYA","nama_kel":"LEATO SELATAN","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757108","kode_kel":"7571081003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUMBO RAYA","nama_kel":"TALUMOLO","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757108","kode_kel":"7571081004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUMBO RAYA","nama_kel":"BOTU","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757108","kode_kel":"7571081005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"DUMBO RAYA","nama_kel":"BUGIS","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757109","kode_kel":"7571091001","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"HULONTHALANGI","nama_kel":"TANJUNG KRAMAT","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757109","kode_kel":"7571091002","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"HULONTHALANGI","nama_kel":"POHE","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757109","kode_kel":"7571091003","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"HULONTHALANGI","nama_kel":"TENDA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757109","kode_kel":"7571091004","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"HULONTHALANGI","nama_kel":"DONGGALA","nama_prov":"GORONTALO","tingkat":4}
+{"kode_cab":"7571","kode_kec":"757109","kode_kel":"7571091005","kode_prov":"75","nama_cab":"KOTA GORONTALO","nama_kec":"HULONTHALANGI","nama_kel":"SIENDENG","nama_prov":"GORONTALO","tingkat":4}

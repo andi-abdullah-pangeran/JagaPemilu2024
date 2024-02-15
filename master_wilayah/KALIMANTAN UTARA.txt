@@ -1,0 +1,482 @@
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501011001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"TANJUNG PALAS HULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501011002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"TANJUNG PALAS TENGAH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501011003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"TANJUNG PALAS HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501011004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"KARANG ANYAR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501012005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"GUNUNG PUTIH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501012006","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"PEJALIN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501012007","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"ANTUTAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501012008","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"TERAS BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650101","kode_kel":"6501012009","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS","nama_kel":"TERAS NAWANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650102","kode_kel":"6501022001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS BARAT","nama_kel":"LONG BELUAH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650102","kode_kel":"6501022002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS BARAT","nama_kel":"LONG SAM","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650102","kode_kel":"6501022003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS BARAT","nama_kel":"MARA I","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650102","kode_kel":"6501022004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS BARAT","nama_kel":"MARA HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650102","kode_kel":"6501022005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS BARAT","nama_kel":"LONG PARI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650103","kode_kel":"6501032001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS UTARA","nama_kel":"KARANG AGUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650103","kode_kel":"6501032002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS UTARA","nama_kel":"PIMPING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650103","kode_kel":"6501032003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS UTARA","nama_kel":"PANCA AGUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650103","kode_kel":"6501032004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS UTARA","nama_kel":"RUHUI RAHAYU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650103","kode_kel":"6501032005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS UTARA","nama_kel":"ARDI MULYO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650103","kode_kel":"6501032006","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS UTARA","nama_kel":"KELUBIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"TANAH KUNING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"MANGKUPADI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"SAJAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"WONOMULYO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"TANJUNG AGUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042006","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"BINAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042007","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"SAJAU HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650104","kode_kel":"6501042008","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TIMUR","nama_kel":"PURA SAJAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501051001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"TANJUNG SELOR HULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501051002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"TANJUNG SELOR HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501051008","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"TANJUNG SELOR TIMUR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501052003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"JELARAI SELOR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501052004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"GUNUNG SERIANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501052005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"BUMI RAHAYU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501052006","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"GUNUNG SARI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501052007","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"APUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650105","kode_kel":"6501052009","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG SELOR","nama_kel":"TENGKAPAK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650106","kode_kel":"6501062001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TENGAH","nama_kel":"SALIMBATU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650106","kode_kel":"6501062002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TENGAH","nama_kel":"SILVA RAHAYU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650106","kode_kel":"6501062003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"TANJUNG PALAS TENGAH","nama_kel":"TANJUNG BUKA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LEPAK ARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG LASAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG PESO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG BIA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"MUARA PANGEAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072006","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG LIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072007","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG PELAAH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072008","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG LEJUH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072009","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG PELBAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650107","kode_kel":"6501072010","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO","nama_kel":"LONG BUANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650108","kode_kel":"6501082001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO HILIR","nama_kel":"LONG TUNGU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650108","kode_kel":"6501082002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO HILIR","nama_kel":"LONG BANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650108","kode_kel":"6501082003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO HILIR","nama_kel":"LONG TELENJAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650108","kode_kel":"6501082004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO HILIR","nama_kel":"NAHA AYA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650108","kode_kel":"6501082005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO HILIR","nama_kel":"LONG LEMBU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650108","kode_kel":"6501082006","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"PESO HILIR","nama_kel":"LONG BANG HULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"SEKATAK BUJI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"PARU ABANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"BUNAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092004","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"UJANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092005","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"TENGGILING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092006","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"KELEMBUNAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092007","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"TURUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092008","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"TERINDAK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092009","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"KELISING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092010","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"AMBALAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092011","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"KERITING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092012","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"KENDARI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092013","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"BAMBANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092014","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"MARITAM","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092015","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"PENTIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092016","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"PUNAN DULAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092017","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"KELINCAUAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092018","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"BEKILIU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092019","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"SEKATAK BENGARA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092020","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"PUNGIT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092021","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"ANJAR ARIP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650109","kode_kel":"6501092022","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"SEKATAK","nama_kel":"LIAGU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650110","kode_kel":"6501102001","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"BUNYU","nama_kel":"BUNYU BARAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650110","kode_kel":"6501102002","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"BUNYU","nama_kel":"BUNYU SELATAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6501","kode_kec":"650110","kode_kel":"6501102003","kode_prov":"65","nama_cab":"BULUNGAN","nama_kec":"BUNYU","nama_kel":"BUNYU TIMUR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650201","kode_kel":"6502012002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG","nama_kel":"LONG BISAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650201","kode_kel":"6502012005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG","nama_kel":"PULAU SAPI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650201","kode_kel":"6502012006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG","nama_kel":"PAKING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650201","kode_kel":"6502012007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG","nama_kel":"LIDUNG KEMENCI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650201","kode_kel":"6502012008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG","nama_kel":"MENTARANG BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650201","kode_kel":"6502012009","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG","nama_kel":"HARAPAN MAJU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650202","kode_kel":"6502022001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU KOTA","nama_kel":"BATU LIDUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650202","kode_kel":"6502022002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU KOTA","nama_kel":"MALINAU KOTA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650202","kode_kel":"6502022003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU KOTA","nama_kel":"PELITA KANAAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650202","kode_kel":"6502022004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU KOTA","nama_kel":"MALINAU HULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650202","kode_kel":"6502022005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU KOTA","nama_kel":"MALINAU HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650202","kode_kel":"6502022006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU KOTA","nama_kel":"TANJUNG KERANJANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG PUJUNGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG KETAMAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG PUA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG LAME","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG JELET","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG ARAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG PELIRAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG BENA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650203","kode_kel":"6502032009","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"PUJUNGAN","nama_kel":"LONG BELAKA PITAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650204","kode_kel":"6502042001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HILIR","nama_kel":"DATA DIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650204","kode_kel":"6502042002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HILIR","nama_kel":"LONG PIPA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650204","kode_kel":"6502042003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HILIR","nama_kel":"LONG SULE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650204","kode_kel":"6502042004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HILIR","nama_kel":"SUNGAI ANAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650204","kode_kel":"6502042005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HILIR","nama_kel":"LONG METUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650205","kode_kel":"6502052001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HULU","nama_kel":"LONG NAWANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650205","kode_kel":"6502052002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HULU","nama_kel":"NAWANG BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650205","kode_kel":"6502052003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HULU","nama_kel":"LONG TEMUYAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650205","kode_kel":"6502052004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HULU","nama_kel":"LONG BETAOH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650205","kode_kel":"6502052005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN HULU","nama_kel":"LONG PAYAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"BILA BEKAYUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"LONG LOREH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"LANGAP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"LABAN NYARIT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"NUNUK TANAH KIBANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"PELENCAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"PAYA SETURAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"PUNAN RIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650206","kode_kel":"6502062009","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN","nama_kel":"SENGAYAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"KALIAMOK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"LUSO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"MALINAU SEBERANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"PUTAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"SALAP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"SERUYUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"RESPEN TUBU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"BELAYAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072009","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"SEMBUAK WAROD","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072010","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"LUBAK MANIS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072011","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"KELAPIS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650207","kode_kel":"6502072012","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU UTARA","nama_kel":"SEMENGARIS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"LONG BILA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"LONG KENIPE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"PUNAN BENGALUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"SESUA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"SENTABAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"TANJUNG LAPANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"TARAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"KUALA LAPANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650208","kode_kel":"6502082009","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU BARAT","nama_kel":"SEMPAYANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650209","kode_kel":"6502092001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI BOH","nama_kel":"DUMU MAHAK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650209","kode_kel":"6502092002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI BOH","nama_kel":"LONG LEBUSAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650209","kode_kel":"6502092003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI BOH","nama_kel":"MAHAK BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650209","kode_kel":"6502092004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI BOH","nama_kel":"LONG TOP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650209","kode_kel":"6502092005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI BOH","nama_kel":"AGUNG BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650209","kode_kel":"6502092006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI BOH","nama_kel":"DATA BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650210","kode_kel":"6502102001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN SELATAN","nama_kel":"LONG AMPUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650210","kode_kel":"6502102002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN SELATAN","nama_kel":"LONG URO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650210","kode_kel":"6502102003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN SELATAN","nama_kel":"LIDUNG PAYAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650210","kode_kel":"6502102004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN SELATAN","nama_kel":"SUNGAI BARANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650210","kode_kel":"6502102005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"KAYAN SELATAN","nama_kel":"METULANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650211","kode_kel":"6502112001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"BAHAU HULU","nama_kel":"LONG ULI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650211","kode_kel":"6502112002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"BAHAU HULU","nama_kel":"LONG ALANGO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650211","kode_kel":"6502112003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"BAHAU HULU","nama_kel":"LONG BERINI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650211","kode_kel":"6502112004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"BAHAU HULU","nama_kel":"LONG TEBULO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650211","kode_kel":"6502112005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"BAHAU HULU","nama_kel":"APAU PING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650211","kode_kel":"6502112006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"BAHAU HULU","nama_kel":"LONG KEMUAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LUNG FALA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LUNG KEBINU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LUNG MEKATIF","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LUNG SIMAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LUNG BERANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LUNG SULIT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LUNG SEMAMU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LONG GAFID","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122009","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"TEMALANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650212","kode_kel":"6502122010","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MENTARANG HULU","nama_kel":"LONG LIKU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"SETULANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"SETARAP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"PUNAN SETARAP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"BATU KAJANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"GONG SOLOK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"PUNAN GONG SOLOK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"LONG ADIU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650213","kode_kel":"6502132008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HILIR","nama_kel":"PUNAN LONG ADIU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"LONG LAKE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"PUNAN MIRAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"LONG RAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"HALANGA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"METUT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142006","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"LONG JALAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142007","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"NAHAKRAMO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650214","kode_kel":"6502142008","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"MALINAU SELATAN HULU","nama_kel":"TANJUNG NANGA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650215","kode_kel":"6502152001","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI TUBU","nama_kel":"LONG NYAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650215","kode_kel":"6502152002","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI TUBU","nama_kel":"LONG TITI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650215","kode_kel":"6502152003","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI TUBU","nama_kel":"LONG RANAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650215","kode_kel":"6502152004","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI TUBU","nama_kel":"RIAN TUBU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6502","kode_kec":"650215","kode_kel":"6502152005","kode_prov":"65","nama_cab":"MALINAU","nama_kec":"SUNGAI TUBU","nama_kel":"LONG PADA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650301","kode_kel":"6503012001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK","nama_kel":"TANJUNGKARANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650301","kode_kel":"6503012002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK","nama_kel":"BALANSIKU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650301","kode_kel":"6503012003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK","nama_kel":"SUNGAI MANURUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650301","kode_kel":"6503012004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK","nama_kel":"PADAIDI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650302","kode_kel":"6503021001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN","nama_kel":"NUNUKAN TIMUR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650302","kode_kel":"6503021002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN","nama_kel":"NUNUKAN BARAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650302","kode_kel":"6503021003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN","nama_kel":"NUNUKAN UTARA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650302","kode_kel":"6503021005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN","nama_kel":"NUNUKAN TENGAH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650302","kode_kel":"6503022004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN","nama_kel":"BINUSAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"TAGUL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"LUBAKAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"ATAP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"MANUK BUNGKUL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"TUJUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"PAGAR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"LABUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"BUTAS BAGU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"PELAJU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650303","kode_kel":"6503032010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG","nama_kel":"TEPIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"DERALON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"LIANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"DABULON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"TALUAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"PODONG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"PATAL I","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SIAWANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SAPUYAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"NAINSID","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SASIBU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SALUDAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042012","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SEMALAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042013","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"LIBANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042014","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SEDONGON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042015","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"TANJUNG HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042016","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SUMALUMUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042017","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"LINTONG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042018","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"PULU BULAWAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042019","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"TANJUNG HULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042020","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"PATAL II","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042021","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"PA'LOO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042022","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"SANGKUB","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042023","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"TUBUS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042024","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"LIKOS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042025","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"BULAN-BULAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042026","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"KALAMPISING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042027","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"PA'LEMUMUT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650304","kode_kel":"6503042028","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS","nama_kel":"MANSALONG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' PADI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"CINGLAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052022","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LIANG BUTAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052029","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' RUPAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052030","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"BA SIKOR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052031","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' NADO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052032","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"BUDUK KINANGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052033","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LIANG TUER","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052034","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"BUDUK TUMU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052035","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LONG BERAYANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052036","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' API","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052037","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' SIRE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052038","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"WA' YANUD","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052039","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LONG NAWANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052040","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LONG KATUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052041","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LONG BAWAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052044","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LONG MATUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052045","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LONG RUPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052046","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"LIANG BIADUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052047","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"WA' LAYA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052048","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' MATUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052049","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' TERUTUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650305","kode_kel":"6503052065","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN","nama_kel":"PA' PUTUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"PEMBELIANGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"APAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"KUNYIT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"TETABAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"KEKAYAP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"BEBANAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"LULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"SUJAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"MELASU BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650306","kode_kel":"6503062010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBUKU","nama_kel":"HARAPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"LONG PASIA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"LIANG LUNUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' IBANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' AMAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' KABER","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' TERA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' SING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' DALAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"LONG BIRAR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' UPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072016","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"LONG BUDUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072018","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"LONG PUPUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650307","kode_kel":"6503072020","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN SELATAN","nama_kel":"PA' URANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650308","kode_kel":"6503082001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK BARAT","nama_kel":"LIANG BUNYU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650308","kode_kel":"6503082002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK BARAT","nama_kel":"BINALAWAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650308","kode_kel":"6503082003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK BARAT","nama_kel":"SETABU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650308","kode_kel":"6503082004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK BARAT","nama_kel":"BAMBANGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650309","kode_kel":"6503091001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN SELATAN","nama_kel":"SELISUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650309","kode_kel":"6503091002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN SELATAN","nama_kel":"NUNUKAN SELATAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650309","kode_kel":"6503091003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN SELATAN","nama_kel":"MANSAPA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650309","kode_kel":"6503091004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"NUNUKAN SELATAN","nama_kel":"TANJUNG HARAPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650310","kode_kel":"6503102001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TIMUR","nama_kel":"SUNGAI NYAMUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650310","kode_kel":"6503102002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TIMUR","nama_kel":"TANJUNG HARAPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650310","kode_kel":"6503102003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TIMUR","nama_kel":"BUKIT ARU INDAH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650310","kode_kel":"6503102004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TIMUR","nama_kel":"TANJUNG ARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650311","kode_kel":"6503112001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK UTARA","nama_kel":"SUNGAI PANCANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650311","kode_kel":"6503112002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK UTARA","nama_kel":"LAPRI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650311","kode_kel":"6503112003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK UTARA","nama_kel":"SEBERANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650312","kode_kel":"6503122001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TENGAH","nama_kel":"SUNGAI LIMAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650312","kode_kel":"6503122002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TENGAH","nama_kel":"MASPUL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650312","kode_kel":"6503122003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TENGAH","nama_kel":"AJI KUNING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650312","kode_kel":"6503122004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEBATIK TENGAH","nama_kel":"BUKIT HARAPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650313","kode_kel":"6503132001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEI MENGGARIS","nama_kel":"SRINANTI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650313","kode_kel":"6503132002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEI MENGGARIS","nama_kel":"TABUR LESTARI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650313","kode_kel":"6503132003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEI MENGGARIS","nama_kel":"SAMAENRE SEMAJA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650313","kode_kel":"6503132004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEI MENGGARIS","nama_kel":"SEKADUYAN TAKA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"SANUR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"MAKMUR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"SEMUNAD","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"SEKIKILAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"KALUNSAYAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"TEMBALANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"SALANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"TINAMPAK I","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"TINAMPAK II","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"NAPUTI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"TAU BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650314","kode_kel":"6503142012","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"TULIN ONSOI","nama_kel":"BALATIKON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"PAYANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SUYADON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"BULU MENGOLOM","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"TUKULON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"UBOL SULOK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"BATUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"UBOL ALUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"NANSAPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SAMUNTI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SEMATA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SUNGOI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152012","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SALAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152013","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SINAMPILA I","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152014","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"PALUAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152015","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SEDALIT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152016","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"TAMBALANG HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152017","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"TADUNGUS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152018","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SINAMPILA II","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152019","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"KALAMBUKU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152020","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"JUKUP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152021","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"LONG BULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152023","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"LINSAYUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152024","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"TUMANTALAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152025","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"SANAL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152026","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"LIMPAKON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650315","kode_kel":"6503152027","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS OGONG","nama_kel":"LABUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"LUBOK BUAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"KATUL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"MAMBULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"PAGALUYON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"SADUMAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"TULANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"SABULUAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"PULAU KERAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"LIUK BULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650316","kode_kel":"6503162010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"SEMBAKUNG ATULAI","nama_kel":"BINANUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"TANG PAYE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"LONG RUNGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"LONG KELUPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"LONG PADI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"TANG BADUI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"BINUANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"LONG MUTAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"PA' MILAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"BA' LIKU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"LONG RIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650317","kode_kel":"6503172011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TENGAH","nama_kel":"PA' YALAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' BETUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"LONG SEPAYANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' PAWAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' MELADE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' KEBUAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' UMUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' RANGEB","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"LONG UMUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"LONG TENEM","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"LONG NUAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' PALA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182012","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"SINAR BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182013","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' LIDUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182014","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"PA' RAYE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182015","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"BUNGAYAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182016","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"WA' YAGUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650318","kode_kel":"6503182017","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN TIMUR","nama_kel":"KAMPUNG BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' MULAK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LONG PUAK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LONG MANGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"BUDUK KUBUL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LONG KABID","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' INAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LEMBUDUD","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LONG TUGUL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' BUTAL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' DELUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' URUD","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192012","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' KEMUT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192013","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' KIDANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192014","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LEMBADA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192015","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' PAYAK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192016","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' PIRIT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192017","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LIANG ALIQ","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192018","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"SEMBUDUD","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192019","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LIANG TURAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192020","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LIANG BUA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192021","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"LEPATAR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192022","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' MERING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192023","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' PANI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192024","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"PA' LUTUT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650319","kode_kel":"6503192025","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"KRAYAN BARAT","nama_kel":"MA' LIBU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"SUMENTOBOL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"NANTUKIDAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"LABANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"SUMANTIPAL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"NGAWOL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"BULULAUN HILIR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"LAGAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"PANAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"LANGGASON","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"TANTALUJUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202011","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"TAMBALANG HULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202012","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"KUYO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650320","kode_kel":"6503202013","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS PANSIANGAN","nama_kel":"BOKOK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212001","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"TAU LUMBIS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212002","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"LIPAGA","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212003","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"BULULAUN HULU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212004","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"KALISUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212005","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"MAMASIN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212006","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"SIBALU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212007","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"DUYAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212008","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"TUNTULIBING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212009","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"TETAGAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6503","kode_kec":"650321","kode_kel":"6503212010","kode_prov":"65","nama_cab":"NUNUKAN","nama_kec":"LUMBIS HULU","nama_kel":"KABUNGOLOR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650401","kode_kel":"6504012001","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP","nama_kel":"TIDENG PALE","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650401","kode_kel":"6504012002","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP","nama_kel":"LIMBU SEDULUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650401","kode_kel":"6504012003","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP","nama_kel":"SEBIDAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650401","kode_kel":"6504012004","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP","nama_kel":"SEDULUN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650401","kode_kel":"6504012005","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP","nama_kel":"TIDENG PALE TIMUR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650401","kode_kel":"6504012006","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP","nama_kel":"GUNAWAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650401","kode_kel":"6504012007","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP","nama_kel":"SEBAWANG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022001","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"SESAYAP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022002","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"SENGKONG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022003","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"BEBATU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022004","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"BANDAN BIKIS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022005","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"SEPALA DALUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022006","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"SELUDAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022007","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"MENJELUTUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650402","kode_kel":"6504022008","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"SESAYAP HILIR","nama_kel":"SESAYAP SELOR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650403","kode_kel":"6504032001","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"TANA LIA","nama_kel":"TANAH MERAH","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650403","kode_kel":"6504032002","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"TANA LIA","nama_kel":"TENGKU DACING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650403","kode_kel":"6504032003","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"TANA LIA","nama_kel":"SAMBUNGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650403","kode_kel":"6504032004","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"TANA LIA","nama_kel":"TANAH MERAH BARAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650403","kode_kel":"6504032005","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"TANA LIA","nama_kel":"SAMBUNGAN SELATAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650404","kode_kel":"6504042001","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"BETAYAU","nama_kel":"BUONG BARU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650404","kode_kel":"6504042002","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"BETAYAU","nama_kel":"BEBAKUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650404","kode_kel":"6504042003","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"BETAYAU","nama_kel":"KUJAU","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650404","kode_kel":"6504042004","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"BETAYAU","nama_kel":"MENDUPO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650404","kode_kel":"6504042005","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"BETAYAU","nama_kel":"MANING","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650404","kode_kel":"6504042006","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"BETAYAU","nama_kel":"PERIUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650405","kode_kel":"6504052001","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"MURUK RIAN","nama_kel":"SEPUTUK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650405","kode_kel":"6504052002","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"MURUK RIAN","nama_kel":"RIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650405","kode_kel":"6504052003","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"MURUK RIAN","nama_kel":"BALAYAN ARI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650405","kode_kel":"6504052004","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"MURUK RIAN","nama_kel":"RIAN RAYO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650405","kode_kel":"6504052005","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"MURUK RIAN","nama_kel":"KAPUAK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6504","kode_kec":"650405","kode_kel":"6504052006","kode_prov":"65","nama_cab":"TANA TIDUNG","nama_kec":"MURUK RIAN","nama_kel":"SAPARI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657101","kode_kel":"6571011001","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN BARAT","nama_kel":"KARANG ANYAR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657101","kode_kel":"6571011002","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN BARAT","nama_kel":"KARANG REJO","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657101","kode_kel":"6571011003","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN BARAT","nama_kel":"KARANG ANYAR PANTAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657101","kode_kel":"6571011004","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN BARAT","nama_kel":"KARANG BALIK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657101","kode_kel":"6571011005","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN BARAT","nama_kel":"KARANG HARAPAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657102","kode_kel":"6571021001","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TENGAH","nama_kel":"KAMPUNG I SKIP","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657102","kode_kel":"6571021002","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TENGAH","nama_kel":"PAMUSIAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657102","kode_kel":"6571021003","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TENGAH","nama_kel":"SEBENGKOK","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657102","kode_kel":"6571021004","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TENGAH","nama_kel":"SELUMIT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657102","kode_kel":"6571021005","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TENGAH","nama_kel":"SELUMIT PANTAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657103","kode_kel":"6571031001","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TIMUR","nama_kel":"LINGKAS UJUNG","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657103","kode_kel":"6571031002","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TIMUR","nama_kel":"GUNUNG LINGKAS","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657103","kode_kel":"6571031003","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TIMUR","nama_kel":"KAMPUNG EMPAT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657103","kode_kel":"6571031004","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TIMUR","nama_kel":"KAMPUNG ENAM","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657103","kode_kel":"6571031005","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TIMUR","nama_kel":"MAMBURUNGAN","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657103","kode_kel":"6571031006","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TIMUR","nama_kel":"PANTAI AMAL","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657103","kode_kel":"6571031007","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN TIMUR","nama_kel":"MAMBURUNGAN TIMUR","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657104","kode_kel":"6571041001","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN UTARA","nama_kel":"JUATA LAUT","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657104","kode_kel":"6571041002","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN UTARA","nama_kel":"JUATA PERMAI","nama_prov":"KALIMANTAN UTARA","tingkat":4}
+{"kode_cab":"6571","kode_kec":"657104","kode_kel":"6571041003","kode_prov":"65","nama_cab":"KOTA TARAKAN","nama_kec":"TARAKAN UTARA","nama_kel":"JUATA KERIKIL","nama_prov":"KALIMANTAN UTARA","tingkat":4}

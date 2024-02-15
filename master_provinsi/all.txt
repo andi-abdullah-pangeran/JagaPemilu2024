@@ -1,0 +1,39 @@
+{"kode_prov":"11","nama_prov":"ACEH","tingkat":1}
+{"kode_prov":"12","nama_prov":"SUMATERA UTARA","tingkat":1}
+{"kode_prov":"13","nama_prov":"SUMATERA BARAT","tingkat":1}
+{"kode_prov":"14","nama_prov":"RIAU","tingkat":1}
+{"kode_prov":"15","nama_prov":"JAMBI","tingkat":1}
+{"kode_prov":"16","nama_prov":"SUMATERA SELATAN","tingkat":1}
+{"kode_prov":"17","nama_prov":"BENGKULU","tingkat":1}
+{"kode_prov":"18","nama_prov":"LAMPUNG","tingkat":1}
+{"kode_prov":"19","nama_prov":"KEPULAUAN BANGKA BELITUNG","tingkat":1}
+{"kode_prov":"21","nama_prov":"KEPULAUAN RIAU","tingkat":1}
+{"kode_prov":"31","nama_prov":"DKI JAKARTA","tingkat":1}
+{"kode_prov":"32","nama_prov":"JAWA BARAT","tingkat":1}
+{"kode_prov":"33","nama_prov":"JAWA TENGAH","tingkat":1}
+{"kode_prov":"34","nama_prov":"DAERAH ISTIMEWA YOGYAKARTA","tingkat":1}
+{"kode_prov":"35","nama_prov":"JAWA TIMUR","tingkat":1}
+{"kode_prov":"36","nama_prov":"BANTEN","tingkat":1}
+{"kode_prov":"51","nama_prov":"BALI","tingkat":1}
+{"kode_prov":"52","nama_prov":"NUSA TENGGARA BARAT","tingkat":1}
+{"kode_prov":"53","nama_prov":"NUSA TENGGARA TIMUR","tingkat":1}
+{"kode_prov":"61","nama_prov":"KALIMANTAN BARAT","tingkat":1}
+{"kode_prov":"62","nama_prov":"KALIMANTAN TENGAH","tingkat":1}
+{"kode_prov":"63","nama_prov":"KALIMANTAN SELATAN","tingkat":1}
+{"kode_prov":"64","nama_prov":"KALIMANTAN TIMUR","tingkat":1}
+{"kode_prov":"65","nama_prov":"KALIMANTAN UTARA","tingkat":1}
+{"kode_prov":"71","nama_prov":"SULAWESI UTARA","tingkat":1}
+{"kode_prov":"72","nama_prov":"SULAWESI TENGAH","tingkat":1}
+{"kode_prov":"73","nama_prov":"SULAWESI SELATAN","tingkat":1}
+{"kode_prov":"74","nama_prov":"SULAWESI TENGGARA","tingkat":1}
+{"kode_prov":"75","nama_prov":"GORONTALO","tingkat":1}
+{"kode_prov":"76","nama_prov":"SULAWESI BARAT","tingkat":1}
+{"kode_prov":"81","nama_prov":"MALUKU","tingkat":1}
+{"kode_prov":"82","nama_prov":"MALUKU UTARA","tingkat":1}
+{"kode_prov":"91","nama_prov":"P A P U A","tingkat":1}
+{"kode_prov":"92","nama_prov":"PAPUA BARAT","tingkat":1}
+{"kode_prov":"93","nama_prov":"PAPUA SELATAN","tingkat":1}
+{"kode_prov":"94","nama_prov":"PAPUA TENGAH","tingkat":1}
+{"kode_prov":"95","nama_prov":"PAPUA PEGUNUNGAN","tingkat":1}
+{"kode_prov":"96","nama_prov":"PAPUA BARAT DAYA","tingkat":1}
+{"kode_prov":"99","nama_prov":"Luar Negeri","tingkat":1}

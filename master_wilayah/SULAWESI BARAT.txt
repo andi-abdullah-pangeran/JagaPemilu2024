@@ -1,0 +1,648 @@
+{"kode_cab":"7601","kode_kec":"760101","kode_kel":"7601011006","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBALAMOTU","nama_kel":"BAMBALAMOTU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760101","kode_kel":"7601012003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBALAMOTU","nama_kel":"POLEWALI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760101","kode_kel":"7601012004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBALAMOTU","nama_kel":"RANDOMAYANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760101","kode_kel":"7601012007","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBALAMOTU","nama_kel":"PANGIANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760101","kode_kel":"7601012008","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBALAMOTU","nama_kel":"KALOLA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760101","kode_kel":"7601012009","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBALAMOTU","nama_kel":"WULAI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760102","kode_kel":"7601021001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PASANGKAYU","nama_kel":"PASANGKAYU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760102","kode_kel":"7601021002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PASANGKAYU","nama_kel":"MARTAJAYA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760102","kode_kel":"7601022010","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PASANGKAYU","nama_kel":"PAKAVA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760102","kode_kel":"7601022014","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PASANGKAYU","nama_kel":"KARYA BERSAMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760102","kode_kel":"7601022015","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PASANGKAYU","nama_kel":"AKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760102","kode_kel":"7601022016","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PASANGKAYU","nama_kel":"GUNUNG SARI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760103","kode_kel":"7601031001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BARAS","nama_kel":"BARAS","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760103","kode_kel":"7601032002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BARAS","nama_kel":"BALANTI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760103","kode_kel":"7601032003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BARAS","nama_kel":"MOTU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760103","kode_kel":"7601032012","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BARAS","nama_kel":"BULU PARIGI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760103","kode_kel":"7601032013","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BARAS","nama_kel":"TOWONI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760103","kode_kel":"7601032016","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BARAS","nama_kel":"KASANO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760104","kode_kel":"7601042001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARUDU","nama_kel":"SARUDU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760104","kode_kel":"7601042003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARUDU","nama_kel":"BULU MARIO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760104","kode_kel":"7601042005","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARUDU","nama_kel":"KUMASARI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760104","kode_kel":"7601042011","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARUDU","nama_kel":"PATIKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760104","kode_kel":"7601042012","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARUDU","nama_kel":"DODA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760105","kode_kel":"7601052001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DAPURANG","nama_kel":"DAPURANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760105","kode_kel":"7601052002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DAPURANG","nama_kel":"BENGGAULU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760105","kode_kel":"7601052003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DAPURANG","nama_kel":"TIRTABUANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760105","kode_kel":"7601052004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DAPURANG","nama_kel":"BULU BONGGU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760105","kode_kel":"7601052005","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DAPURANG","nama_kel":"SARASA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760106","kode_kel":"7601062001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DURIPOKU","nama_kel":"TAMMARUNANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760106","kode_kel":"7601062002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DURIPOKU","nama_kel":"SAPTANAJAYA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760106","kode_kel":"7601062003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DURIPOKU","nama_kel":"TARANGGI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760106","kode_kel":"7601062004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"DURIPOKU","nama_kel":"SIPAKAINGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760107","kode_kel":"7601072001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BULU TABA","nama_kel":"LILIMORI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760107","kode_kel":"7601072002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BULU TABA","nama_kel":"KARAVE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760107","kode_kel":"7601072003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BULU TABA","nama_kel":"BUKIT HARAPAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760107","kode_kel":"7601072004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BULU TABA","nama_kel":"KASTABUANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760107","kode_kel":"7601072005","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BULU TABA","nama_kel":"SUMBER SARI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760107","kode_kel":"7601072006","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BULU TABA","nama_kel":"LELEJAE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760107","kode_kel":"7601072007","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BULU TABA","nama_kel":"OMPI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760108","kode_kel":"7601082001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"TIKKE RAYA","nama_kel":"TIKKE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760108","kode_kel":"7601082002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"TIKKE RAYA","nama_kel":"MAKMUR JAYA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760108","kode_kel":"7601082003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"TIKKE RAYA","nama_kel":"LARIANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760108","kode_kel":"7601082004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"TIKKE RAYA","nama_kel":"PAJALELE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760108","kode_kel":"7601082005","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"TIKKE RAYA","nama_kel":"JENGENG RAYA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760109","kode_kel":"7601092001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PEDONGGA","nama_kel":"MALEI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760109","kode_kel":"7601092002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PEDONGGA","nama_kel":"PEDANDA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760109","kode_kel":"7601092003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PEDONGGA","nama_kel":"BATU OGE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760109","kode_kel":"7601092004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"PEDONGGA","nama_kel":"MARTASARI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760110","kode_kel":"7601102001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBAIRA","nama_kel":"BAMBAIRA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760110","kode_kel":"7601102002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBAIRA","nama_kel":"KASOLOANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760110","kode_kel":"7601102003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBAIRA","nama_kel":"TAMPAURE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760110","kode_kel":"7601102004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"BAMBAIRA","nama_kel":"KALUKU NANGKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760111","kode_kel":"7601112001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARJO","nama_kel":"SARJO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760111","kode_kel":"7601112002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARJO","nama_kel":"MAPONU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760111","kode_kel":"7601112003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARJO","nama_kel":"LETAWA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760111","kode_kel":"7601112004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"SARJO","nama_kel":"SARUDE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760112","kode_kel":"7601122001","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"LARIANG","nama_kel":"PARABU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760112","kode_kel":"7601122002","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"LARIANG","nama_kel":"KENANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760112","kode_kel":"7601122003","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"LARIANG","nama_kel":"BAJAWALI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760112","kode_kel":"7601122004","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"LARIANG","nama_kel":"SINGGANI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760112","kode_kel":"7601122005","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"LARIANG","nama_kel":"KULU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760112","kode_kel":"7601122006","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"LARIANG","nama_kel":"BATU MATORU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7601","kode_kec":"760112","kode_kel":"7601122007","kode_prov":"76","nama_cab":"PASANGKAYU","nama_kec":"LARIANG","nama_kel":"BAMBAKORO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602011002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"BINANGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602011003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"MAMUNYU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602011012","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"KAREMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602011013","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"RIMUKU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602012005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"BAMBU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602012006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"KARAMPUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602012010","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"TADUI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760201","kode_kel":"7602012014","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"MAMUJU","nama_kel":"BATU PANNU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602021001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"GALUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602021002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"KASAMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602021014","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"DAYANGINNA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602022003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"OROBATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602022006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"TAKANDEANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602022009","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"BELA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602022010","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"TAAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602022011","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"TAMPALANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602022012","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"RANTEDODA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760202","kode_kel":"7602022013","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG","nama_kel":"KOPEANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602031001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"SINYONYOI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602031002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"BEBANGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602031003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"KALUKKU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602031014","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"SINYONYOI SELATAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"SONDOANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"BERU-BERU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"BELANG BELANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032007","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"KABULOANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032008","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"KEANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032009","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"POKKANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032010","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"GULILING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032011","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"UHAIMATE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032012","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"KALUKKU BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760203","kode_kel":"7602032013","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUKKU","nama_kel":"PAMMULUKANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"KALUMPANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"KARATAUN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"KARAMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"SIRAUN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042007","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"TUMOGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042010","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"SALUMAKKI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042011","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"POLIO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042012","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"LIMBONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042013","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"SANDAPANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042014","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"KONDO BULO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042015","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"MAKKALIKI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042016","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"BATU MAKKADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760204","kode_kel":"7602042017","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KALUMPANG","nama_kel":"LASA'","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"TOABO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"PAPALANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"BONDA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"TOPORE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"SALUKAYU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"SUKADAMAI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072007","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"BODA-BODA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072008","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"SISANGO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760207","kode_kel":"7602072009","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"PAPALANG","nama_kel":"BATU AMPA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760208","kode_kel":"7602082001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SAMPAGA","nama_kel":"BUNDE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760208","kode_kel":"7602082002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SAMPAGA","nama_kel":"KALONDING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760208","kode_kel":"7602082003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SAMPAGA","nama_kel":"TARAILU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760208","kode_kel":"7602082004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SAMPAGA","nama_kel":"SAMPAGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760208","kode_kel":"7602082005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SAMPAGA","nama_kel":"TANAMBUAH","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760208","kode_kel":"7602082006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SAMPAGA","nama_kel":"SALUBARANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760208","kode_kel":"7602082007","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SAMPAGA","nama_kel":"LOSSO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"TOMMO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"CAMPALOGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"BUANA SAKTI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"TAMEMONGGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"TAMEJARRA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"RANTEMARIO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112007","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"MALINO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112008","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"KAKULLASANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112009","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"LELING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112010","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"KALEPU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112011","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"SANDANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112012","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"LELING BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112013","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"LELING UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760211","kode_kel":"7602112014","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TOMMO","nama_kel":"SALUDENGEN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602121001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"SIMBORO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602121002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"RANGAS","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602122003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"BOTTENG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602122004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"SALETTO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602122005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"SUMARE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602122007","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"BOTTENG UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602122008","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"TAPANDULLU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760212","kode_kel":"7602122009","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"SIMBORO","nama_kel":"PATI'DI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760213","kode_kel":"7602132001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG BARAT","nama_kel":"DUNGKAIT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760213","kode_kel":"7602132002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG BARAT","nama_kel":"LEBANI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760213","kode_kel":"7602132003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG BARAT","nama_kel":"LABUANG RANO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760213","kode_kel":"7602132004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG BARAT","nama_kel":"PASABU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760213","kode_kel":"7602132005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG BARAT","nama_kel":"TANETE PAO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760213","kode_kel":"7602132006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG BARAT","nama_kel":"PANGASAAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760213","kode_kel":"7602132007","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"TAPALANG BARAT","nama_kel":"AHU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"BONEHAU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"SALUTIWO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152003","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"BUTTUADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152004","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"TAMALEA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152005","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"LUMIKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152006","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"MAPPU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152009","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"BANUADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152010","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"HINUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760215","kode_kel":"7602152011","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"BONEHAU","nama_kel":"KINATANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760216","kode_kel":"7602162001","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KEP. BALA BALAKANG","nama_kel":"BALA BALAKANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7602","kode_kec":"760216","kode_kel":"7602162002","kode_prov":"76","nama_cab":"MAMUJU","nama_kec":"KEP. BALA BALAKANG","nama_kel":"BALA-BALAKANG TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603011001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"MAMBI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603011002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"TALIPUKKI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"RANTEBULAHAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"SONDONGLAYU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012016","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"SALUBANUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012017","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"TAPALINA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012019","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"SENDANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012024","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"PAMOSEAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012025","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"SELUMAKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012026","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"BUJUNG MANURUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012027","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"SALU ALO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012029","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"INDOBANUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760301","kode_kel":"7603012030","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMBI","nama_kel":"SALUDURIAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603021001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"ARALLE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"RALLE ANAK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"PANETEAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"UHAILANU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"ARALLE UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"UHAIDAHO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"BARURU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022015","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"RALLEANAK UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022016","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"PAMOSEANG PANGGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022017","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"KALABE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022018","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"ARALLE SELATAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760302","kode_kel":"7603022019","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"ARALLE","nama_kel":"HAHANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603031001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"MAMASA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"RAMBUSARATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"OSANGO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"LAMBANAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"LEMBANA SALULO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"TAUPE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"BUNTU BUDA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"TONDOK BAKARU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"PEBASSIAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"MAMBULILING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032011","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"BOMBONG LAMBE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760303","kode_kel":"7603032012","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MAMASA","nama_kel":"BUBUN BATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603041001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"PANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"MANIPI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"MAMULLU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"SAPAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"DATUBARINGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"PANURA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042011","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"TALLANG BULAWAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042012","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"KARAKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042013","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"ULUSALU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042014","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"WERI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042015","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"SALUTAMBUN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042016","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"SALOAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760304","kode_kel":"7603042017","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"PANA","nama_kel":"ULUSALU INDAH","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603051001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"LAKAHANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"PERIANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"MALATIRO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"TABULAHAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"SALULEANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"TAMPAK KURRA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"GANDANG DEWATA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"BURANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"SALUBAKKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052011","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"PANGANDARAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052012","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"TALOPAK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052013","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"PEU'","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052014","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"TIMORO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760305","kode_kel":"7603052015","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABULAHAN","nama_kel":"LAKAHANG UTAMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603061001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"SUMARORONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603061002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"TABONE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"BATANG URU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"SASAKAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"TADISI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"SIBANAWA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"BATANGNGURU TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"SALUBALO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"BANEA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760306","kode_kel":"7603062010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SUMARORONG","nama_kel":"RANTE KAMASE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603071001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"MESSAWA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"RIPPUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"MAKUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"SEPANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"MALIMBONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"MATANDE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"SIPAI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"PASMA MAMBU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760307","kode_kel":"7603072009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MESSAWA","nama_kel":"TANETE BATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"OROBUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"PALADAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"OROBUA TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"RANTE PUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"SATENETEAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"LISUAN ADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"OROBUA SELATAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082012","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"MALANGKENA PADANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082013","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"MALIMBONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760308","kode_kel":"7603082014","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"SESENAPADANG","nama_kel":"MARAMPAN OROBUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603091011","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"MINAKE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"MALABO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"SINDAGAMANIK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"PARONDOBULAWAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"TAMALANTIK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"MANNABABA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"MESAKADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"BALLABATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092012","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"PAMBE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092013","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"SALURANO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092014","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"TALIMBUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760309","kode_kel":"7603092015","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TANDUK KALUA","nama_kel":"KANAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760310","kode_kel":"7603101001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABANG","nama_kel":"TABANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760310","kode_kel":"7603102003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABANG","nama_kel":"TADOKALUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760310","kode_kel":"7603102004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABANG","nama_kel":"TABANG BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760310","kode_kel":"7603102005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABANG","nama_kel":"MASUPU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760310","kode_kel":"7603102006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABANG","nama_kel":"KALAMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760310","kode_kel":"7603102007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABANG","nama_kel":"BAKADISURA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760310","kode_kel":"7603102008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TABANG","nama_kel":"SALUKONA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"MOKALLANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"MASOSO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SALUASSING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SALUBULO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SALUKADI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SALUKEPOPOK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"ULUMAMBI BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"LIMBADEBATA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"TANETE TOMBA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"BAMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112011","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"RANTELEMO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112012","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SALUDENGEN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112013","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"ULUMAMBI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112014","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"BAMBANG TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112015","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"MINANGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112016","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SIKAMASE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112017","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"RANTETARIMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112018","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SALURURU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112019","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"SALUTABANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760311","kode_kel":"7603112020","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BAMBANG","nama_kel":"BALATANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"BALLA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"BALLA BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"BALLA SATANETEAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"BALLA TUMUKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"SEPAKUAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"PIDARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"BAMBAPUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760312","kode_kel":"7603122008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BALLA","nama_kel":"BALLA TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760313","kode_kel":"7603131001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"NOSU","nama_kel":"NOSU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760313","kode_kel":"7603132002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"NOSU","nama_kel":"MINANGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760313","kode_kel":"7603132003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"NOSU","nama_kel":"BATUPAPAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760313","kode_kel":"7603132004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"NOSU","nama_kel":"MASEWWE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760313","kode_kel":"7603132005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"NOSU","nama_kel":"SIWI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760313","kode_kel":"7603132006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"NOSU","nama_kel":"MINANGA TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760313","kode_kel":"7603132007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"NOSU","nama_kel":"PARINDING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760314","kode_kel":"7603141001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TAWALIAN","nama_kel":"TAWALIAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760314","kode_kel":"7603142002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TAWALIAN","nama_kel":"TAWALIAN TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760314","kode_kel":"7603142003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TAWALIAN","nama_kel":"KARIANGO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760314","kode_kel":"7603142004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"TAWALIAN","nama_kel":"RANTETANGNGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"SALUMOKANAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"SALUMOKANAN BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"BUANGIN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"BAMBANG BUDA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"LEKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"KIRAK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"SALUMOKANAN UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760315","kode_kel":"7603152009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"RANTEBULAHAN TIMUR","nama_kel":"SAMPALE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"BUNTUMALANGKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"RANTEBERAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"KEBANGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"SALURINDU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"TAORA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"KABAE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"SALUTAMBUN BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"PENATANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"SALUTAMBUN TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"SALUTAMBUN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760316","kode_kel":"7603162011","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"BUNTUMALANGKA","nama_kel":"ARALLE TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172001","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"MEHALAAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172002","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"BOTTENG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172003","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"SALUKONTA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172004","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"MESAKADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172005","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"MEHALAAN BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172006","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"SALUAHOK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172007","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"SALUBALO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172008","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"PASSEMBUK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172009","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"KONDO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172010","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"LEKO SUKAMAJU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7603","kode_kec":"760317","kode_kel":"7603172011","kode_prov":"76","nama_cab":"MAMASA","nama_kec":"MEHALAAN","nama_kel":"ULUMEA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604011001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"TINAMBUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604012002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"KARAMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604012003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"TANGNGA TANGNGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604012004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"LEKOPADIS","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604012005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"GALUNG LOMBOK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604012006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"TANDUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604012007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"BATULAYA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760401","kode_kel":"7604012008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TINAMBUNG","nama_kel":"SEPABATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604021001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"PAPPANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"LALIKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"BONDE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"KATUMBANGAN LEMO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"PANYAMPA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"SURUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"LAMPOKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"KATUMBANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"LAPEO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"PARAPPE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"ONGKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022012","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"KENJE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022013","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"SUMARRANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022014","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"BOTTO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022015","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"GATTUNGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022016","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"PADANG TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022017","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"PADANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760402","kode_kel":"7604022018","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"CAMPALAGIAN","nama_kel":"LAGI-AGI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604031001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"SIDODADI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"SIDOREJO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"SUMBERJO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"BUMIAYU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"KEBUNSARI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"BANUA BARU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"NEPO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"SUGIHWARAS","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"CAMPURJO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"BUMIMULYO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"TUMPILING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032012","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"BAKKA-BAKKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032013","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"ARJOSARI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760403","kode_kel":"7604032014","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"WONOMULYO","nama_kel":"GALESO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"POLEWALI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"WATTANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"SULEWATANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"LANTORA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"TAKATIDUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"PEKKABATA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"MADATTE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"MANDING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760404","kode_kel":"7604041009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"POLEWALI","nama_kel":"DARMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604051001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"TARAMANU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"AMBOPADANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"TUBBI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"RATTE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"BESOANGIN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"PIRIANG TAPIKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"PEBURRU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"TALOBA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"POLLEWANI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"ARABUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"BESOANGIN UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052012","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"PODA-PODA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760405","kode_kel":"7604052013","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TUTAR","nama_kel":"TARAMANU TUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604061005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"AMASSANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"TONYAMAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"KUAJANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"PAKU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"MIRRING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"BATETANGNGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"MAMMI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"KALEOK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"AMOLA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760406","kode_kel":"7604062010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BINUANG","nama_kel":"REA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604071001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"PELITAKAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"TAPANGO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"RAPPANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"DAKKA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"BATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"RISO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"PALATTA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"TAPANGO BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"KURRAK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"BUSSU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"TUTTULA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072012","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"JAMBU MALEA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072013","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"KALIMBUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760407","kode_kel":"7604072014","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"TAPANGO","nama_kel":"BANATO REJO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604081001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"MAPILLI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"UGIBARU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"RUMPA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"KURMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"BUKU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"BONNE BONNE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"BEROANGIN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082015","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"SEGERANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082016","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"BONRA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082017","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"SATTOKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082018","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"RAPPANG BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760408","kode_kel":"7604082019","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MAPILLI","nama_kel":"LANDI KANUSUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760409","kode_kel":"7604091001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATANGNGA","nama_kel":"MATANGNGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760409","kode_kel":"7604092002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATANGNGA","nama_kel":"LILLI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760409","kode_kel":"7604092003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATANGNGA","nama_kel":"RANGOAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760409","kode_kel":"7604092004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATANGNGA","nama_kel":"TAPUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760409","kode_kel":"7604092005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATANGNGA","nama_kel":"MAMBU TAPUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760409","kode_kel":"7604092006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATANGNGA","nama_kel":"BA'BA TAPUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760409","kode_kel":"7604092007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATANGNGA","nama_kel":"KATIMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604101004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"BATUPANGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"MAMBU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"TENGGELANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"BARU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"PUSSUI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"MAPILLI BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"SAMBALI WALI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"BATUPANGA DAALA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"LUYO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"PUSSUI BARAT","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760410","kode_kel":"7604102011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LUYO","nama_kel":"PUCCADI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604111001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"LIMBORO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"LEMBANG LEMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"TANDASSURA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"SAMASUNDU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"NAPO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"TODANG TODANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"PENDULANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"RENGGEANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"SALARRI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"TANGAN BARU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760411","kode_kel":"7604112011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"LIMBORO","nama_kel":"PALECE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604121002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"BALANIPA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"TAMMAJARRA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"TAMMANGALLE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"MOSSO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"GALUNG TULUK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"SABANG SUBIK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"PAMBUSUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"BALA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"LAMBANAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122010","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"LEGO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760412","kode_kel":"7604122011","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BALANIPA","nama_kel":"PALLIS","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760413","kode_kel":"7604131001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ANREAPI","nama_kel":"ANREAPI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760413","kode_kel":"7604132002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ANREAPI","nama_kel":"DUAMPANUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760413","kode_kel":"7604132003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ANREAPI","nama_kel":"KELAPA DUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760413","kode_kel":"7604132004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ANREAPI","nama_kel":"PAPPANDANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760413","kode_kel":"7604132005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ANREAPI","nama_kel":"KUNYI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760414","kode_kel":"7604141001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATAKALI","nama_kel":"MATAKALI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760414","kode_kel":"7604142002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATAKALI","nama_kel":"PETAMPANUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760414","kode_kel":"7604142003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATAKALI","nama_kel":"BARUMBUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760414","kode_kel":"7604142004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATAKALI","nama_kel":"PASIANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760414","kode_kel":"7604142005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATAKALI","nama_kel":"TONROLIMA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760414","kode_kel":"7604142006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATAKALI","nama_kel":"INDOMAKKOMBONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760414","kode_kel":"7604142007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"MATAKALI","nama_kel":"BUNGA-BUNGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604151009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"PETOOSANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604152002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"MOMBI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604152003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"KALUMAMMANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604152004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"PAO-PAO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604152005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"PUPPUURING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604152006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"SARAGIAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604152007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"SAYOANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760415","kode_kel":"7604152008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"ALLU","nama_kel":"ALLU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162001","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"BULO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162002","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"PULLIWA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162003","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"PATAMBANUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162004","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"KAROMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162005","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"DAALA TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162006","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"LENGGO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162007","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"SABURA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162008","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"SEPPORAKKI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7604","kode_kec":"760416","kode_kel":"7604162009","kode_prov":"76","nama_cab":"POLEWALI MANDAR","nama_kec":"BULO","nama_kel":"IHING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605011001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"BANGGAE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605011003","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"BARU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605011007","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"PANGALI ALI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605011009","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"TOTOLI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605011010","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"RANGAS","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605011013","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"GALUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605012011","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"PALIPI SOREANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760501","kode_kel":"7605012012","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE","nama_kel":"PAMBOBORANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605021001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"LALAMPANUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605021002","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"SIRINDU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022003","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"ADOLANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022004","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BABABULO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022005","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BONDE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022006","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BETTENG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022007","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"SIMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022008","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BONDE UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022009","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BABABULO UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022010","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BUTTU PAMBOANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022011","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BANUA ADOLANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022012","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"ADOLANG DHUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022013","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"TINAMBUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022014","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"PESULOANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760502","kode_kel":"7605022015","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"PAMBOANG","nama_kel":"BALOMBONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605031001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"MOSSO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605031002","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"MOSSO DHUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032004","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"TOTOLISI SENDANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032007","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"TALLUBANUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032015","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"LALATEDZONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032016","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"BINANGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032017","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"PUTTADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032018","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"PAMINGGALAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032019","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"LEPPANGANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032020","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"PUNDAU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032021","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"SENDANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032022","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"BANUA SENDANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032023","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"TALLUBANUA UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032024","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"LIMBORO RAMBU-RAMBU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032025","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"LIMBUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760503","kode_kel":"7605032026","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"SENDANA","nama_kel":"BUKIT SAMANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605041001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"MALUNDA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605041015","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"LAMUNGANG BATU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042002","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"BAMBANGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042004","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"LOMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042005","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"LOMBONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042006","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"MEKKATTA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042010","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"MALIAYA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042011","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"LOMBANG TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042012","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"SALUTAHONGAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042013","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"LOMBONG TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042014","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"MEKKATTA SELATAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760504","kode_kel":"7605042016","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"MALUNDA","nama_kel":"KAYUANGIN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"KABIRAAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052002","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"SAMBABO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052003","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"TANDEALLO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052004","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"ULUMANDA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052005","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"SALUTAMBUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052006","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"POPENGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052007","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"SULAI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760505","kode_kel":"7605052008","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"ULUMANDA","nama_kel":"PANGGALO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760506","kode_kel":"7605062001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TAMMERODO SENDANA","nama_kel":"SEPPONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760506","kode_kel":"7605062002","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TAMMERODO SENDANA","nama_kel":"TAMMERODO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760506","kode_kel":"7605062003","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TAMMERODO SENDANA","nama_kel":"ULIDANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760506","kode_kel":"7605062004","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TAMMERODO SENDANA","nama_kel":"TALLAMBALAO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760506","kode_kel":"7605062005","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TAMMERODO SENDANA","nama_kel":"TAMMERODO UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760506","kode_kel":"7605062006","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TAMMERODO SENDANA","nama_kel":"MANYAMBA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760506","kode_kel":"7605062007","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TAMMERODO SENDANA","nama_kel":"AWO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760507","kode_kel":"7605072001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TUBO SENDANA","nama_kel":"ONANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760507","kode_kel":"7605072002","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TUBO SENDANA","nama_kel":"TUBO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760507","kode_kel":"7605072003","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TUBO SENDANA","nama_kel":"ONANG UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760507","kode_kel":"7605072004","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TUBO SENDANA","nama_kel":"TUBO SELATAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760507","kode_kel":"7605072005","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TUBO SENDANA","nama_kel":"BONDE BONDE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760507","kode_kel":"7605072006","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TUBO SENDANA","nama_kel":"TUBO TENGAH","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760507","kode_kel":"7605072007","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"TUBO SENDANA","nama_kel":"TUBO POANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081001","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"BAURUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081002","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"BARUGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081003","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"BARUGA DHUA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081004","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"LABUANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081005","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"TANDE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081006","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"LEMBANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081007","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"LABUANG UTARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605081008","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"TANDE TIMUR","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7605","kode_kec":"760508","kode_kel":"7605082009","kode_prov":"76","nama_cab":"MAJENE","nama_kec":"BANGGAE TIMUR","nama_kel":"BUTTU BARUGA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012001","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"MAHAHE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012002","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"SALOBAJA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012003","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"TOBADAK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012004","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"PALONGAAN","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012005","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"BATU PARIGI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012006","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"BAMBADARU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012007","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"SEJATI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760601","kode_kel":"7606012008","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOBADAK","nama_kel":"SALOADAK","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022001","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"POLO PANGALE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022002","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"PANGALE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022003","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"SARTANAMAJU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022004","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"POLO LERENG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022005","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"KUO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022006","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"POLO CAMBA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022007","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"LAMBA-LAMBA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022008","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"KOMBILING","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760602","kode_kel":"7606022009","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"PANGALE","nama_kel":"LEMO-LEMO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032001","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"BABANA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032002","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"LUMU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032003","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"PONTANAKAYANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032004","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"SALOGATTA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032005","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"KIRE","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032006","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"TINALI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032007","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"SALUMANURUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032008","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"PASAPA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032009","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"BOJO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032010","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"BARAKKANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760603","kode_kel":"7606032011","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"BUDONG-BUDONG","nama_kel":"LEMBAH HADA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042001","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"BUDONG-BUDONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042002","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"TOPOYO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042003","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"TUMBU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042004","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"KABUBU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042005","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"WAEPUTEH","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042006","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"TANGKOU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042007","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"TABOLANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042008","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"PARAILI","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042009","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"SALUPANGKANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042010","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"SALUPANGKANG IV","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042011","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"TAPPILINA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042012","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"BAMBAMANURUNG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042013","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"SALULEKBO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042014","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"PANGALLOANG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760604","kode_kel":"7606042015","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"TOPOYO","nama_kel":"SINABATTA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052001","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"KAROSSA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052002","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"TASOKKO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052003","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"LARA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052004","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"KADAILA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052005","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"KAYU CALLA","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052006","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"LEMBAH HOPO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052007","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"BENGGAULU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052008","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"SUKA MAJU","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052009","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"KAMBUNONG","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052010","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"SALUBIRO","nama_prov":"SULAWESI BARAT","tingkat":4}
+{"kode_cab":"7606","kode_kec":"760605","kode_kel":"7606052011","kode_prov":"76","nama_cab":"MAMUJU TENGAH","nama_kec":"KAROSSA","nama_kel":"SANJANGO","nama_prov":"SULAWESI BARAT","tingkat":4}

@@ -14,7 +14,7 @@ input_resources:
   - label: ambil_wilayah
     file:
       paths:
-        - master_tps/
+        - master_provinsi/*
       codec: lines
 
 pipeline:

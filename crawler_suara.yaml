@@ -14,7 +14,7 @@ input_resources:
   - label: ambil_wilayah
     file:
       paths:
-        - sample_tps/*
+        - master_tps/*
       codec: lines
 
 pipeline:

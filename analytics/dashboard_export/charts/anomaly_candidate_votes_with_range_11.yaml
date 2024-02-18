@@ -1,0 +1,65 @@
+slice_name: anomaly_candidate_votes_with_range
+description: null
+certified_by: null
+certification_details: null
+viz_type: echarts_timeseries_bar
+params:
+  datasource: 3__table
+  viz_type: echarts_timeseries_bar
+  slice_id: 11
+  x_axis: suara_range
+  time_grain_sqla: P1D
+  x_axis_sort_asc: true
+  x_axis_sort_series: name
+  x_axis_sort_series_ascending: true
+  metrics:
+  - expressionType: SQL
+    sqlExpression: sum(votes)
+    column: null
+    aggregate: null
+    datasourceWarning: false
+    hasCustomLabel: false
+    label: sum(votes)
+    optionName: metric_6dbji3qg8ud_3azyviy4n9j
+  groupby:
+  - candidate
+  contributionMode: column
+  adhoc_filters: []
+  order_desc: true
+  row_limit: 1000
+  truncate_metric: true
+  show_empty_columns: true
+  comparison_type: values
+  annotation_layers: []
+  forecastPeriods: 10
+  forecastInterval: 0.8
+  orientation: vertical
+  x_axis_title_margin: 15
+  y_axis_title_margin: 15
+  y_axis_title_position: Left
+  sort_series_type: sum
+  sort_series_ascending: false
+  color_scheme: supersetColors
+  show_value: true
+  stack: Stack
+  only_total: false
+  zoomable: false
+  show_legend: true
+  legendType: scroll
+  legendOrientation: bottom
+  x_axis_time_format: smart_date
+  y_axis_format: SMART_NUMBER
+  truncateXAxis: true
+  y_axis_bounds:
+  - null
+  - null
+  rich_tooltip: true
+  tooltipTimeFormat: smart_date
+  extra_form_data: {}
+  dashboards:
+  - 1
+query_context: '{"datasource":{"id":3,"type":"table"},"force":false,"queries":[{"filters":[],"extras":{"time_grain_sqla":"P1D","having":"","where":""},"applied_time_extras":{},"columns":[{"timeGrain":"P1D","columnType":"BASE_AXIS","sqlExpression":"suara_range","label":"suara_range","expressionType":"SQL"},"candidate"],"metrics":[{"expressionType":"SQL","sqlExpression":"sum(votes)","column":null,"aggregate":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"sum(votes)","optionName":"metric_6dbji3qg8ud_3azyviy4n9j"}],"orderby":[[{"expressionType":"SQL","sqlExpression":"sum(votes)","column":null,"aggregate":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"sum(votes)","optionName":"metric_6dbji3qg8ud_3azyviy4n9j"},false]],"annotation_layers":[],"row_limit":1000,"series_columns":["candidate"],"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{},"time_offsets":[],"post_processing":[{"operation":"pivot","options":{"index":["suara_range"],"columns":["candidate"],"aggregates":{"sum(votes)":{"operator":"mean"}},"drop_missing_columns":false}},{"operation":"rename","options":{"columns":{"sum(votes)":null},"level":0,"inplace":true}},{"operation":"contribution","options":{"orientation":"column"}},{"operation":"flatten"}]}],"form_data":{"datasource":"3__table","viz_type":"echarts_timeseries_bar","slice_id":11,"x_axis":"suara_range","time_grain_sqla":"P1D","x_axis_sort_asc":true,"x_axis_sort_series":"name","x_axis_sort_series_ascending":true,"metrics":[{"expressionType":"SQL","sqlExpression":"sum(votes)","column":null,"aggregate":null,"datasourceWarning":false,"hasCustomLabel":false,"label":"sum(votes)","optionName":"metric_6dbji3qg8ud_3azyviy4n9j"}],"groupby":["candidate"],"contributionMode":"column","adhoc_filters":[],"order_desc":true,"row_limit":1000,"truncate_metric":true,"show_empty_columns":true,"comparison_type":"values","annotation_layers":[],"forecastPeriods":10,"forecastInterval":0.8,"orientation":"vertical","x_axis_title_margin":15,"y_axis_title_margin":15,"y_axis_title_position":"Left","sort_series_type":"sum","sort_series_ascending":false,"color_scheme":"supersetColors","show_value":true,"stack":"Stack","only_total":false,"zoomable":false,"show_legend":true,"legendType":"scroll","legendOrientation":"bottom","x_axis_time_format":"smart_date","y_axis_format":"SMART_NUMBER","truncateXAxis":true,"y_axis_bounds":[null,null],"rich_tooltip":true,"tooltipTimeFormat":"smart_date","extra_form_data":{},"dashboards":[1],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: a370ebf6-9669-4899-8089-bf617f79f15b
+version: 1.0.0
+dataset_uuid: fda74b05-4b96-46ed-a0bc-ff27433afbaa

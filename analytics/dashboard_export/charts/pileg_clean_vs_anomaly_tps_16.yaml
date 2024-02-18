@@ -1,0 +1,52 @@
+slice_name: pileg_clean_vs_anomaly_tps
+description: null
+certified_by: null
+certification_details: null
+viz_type: pie
+params:
+  datasource: 4__table
+  viz_type: pie
+  slice_id: 16
+  groupby:
+  - <new column>
+  metric: count
+  adhoc_filters:
+  - clause: WHERE
+    comparator: No filter
+    datasourceWarning: false
+    expressionType: SIMPLE
+    filterOptionName: filter_h3g6frqh2yj_hvrgt2f8ox
+    isExtra: false
+    isNew: false
+    operator: TEMPORAL_RANGE
+    sqlExpression: null
+    subject: updated_at
+  row_limit: 100
+  sort_by_metric: true
+  color_scheme: d3Category20
+  show_labels_threshold: '0'
+  show_legend: true
+  legendType: scroll
+  legendOrientation: bottom
+  legendMargin: null
+  label_type: key_value_percent
+  number_format: ',d'
+  date_format: smart_date
+  show_labels: true
+  labels_outside: true
+  label_line: true
+  show_total: true
+  outerRadius: 68
+  donut: true
+  innerRadius: 40
+  extra_form_data: {}
+  dashboards:
+  - 2
+query_context: '{"datasource":{"id":4,"type":"table"},"force":false,"queries":[{"filters":[{"col":"updated_at","op":"TEMPORAL_RANGE","val":"No
+  filter"}],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["<new
+  column>"],"metrics":["count"],"orderby":[["count",false]],"annotation_layers":[],"row_limit":100,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{}}],"form_data":{"datasource":"4__table","viz_type":"pie","slice_id":16,"groupby":["<new
+  column>"],"metric":"count","adhoc_filters":[{"clause":"WHERE","comparator":"No filter","datasourceWarning":false,"expressionType":"SIMPLE","filterOptionName":"filter_h3g6frqh2yj_hvrgt2f8ox","isExtra":false,"isNew":false,"operator":"TEMPORAL_RANGE","sqlExpression":null,"subject":"updated_at"}],"row_limit":100,"sort_by_metric":true,"color_scheme":"d3Category20","show_labels_threshold":"0","show_legend":true,"legendType":"scroll","legendOrientation":"bottom","legendMargin":null,"label_type":"key_value_percent","number_format":",d","date_format":"smart_date","show_labels":true,"labels_outside":true,"label_line":true,"show_total":true,"outerRadius":68,"donut":true,"innerRadius":40,"extra_form_data":{},"dashboards":[2],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 1532e6ca-cf9f-4da2-a457-129fdeb1360b
+version: 1.0.0
+dataset_uuid: 9e4e11c9-9c52-4978-90c5-4989e81b166e

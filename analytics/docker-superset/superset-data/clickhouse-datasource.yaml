@@ -1,0 +1,4 @@
+databases:
+- database_name: Clickhouse
+  expose_in_sqllab: true
+  sqlalchemy_uri: clickhousedb://default@clickhouse:8123/default

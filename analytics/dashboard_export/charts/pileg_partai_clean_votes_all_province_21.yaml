@@ -1,0 +1,113 @@
+slice_name: pileg_partai_clean_votes_all_province
+description: null
+certified_by: null
+certification_details: null
+viz_type: echarts_timeseries_bar
+params:
+  datasource: 5__table
+  viz_type: echarts_timeseries_bar
+  slice_id: 21
+  x_axis: nama_prov
+  x_axis_sort_asc: true
+  x_axis_sort_series: name
+  x_axis_sort_series_ascending: true
+  metrics:
+  - aggregate: SUM
+    column:
+      advanced_data_type: null
+      certification_details: null
+      certified_by: null
+      column_name: votes
+      description: null
+      expression: null
+      filterable: true
+      groupby: true
+      id: 107
+      is_certified: false
+      is_dttm: false
+      python_date_format: null
+      type: INT64
+      type_generic: 0
+      verbose_name: null
+      warning_markdown: null
+    datasourceWarning: false
+    expressionType: SIMPLE
+    hasCustomLabel: false
+    label: SUM(votes)
+    optionName: metric_vtsuvbusla_6snne0xu4e7
+    sqlExpression: null
+  groupby:
+  - partai
+  contributionMode: row
+  adhoc_filters:
+  - clause: WHERE
+    comparator: No filter
+    datasourceWarning: false
+    expressionType: SIMPLE
+    filterOptionName: filter_h3g6frqh2yj_hvrgt2f8ox
+    isExtra: false
+    isNew: false
+    operator: TEMPORAL_RANGE
+    sqlExpression: null
+    subject: updated_at
+  - clause: WHERE
+    comparator: null
+    datasourceWarning: false
+    expressionType: SQL
+    filterOptionName: filter_4ysf85gxlri_fvhy31sr4ke
+    isExtra: false
+    isNew: false
+    operator: null
+    sqlExpression: tps_category = 'Clean' AND tps_partai_category = 'Clean'
+    subject: null
+  order_desc: true
+  row_limit: 10000
+  truncate_metric: true
+  show_empty_columns: true
+  comparison_type: values
+  annotation_layers: []
+  forecastPeriods: 10
+  forecastInterval: 0.8
+  orientation: vertical
+  x_axis_title: ''
+  x_axis_title_margin: 15
+  y_axis_title: ''
+  y_axis_title_margin: 15
+  y_axis_title_position: Left
+  sort_series_type: sum
+  sort_series_ascending: false
+  color_scheme: d3Category20
+  show_value: false
+  stack: Stack
+  only_total: true
+  percentage_threshold: 0
+  minorTicks: false
+  show_legend: true
+  legendType: plain
+  legendOrientation: bottom
+  legendMargin: 50
+  x_axis_time_format: smart_date
+  xAxisLabelRotation: 45
+  y_axis_format: SMART_NUMBER
+  logAxis: false
+  minorSplitLine: false
+  truncateXAxis: false
+  truncateYAxis: false
+  y_axis_bounds:
+  - null
+  - null
+  rich_tooltip: true
+  tooltipSortByMetric: true
+  tooltipTimeFormat: smart_date
+  extra_form_data: {}
+  dashboards:
+  - 2
+query_context: '{"datasource":{"id":5,"type":"table"},"force":false,"queries":[{"filters":[{"col":"updated_at","op":"TEMPORAL_RANGE","val":"No
+  filter"}],"extras":{"having":"","where":"(tps_category = ''Clean'' AND tps_partai_category
+  = ''Clean'')"},"applied_time_extras":{},"columns":[{"columnType":"BASE_AXIS","sqlExpression":"nama_prov","label":"nama_prov","expressionType":"SQL"},"partai"],"metrics":[{"aggregate":"SUM","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"votes","description":null,"expression":null,"filterable":true,"groupby":true,"id":107,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"INT64","type_generic":0,"verbose_name":null,"warning_markdown":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(votes)","optionName":"metric_vtsuvbusla_6snne0xu4e7","sqlExpression":null}],"orderby":[[{"aggregate":"SUM","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"votes","description":null,"expression":null,"filterable":true,"groupby":true,"id":107,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"INT64","type_generic":0,"verbose_name":null,"warning_markdown":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(votes)","optionName":"metric_vtsuvbusla_6snne0xu4e7","sqlExpression":null},false]],"annotation_layers":[],"row_limit":10000,"series_columns":["partai"],"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{},"time_offsets":[],"post_processing":[{"operation":"pivot","options":{"index":["nama_prov"],"columns":["partai"],"aggregates":{"SUM(votes)":{"operator":"mean"}},"drop_missing_columns":false}},{"operation":"rename","options":{"columns":{"SUM(votes)":null},"level":0,"inplace":true}},{"operation":"contribution","options":{"orientation":"row"}},{"operation":"flatten"}]}],"form_data":{"datasource":"5__table","viz_type":"echarts_timeseries_bar","slice_id":21,"x_axis":"nama_prov","x_axis_sort_asc":true,"x_axis_sort_series":"name","x_axis_sort_series_ascending":true,"metrics":[{"aggregate":"SUM","column":{"advanced_data_type":null,"certification_details":null,"certified_by":null,"column_name":"votes","description":null,"expression":null,"filterable":true,"groupby":true,"id":107,"is_certified":false,"is_dttm":false,"python_date_format":null,"type":"INT64","type_generic":0,"verbose_name":null,"warning_markdown":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(votes)","optionName":"metric_vtsuvbusla_6snne0xu4e7","sqlExpression":null}],"groupby":["partai"],"contributionMode":"row","adhoc_filters":[{"clause":"WHERE","comparator":"No
+  filter","datasourceWarning":false,"expressionType":"SIMPLE","filterOptionName":"filter_h3g6frqh2yj_hvrgt2f8ox","isExtra":false,"isNew":false,"operator":"TEMPORAL_RANGE","sqlExpression":null,"subject":"updated_at"},{"clause":"WHERE","comparator":null,"datasourceWarning":false,"expressionType":"SQL","filterOptionName":"filter_4ysf85gxlri_fvhy31sr4ke","isExtra":false,"isNew":false,"operator":null,"sqlExpression":"tps_category
+  = ''Clean'' AND tps_partai_category = ''Clean''","subject":null}],"order_desc":true,"row_limit":10000,"truncate_metric":true,"show_empty_columns":true,"comparison_type":"values","annotation_layers":[],"forecastPeriods":10,"forecastInterval":0.8,"orientation":"vertical","x_axis_title":"","x_axis_title_margin":15,"y_axis_title":"","y_axis_title_margin":15,"y_axis_title_position":"Left","sort_series_type":"sum","sort_series_ascending":false,"color_scheme":"d3Category20","show_value":false,"stack":"Stack","only_total":true,"percentage_threshold":0,"minorTicks":false,"show_legend":true,"legendType":"plain","legendOrientation":"bottom","legendMargin":50,"x_axis_time_format":"smart_date","xAxisLabelRotation":45,"y_axis_format":"SMART_NUMBER","logAxis":false,"minorSplitLine":false,"truncateXAxis":false,"truncateYAxis":false,"y_axis_bounds":[null,null],"rich_tooltip":true,"tooltipSortByMetric":true,"tooltipTimeFormat":"smart_date","extra_form_data":{},"dashboards":[2],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 12990941-d4ab-4dae-b427-f68bb22e7898
+version: 1.0.0
+dataset_uuid: b407b54b-80cb-4dbf-98ec-372638e492c4

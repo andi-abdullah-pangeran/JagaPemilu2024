@@ -1,0 +1,37 @@
+version: '3.8'
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server
+    user: "101:101"
+    container_name: clickhouse
+    hostname: clickhouse
+    volumes:
+      - ${PWD}/analytics/docker-superset/config/config.d/config.xml:/etc/clickhouse-server/config.d/config.xml
+      - ${PWD}/analytics/docker-superset/config/users.d/users.xml:/etc/clickhouse-server/users.d/users.xml
+      - ${PWD}/analytics/docker-superset/chdata/:/var/lib/clickhouse
+    ports:
+      - "127.0.0.1:8123:8123"
+      - "127.0.0.1:9000:9000"
+    healthcheck:
+      test: [ "CMD", "wget", "-q", "--spider", "localhost:8123/ping" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    platform: linux/arm64
+  superset:
+    image: superset:0.0.1
+    user: root
+    ports:
+      - "8088:8088"
+    volumes:
+      - ${PWD}/analytics/docker-superset/superset-data/:/data/
+    depends_on:
+      - clickhouse
+    environment:
+      - SUPERSET_SECRET_KEY=supersecret
+      - SUPERSET_INIT_ADMIN_EMAIL=pemilu@gmail.com
+      - SUPERSET_INIT_ADMIN_USERNAME=pemilu
+      - SUPERSET_INIT_ADMIN_PASSWORD=pemilu2024
+      - ACCESS_LOG_FILE=/dev/null
+      - SQLALCHEMY_DATABASE_URI=sqlite:////data/superset.db
+      - CLICKHOUSE_DATASOURCE_URI=clickhousedb://default@clickhouse:8123/default

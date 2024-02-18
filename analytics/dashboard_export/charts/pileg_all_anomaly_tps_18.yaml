@@ -1,0 +1,55 @@
+slice_name: pileg_all_anomaly_tps
+description: null
+certified_by: null
+certification_details: null
+viz_type: table
+params:
+  datasource: 7__table
+  viz_type: table
+  slice_id: 18
+  query_mode: raw
+  groupby: []
+  temporal_columns_lookup: {}
+  metrics:
+  - count
+  all_columns:
+  - nama_prov
+  - nama_cab
+  - nama_kec
+  - nama_kel
+  - nama_tps
+  - url_link
+  - admin_suara_sah
+  - sum_metrics_partai
+  - sum_metrics_summary
+  percent_metrics: []
+  adhoc_filters:
+  - clause: WHERE
+    comparator: No filter
+    datasourceWarning: false
+    expressionType: SIMPLE
+    filterOptionName: filter_h3g6frqh2yj_hvrgt2f8ox
+    isExtra: false
+    isNew: false
+    operator: TEMPORAL_RANGE
+    sqlExpression: null
+    subject: updated_at
+  order_by_cols: []
+  server_pagination: true
+  row_limit: 1000
+  server_page_length: 100
+  order_desc: true
+  table_timestamp_format: smart_date
+  show_cell_bars: true
+  color_pn: true
+  extra_form_data: {}
+  dashboards:
+  - 2
+query_context: '{"datasource":{"id":7,"type":"table"},"force":false,"queries":[{"filters":[{"col":"updated_at","op":"TEMPORAL_RANGE","val":"No
+  filter"}],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["nama_prov","nama_cab","nama_kec","nama_kel","nama_tps","url_link","admin_suara_sah","sum_metrics_partai","sum_metrics_summary"],"orderby":[],"annotation_layers":[],"row_limit":100,"row_offset":0,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{},"post_processing":[]},{"filters":[{"col":"updated_at","op":"TEMPORAL_RANGE","val":"No
+  filter"}],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["nama_prov","nama_cab","nama_kec","nama_kel","nama_tps","url_link","admin_suara_sah","sum_metrics_partai","sum_metrics_summary"],"orderby":[],"annotation_layers":[],"row_limit":0,"row_offset":0,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{},"post_processing":[],"is_rowcount":true}],"form_data":{"datasource":"7__table","viz_type":"table","slice_id":18,"query_mode":"raw","groupby":[],"temporal_columns_lookup":{},"metrics":["count"],"all_columns":["nama_prov","nama_cab","nama_kec","nama_kel","nama_tps","url_link","admin_suara_sah","sum_metrics_partai","sum_metrics_summary"],"percent_metrics":[],"adhoc_filters":[{"clause":"WHERE","comparator":"No
+  filter","datasourceWarning":false,"expressionType":"SIMPLE","filterOptionName":"filter_h3g6frqh2yj_hvrgt2f8ox","isExtra":false,"isNew":false,"operator":"TEMPORAL_RANGE","sqlExpression":null,"subject":"updated_at"}],"order_by_cols":[],"server_pagination":true,"row_limit":1000,"server_page_length":100,"order_desc":true,"table_timestamp_format":"smart_date","show_cell_bars":true,"color_pn":true,"extra_form_data":{},"dashboards":[2],"force":false,"result_format":"json","result_type":"full","include_time":false},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 795a98e3-a057-4b41-a040-32a2dac3088c
+version: 1.0.0
+dataset_uuid: a93661f9-5595-44a4-b4c5-f8cb5e506103

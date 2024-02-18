@@ -6,7 +6,7 @@ Inisiatif `#JagaPemilu2024` bertujuan untuk menganalisis data pemilu dengan meny
 ## Alat yang Digunakan
 - **Benthos** (https://www.benthos.dev/): Untuk pemrosesan stream dan manipulasi data.
 - **ClickHouse** (https://clickhouse.com/): Sebagai database analitik untuk menyimpan dan menanyakan data pemilu dengan efisien.
-- **Metabase** (https://www.metabase.com/): Untuk visualisasi dan penyaringan data.
+- **Superset** (https://superset.apache.org/): Untuk visualisasi dan penyaringan data.
 
 ## Metodologi
 Pendekatan kami melibatkan crawling data KPU terbaru, menyimpannya dalam database analitik, lalu visualisasi dan penyaringan data untuk mengidentifikasi dan memperbaiki ketidaksesuaian. Data TPS tidak valid diidentifikasi berdasarkan kriteria berikut:
@@ -51,35 +51,52 @@ Kami berharap proyek ini digunakan sebagai sarana untuk meningkatkan kesadaran d
 
 Dengan menggunakan proyek ini, Anda, sebagai pengguna, menyetujui bahwa Anda memahami dan menerima kondisi yang telah disebutkan di atas.
 
+
 ## Mencoba menjalankan sendiri
 
 Langkah 1: Persiapan
-- Pastikan anda memiliki Docker yang terinstall. 
+- Pastikan anda memiliki Docker yang terinstall.
 - Pastikan anda memiliki benthos yang terinstall. `brew install benthos`
 
 
-Langkah 2: Menjalankan ClickHouse Dan Metabase
-```shell
-make run-analytics
+### Membangun Gambar Docker Superset
+Untuk membangun gambar Docker Superset, jalankan:
+
+```bash
+make superset-build
 ```
 
-Langkah 3: Buka browser dan access metabase
-```shell
-http://localhost:3000/
-```
-user: pemilu@gmail.com
-password: pemilu2024
+### Menjalankan Aplikasi
 
-Langkah 4: Jalankan crawler TPS data
-```shell
- benthos -c crawler_suara.yaml
+Untuk memulai aplikasi, jalankan perintah berikut:
+
+```bash
+make run-apps
 ```
 
-untuk berhenti:
-Langkah 4: Jalankan crawler TPS data
-```shell
- make stop-analytics
+### Crawling Data Pilpres
+Untuk melakukan crawling data Pilpres, gunakan:
+
 ```
+make crawl-pilpres
+```
+
+### Crawling Data Pileg
+Untuk melakukan crawling data Pileg, gunakan:
+
+```
+make crawl-pileg
+```
+
+### Berhentikan Aplikasi
+
+Untuk mengakhiri aplikasi, jalankan perintah berikut:
+
+```bash
+make stop-apps
+```
+
+
 
 ## Bergabung dan Kontribusi
 Kami mengundang siapa saja untuk bergabung dalam inisiatif ini dan bersama-sama mengawal proses pemilu di Indonesia. Mari bergabung dalam upaya kami untuk mendukung demokrasi Indonesia yang lebih baik!

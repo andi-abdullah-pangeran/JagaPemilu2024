@@ -1,0 +1,16 @@
+database_name: Clickhouse
+sqlalchemy_uri: clickhousedb://default@clickhouse:8123/default
+cache_timeout: null
+expose_in_sqllab: true
+allow_run_async: false
+allow_ctas: false
+allow_cvas: false
+allow_dml: false
+allow_file_upload: false
+extra:
+  metadata_params: {}
+  engine_params: {}
+  metadata_cache_timeout: {}
+  schemas_allowed_for_file_upload: []
+uuid: 7cf220f9-41fa-4bda-a924-6109f978d740
+version: 1.0.0

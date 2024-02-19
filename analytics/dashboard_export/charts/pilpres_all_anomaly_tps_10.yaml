@@ -1,0 +1,60 @@
+slice_name: pilpres_all_anomaly_tps
+description: null
+certified_by: null
+certification_details: null
+viz_type: table
+params:
+  datasource: 1__table
+  viz_type: table
+  slice_id: 5
+  query_mode: raw
+  groupby: []
+  temporal_columns_lookup:
+    updated_at: true
+  all_columns:
+  - nama_prov
+  - nama_cab
+  - nama_kec
+  - nama_kel
+  - nama_tps
+  - url_link
+  - total_suara_capres_01
+  - total_suara_capres_02
+  - total_suara_capres_03
+  - suara_sah
+  percent_metrics: []
+  adhoc_filters:
+  - clause: WHERE
+    comparator: Anomaly
+    datasourceWarning: false
+    expressionType: SIMPLE
+    filterOptionName: filter_u7q9wlwjcmn_o57mwu7mbir
+    isExtra: false
+    isNew: false
+    operator: ==
+    operatorId: EQUALS
+    sqlExpression: null
+    subject: tps_category
+  - clause: WHERE
+    subject: updated_at
+    operator: TEMPORAL_RANGE
+    comparator: No filter
+    expressionType: SIMPLE
+  order_by_cols:
+  - '["total_votes", false]'
+  row_limit: 5000
+  server_page_length: 10
+  order_desc: true
+  table_timestamp_format: smart_date
+  show_cell_bars: true
+  color_pn: true
+  extra_form_data: {}
+  dashboards:
+  - 1
+query_context: '{"datasource":{"id":1,"type":"table"},"force":false,"queries":[{"filters":[{"col":"tps_category","op":"==","val":"Anomaly"},{"col":"updated_at","op":"TEMPORAL_RANGE","val":"No
+  filter"}],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["nama_prov","nama_cab","nama_kec","nama_kel","nama_tps","url_link","total_suara_capres_01","total_suara_capres_02","total_suara_capres_03","suara_sah"],"orderby":[["total_votes",false]],"annotation_layers":[],"row_limit":5000,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{},"post_processing":[]}],"form_data":{"datasource":"1__table","viz_type":"table","slice_id":5,"query_mode":"raw","groupby":[],"temporal_columns_lookup":{"updated_at":true},"all_columns":["nama_prov","nama_cab","nama_kec","nama_kel","nama_tps","url_link","total_suara_capres_01","total_suara_capres_02","total_suara_capres_03","suara_sah"],"percent_metrics":[],"adhoc_filters":[{"clause":"WHERE","comparator":"Anomaly","datasourceWarning":false,"expressionType":"SIMPLE","filterOptionName":"filter_u7q9wlwjcmn_o57mwu7mbir","isExtra":false,"isNew":false,"operator":"==","operatorId":"EQUALS","sqlExpression":null,"subject":"tps_category"},{"clause":"WHERE","subject":"updated_at","operator":"TEMPORAL_RANGE","comparator":"No
+  filter","expressionType":"SIMPLE"}],"order_by_cols":["[\"total_votes\", false]"],"row_limit":5000,"server_page_length":10,"order_desc":true,"table_timestamp_format":"smart_date","show_cell_bars":true,"color_pn":true,"extra_form_data":{},"dashboards":[1],"force":false,"result_format":"json","result_type":"full","include_time":false},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 49494f48-2583-4463-bb51-f0aad655451b
+version: 1.0.0
+dataset_uuid: c8c9b80b-3b45-4c47-acd0-cb36291b1985

@@ -1,0 +1,73 @@
+table_name: view_anomaly_candidate_votes_with_ranges
+main_dttm_col: null
+description: null
+default_endpoint: null
+offset: 0
+cache_timeout: null
+schema: default
+sql: "SELECT\n    candidate,\n    CASE\n        WHEN total_suara BETWEEN 0 AND 300\
+  \ THEN '0-300'\n        WHEN total_suara BETWEEN 301 AND 400 THEN '300-400'\n  \
+  \      WHEN total_suara BETWEEN 401 AND 500 THEN '400-500'\n        WHEN total_suara\
+  \ BETWEEN 501 AND 1000 THEN '500-1000'\n        WHEN total_suara >= 1000 THEN '>\
+  \ 1000'\n        ELSE 'Other' -- For totals not within the specified ranges\n  \
+  \  END AS suara_range,\n    COUNT(*) AS count,\n    SUM(total_suara) AS votes\n\
+  FROM view_candidate_summary\nWHERE tps_category = 'Anomaly'\nGROUP BY candidate,\
+  \ suara_range\nORDER BY suara_range"
+params: null
+template_params: null
+filter_select_enabled: true
+fetch_values_predicate: null
+extra: null
+normalize_columns: false
+always_filter_main_dttm: false
+uuid: fda74b05-4b96-46ed-a0bc-ff27433afbaa
+metrics:
+- metric_name: count
+  verbose_name: COUNT(*)
+  metric_type: count
+  expression: COUNT(*)
+  description: null
+  d3format: null
+  currency: null
+  extra:
+    warning_markdown: ''
+  warning_text: null
+columns:
+- column_name: count
+  verbose_name: null
+  is_dttm: false
+  is_active: true
+  type: UInt64
+  advanced_data_type: null
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra: {}
+- column_name: suara_range
+  verbose_name: null
+  is_dttm: false
+  is_active: true
+  type: String
+  advanced_data_type: null
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra: {}
+- column_name: candidate
+  verbose_name: null
+  is_dttm: false
+  is_active: true
+  type: String
+  advanced_data_type: null
+  groupby: true
+  filterable: true
+  expression: null
+  description: null
+  python_date_format: null
+  extra: {}
+version: 1.0.0
+database_uuid: 7cf220f9-41fa-4bda-a924-6109f978d740

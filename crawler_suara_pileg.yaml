@@ -1,0 +1,178 @@
+## this using benthos https://www.benthos.dev/docs/about
+
+logger:
+  level: WARN
+  format: json
+  add_timestamp: true
+  static_fields:
+    '@service': crawler
+
+input:
+  resource: ambil_wilayah
+
+input_resources:
+  - label: ambil_wilayah
+    file:
+      paths:
+        - master_tps/*
+      codec: lines
+
+pipeline:
+  processors:
+    - mapping: |-
+        meta url_link = "https://sirekap-obj-data.kpu.go.id/pemilu/hhcw/pdpr/" + this.kode_prov + "/" + this.kode_cab + "/" + this.kode_kec + "/" + this.kode_kel + "/" + this.kode_tps + ".json"
+    - resource: ambil_suara
+    - mapping: |-
+        root = if this.metrics == null {
+          deleted()
+        } else {
+          this
+        }
+    - mapping: |-
+        root = this
+        
+        root.all_partai = this.caleg.keys()    
+        
+        root.metrics_partai = root.all_partai.map_each(key -> {
+              "key": key,
+              "value": this.metrics.get(key).jml_suara_partai + this.caleg.get(key).without("null").key_values().map_each(pair -> pair.value).sum(),
+          })
+        
+        root.metrics_summary = root.all_partai.map_each(key -> {
+              "key": key,
+              "value": this.metrics.get(key).jml_suara_total,
+          })
+        
+        root.sum_metrics_partai = root.metrics_partai.map_each(pair -> pair.value).sum()
+        root.sum_metrics_summary = root.metrics_summary.map_each(pair -> pair.value).sum()
+        
+        root.metrics_summary_key = root.metrics_summary.map_each(pair -> pair.key)
+        root.metrics_summary_value = root.metrics_summary.map_each(pair -> pair.value)
+        
+        root.metrics_partai_key = root.metrics_partai.map_each(pair -> pair.key)
+        root.metrics_partai_value = root.metrics_partai.map_each(pair -> pair.value)
+        
+        root.metrics_partai = deleted()
+        root.metrics_summary = deleted()
+        root.caleg = deleted()
+        root.metrics = deleted()
+        root.all_partai = deleted()
+
+processor_resources:
+  - label: ambil_suara
+    branch:
+      request_map: |-
+        root = ""
+      processors:
+        - http:
+            url: ${!meta("url_link")}
+            verb: GET
+      result_map: |-
+        root.metrics = this.chart
+        root.images = this.images
+        root.administrasi = this.administrasi
+        root.kode_dapil = this.kode_dapil
+        root.caleg = this.caleg
+
+output_resources:
+  - label: print_log
+    stdout:
+      codec: lines
+  - label: insert_to_clickhouse
+    sql_raw:
+      driver: "clickhouse"
+      dsn: clickhouse://default:@127.0.0.1:9000/default
+      args_mapping: |
+        root = [
+          now().ts_format("2006-01-02 15:04:05", "Asia/Jakarta"),
+          this.kode_prov,
+          this.nama_prov,
+          this.kode_cab,
+          this.nama_cab,
+          this.kode_kec,
+          this.nama_kec,
+          this.kode_kel,
+          this.nama_kel,
+          this.kode_tps,
+          this.nama_tps,
+          this.kode_dapil,
+          this.images,
+          metadata("url_link"),
+          this.administrasi.pemilih_dpt_j,
+          this.administrasi.pemilih_dpt_l,
+          this.administrasi.pemilih_dpt_p,
+          this.administrasi.pengguna_dpt_j,
+          this.administrasi.pengguna_dpt_l,
+          this.administrasi.pengguna_dpt_p,
+          this.administrasi.pengguna_dptb_j,
+          this.administrasi.pengguna_dptb_l,
+          this.administrasi.pengguna_dptb_p,
+          this.administrasi.pengguna_non_dpt_j,
+          this.administrasi.pengguna_non_dpt_l,
+          this.administrasi.pengguna_non_dpt_p,
+          this.administrasi.pengguna_total_j,
+          this.administrasi.pengguna_total_l,
+          this.administrasi.pengguna_total_p,
+          this.administrasi.suara_sah,
+          this.administrasi.suara_tidak_sah,
+          this.administrasi.suara_total,
+          this.sum_metrics_partai,
+          this.sum_metrics_summary,
+          this.metrics_summary_key,
+          this.metrics_summary_value,
+          this.metrics_partai_key,
+          this.metrics_partai_value
+        ]
+      query: |
+        INSERT INTO fact_pileg (
+              updated_at,
+              kode_prov,
+              nama_prov,
+              kode_cab,
+              nama_cab,
+              kode_kec,
+              nama_kec,
+              kode_kel,
+              nama_kel,
+              kode_tps,
+              nama_tps,
+              kode_dapil,
+              images,
+              url_link,
+              admin_pemilih_dpt_j,
+              admin_pemilih_dpt_l,
+              admin_pemilih_dpt_p,
+              admin_pengguna_dpt_j,
+              admin_pengguna_dpt_l,
+              admin_pengguna_dpt_p,
+              admin_pengguna_dptb_j,
+              admin_pengguna_dptb_l,
+              admin_pengguna_dptb_p,
+              admin_pengguna_non_dpt_j,
+              admin_pengguna_non_dpt_l,
+              admin_pengguna_non_dpt_p,
+              admin_pengguna_total_j,
+              admin_pengguna_total_l,
+              admin_pengguna_total_p,
+              admin_suara_sah,
+              admin_suara_tidak_sah,
+              admin_suara_total,
+              sum_metrics_partai,
+              sum_metrics_summary,
+              metricsSummaryMap.metrics_key,
+              metricsSummaryMap.metrics_value,
+              metricsPartaiMap.metrics_key,
+              metricsPartaiMap.metrics_value
+        ) VALUES (
+          ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+        )
+
+output:
+  broker:
+    pattern: fan_out
+    outputs:
+      - resource: insert_to_clickhouse
+      - resource: print_log
+        processors:
+          - mapping: |
+              root = this.nama_prov + "/" + this.nama_cab + "/" + this.nama_kec + "/" + this.nama_kel + "/" + this.nama_tps

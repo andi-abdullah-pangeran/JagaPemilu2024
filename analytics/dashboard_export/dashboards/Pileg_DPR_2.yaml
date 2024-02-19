@@ -1,0 +1,483 @@
+dashboard_title: Pileg DPR
+description: null
+css: ''
+slug: null
+certified_by: ''
+certification_details: ''
+published: false
+uuid: c5319201-0c87-4f51-bc17-710f5e1ace2d
+position:
+  CHART-explore-12-1:
+    children: []
+    id: CHART-explore-12-1
+    meta:
+      chartId: 12
+      height: 19
+      sliceName: pileg_total_tps
+      uuid: 3555174d-90b6-4de1-b02d-b45799669d35
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-FXVJNbGh_c
+    type: CHART
+  CHART-explore-13-1:
+    children: []
+    id: CHART-explore-13-1
+    meta:
+      chartId: 13
+      height: 19
+      sliceName: pileg_total_votes
+      uuid: 3e8bc433-888e-413d-99b8-e8efc7fbf366
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-FXVJNbGh_c
+    type: CHART
+  CHART-explore-14-1:
+    children: []
+    id: CHART-explore-14-1
+    meta:
+      chartId: 14
+      height: 50
+      sliceName: pileg_partai_all_votes
+      uuid: 8b3e3b71-5942-4c33-9bb9-fce1758b3b92
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-xMhtUqrZDn
+    type: CHART
+  CHART-explore-15-1:
+    children: []
+    id: CHART-explore-15-1
+    meta:
+      chartId: 15
+      height: 50
+      sliceName: pileg_clean_vs_anomaly_votes
+      uuid: ae528ffd-5cc8-4a7a-bc9d-38aed0beca8a
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-_GKfSOFXVO
+    type: CHART
+  CHART-explore-16-1:
+    children: []
+    id: CHART-explore-16-1
+    meta:
+      chartId: 16
+      height: 50
+      sliceName: pileg_clean_vs_anomaly_tps
+      uuid: 1532e6ca-cf9f-4da2-a457-129fdeb1360b
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-_GKfSOFXVO
+    type: CHART
+  CHART-explore-17-1:
+    children: []
+    id: CHART-explore-17-1
+    meta:
+      chartId: 17
+      height: 50
+      sliceName: pileg_clean_vs_anomaly_votes (suara partai)
+      uuid: de4ca302-3989-42b4-ad0d-be573b1714f3
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-cNzgn9HApf
+    type: CHART
+  CHART-explore-18-1:
+    children: []
+    id: CHART-explore-18-1
+    meta:
+      chartId: 18
+      height: 67
+      sliceName: pileg_all_anomaly_tps
+      uuid: 795a98e3-a057-4b41-a040-32a2dac3088c
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-4SQVHKMsHf
+    type: CHART
+  CHART-explore-19-1:
+    children: []
+    id: CHART-explore-19-1
+    meta:
+      chartId: 19
+      height: 50
+      sliceName: pileg_clean_vs_anomaly_tps (suara partai)
+      uuid: ed14ddd8-4bdb-4347-adc4-dc55969dfe07
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-cNzgn9HApf
+    type: CHART
+  CHART-explore-20-1:
+    children: []
+    id: CHART-explore-20-1
+    meta:
+      chartId: 20
+      height: 50
+      sliceName: pileg_partai_clean_votes
+      uuid: 1c543b25-cb5c-4f1c-a597-2b1566d5e434
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-xMhtUqrZDn
+    type: CHART
+  CHART-explore-21-1:
+    children: []
+    id: CHART-explore-21-1
+    meta:
+      chartId: 21
+      height: 67
+      sliceName: pileg_partai_clean_votes_all_province
+      uuid: 12990941-d4ab-4dae-b427-f68bb22e7898
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-cVtbnDBe9_
+    type: CHART
+  CHART-explore-22-1:
+    children: []
+    id: CHART-explore-22-1
+    meta:
+      chartId: 22
+      height: 58
+      sliceName: pileg_all_anomaly_partai
+      uuid: 80838e1d-a0ed-403d-8ce2-3e15b41fef1e
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-cz0rVMlytu
+    type: CHART
+  CHART-explore-23-1:
+    children: []
+    id: CHART-explore-23-1
+    meta:
+      chartId: 23
+      height: 18
+      sliceName: pileg_clean_total_votes
+      uuid: 8c244ea5-4f24-431c-be0a-515f1438cf2a
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-FXVJNbGh_c
+    type: CHART
+  DASHBOARD_VERSION_KEY: v2
+  GRID_ID:
+    children:
+    - ROW-FXVJNbGh_c
+    - ROW-_GKfSOFXVO
+    - ROW-cNzgn9HApf
+    - ROW-4SQVHKMsHf
+    - ROW-cz0rVMlytu
+    - ROW-xMhtUqrZDn
+    - ROW-cVtbnDBe9_
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: Pileg DPR
+    type: HEADER
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW-4SQVHKMsHf:
+    children:
+    - CHART-explore-18-1
+    id: ROW-4SQVHKMsHf
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-FXVJNbGh_c:
+    children:
+    - CHART-explore-12-1
+    - CHART-explore-13-1
+    - CHART-explore-23-1
+    id: ROW-FXVJNbGh_c
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-_GKfSOFXVO:
+    children:
+    - CHART-explore-16-1
+    - CHART-explore-15-1
+    id: ROW-_GKfSOFXVO
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-cNzgn9HApf:
+    children:
+    - CHART-explore-19-1
+    - CHART-explore-17-1
+    id: ROW-cNzgn9HApf
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-cVtbnDBe9_:
+    children:
+    - CHART-explore-21-1
+    id: ROW-cVtbnDBe9_
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-cz0rVMlytu:
+    children:
+    - CHART-explore-22-1
+    id: ROW-cz0rVMlytu
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-xMhtUqrZDn:
+    children:
+    - CHART-explore-14-1
+    - CHART-explore-20-1
+    id: ROW-xMhtUqrZDn
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+metadata:
+  chart_configuration:
+    '14':
+      id: 14
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 15
+        - 16
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 22
+        - 23
+    '15':
+      id: 15
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 16
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 22
+        - 23
+    '16':
+      id: 16
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 15
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 22
+        - 23
+    '17':
+      id: 17
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 18
+        - 19
+        - 20
+        - 21
+        - 22
+        - 23
+    '18':
+      id: 18
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        - 19
+        - 20
+        - 21
+        - 22
+        - 23
+    '19':
+      id: 19
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        - 18
+        - 20
+        - 21
+        - 22
+        - 23
+    '20':
+      id: 20
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        - 18
+        - 19
+        - 21
+        - 22
+        - 23
+    '21':
+      id: 21
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        - 18
+        - 19
+        - 20
+        - 22
+        - 23
+    '22':
+      id: 22
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 23
+  global_chart_configuration:
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    chartsInScope:
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+  color_scheme: ''
+  refresh_frequency: 0
+  expanded_slices: {}
+  label_colors:
+    Clean: '#80e891'
+    Anomaly: '#FF5733'
+    PKB: '#00764A'
+    Gerindra: '#f0c85b'
+    PDIP: '#D52027'
+    Golkar: '#FFF051'
+    Nasdem: '#242464'
+    Partai Buruh: '#FF6800'
+    Partai Gelora: '#02CCFF'
+    PKS: '#FC5100'
+    PKN: '#FE0000'
+    Hanura: '#EE9B11'
+    Partai Garuda: '#01274D'
+    PAN: '#0054A3'
+    PBB: '#00331C'
+    Demokrat: '#004C9A'
+    PSI: '#E62128'
+    PERINDO: '#243E80'
+    PPP: '#036302'
+    PNA: '#FE6F37'
+    Gabthat: '#000000'
+    PDA: '#6ABDF7'
+    Partai Aceh: '#DA2526'
+    PAS Aceh: '#017C3A'
+    SIRA: '#35A9E2'
+    Partai Ummat: '#000000'
+  timed_refresh_immune_slices: []
+  cross_filters_enabled: true
+  default_filters: '{}'
+  shared_label_colors:
+    Clean: '#80e891'
+    Anomaly: '#FF5733'
+  color_scheme_domain: []
+version: 1.0.0

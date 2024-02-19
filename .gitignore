@@ -2,4 +2,5 @@
 backup/
 sample_tps/
 analytics/docker/chdata/
+analytics/docker-superset/chdata/
 

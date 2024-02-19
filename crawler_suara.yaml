@@ -91,7 +91,7 @@ output_resources:
           this.administrasi.suara_total
         ]
       query: |
-        INSERT INTO suara_pemilu_2024 (
+        INSERT INTO fact_pilpres (
               updated_at,
               kode_prov,
               nama_prov,
